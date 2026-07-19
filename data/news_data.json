@@ -1,0 +1,814 @@
+{
+  "last_updated": "2026-07-19T12:43:50.001028+00:00",
+  "ai_active": false,
+  "executive_brief": {
+    "headline": "P2P Market Daily Intelligence Briefing",
+    "summary": "This briefing aggregates the latest regulatory updates, business expansions, and technology deployments in Singapore's Point-to-Point (P2P) transport market and global ride-hailing networks. Currently operating in standard tracking mode. To unlock senior executive-level analysis, strategic takeaways, and theme mappings, configure your Google Gemini API Key in your repository secrets.",
+    "key_themes": [
+      {
+        "theme": "Local Regulatory Adjustments",
+        "explanation": "Singapore's LTA continues monitoring fair-fare frameworks and ride-hailing supply levels."
+      },
+      {
+        "theme": "Autonomous Vehicle Advancements",
+        "explanation": "Global players focus on autonomous taxi trials, fleet operations, and safety standards."
+      },
+      {
+        "theme": "Consulting Perspectives",
+        "explanation": "Leading research papers underline the shift toward electric fleets and multimodal transport orchestration."
+      }
+    ],
+    "strategic_takeaways": [
+      "Monitor ongoing LTA review announcements regarding taxi driver vocational license reforms and taxi stand utilization.",
+      "Assess strategic alignment with robotaxi platform providers as autonomous commercialization speeds up in major global hubs.",
+      "Incorporate consulting methodologies around vehicle fleet utilization modeling to hedge against fuel and labor volatility."
+    ]
+  },
+  "articles": [
+    {
+      "title": "AI, affordability shake up customer car-buying strategies",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUGcxMHFBQ2dxRVlxVUJzWUVkRVEwQndLdDVSU05DUzREMGoyUl9WeWpPS0t1YTBhSEo0cFk5SjY2SjNHMkpkSGllTkdYdE9qeDhKd2ZzNEoxNlg2cHpSUk85d2RUazFGb3Q3R2ZKd0pSd0IySlFWMnlZbUV3VmdYVUpYb3FSc3lsUnlJ?oc=5",
+      "published_at": "2026-07-14T17:04:00",
+      "snippet": "AI, affordability shake up customer car-buying strategies&nbsp;&nbsp;Automotive News",
+      "source": "Automotive News",
+      "category": "Consulting Opinions",
+      "ai_summary": "AI, affordability shake up customer car-buying strategies&nbsp;&nbsp;Automotive News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Our Insights on Future Mobility",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOWluT0FpSE0wemhVVGxCSUVKV2ZiU2hCVHRNcTRyemtzUUpIcWZ5VVVHR1V0RDJ5VU5UQ3JLS0ZES0hSNTJHcTh6a05ZOWJ2clZ2TUlNNC1KeEtoZ1J6N0VCX3V3MVVCbTJrTWg0d3F0Nk1BOTlUTkVEYS1yYzh5SUtsVXpIajEzdkE?oc=5",
+      "published_at": "2026-07-14T12:00:00",
+      "snippet": "Our Insights on Future Mobility&nbsp;&nbsp;McKinsey & Company",
+      "source": "McKinsey & Company",
+      "category": "Consulting Opinions",
+      "ai_summary": "Our Insights on Future Mobility&nbsp;&nbsp;McKinsey & Company",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "How consumers are reshaping the future of mobility",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObUlqZmo0aDZvWktVQ1c1SFJPd2RQcTVFbzJWVnMySzU0dERPbERia2FNbFdNZ0FDaXJBOTRpNGVSejlheVVCd2RKOTh1eTBGbFRVYUt1anh1N2xaU1NvZ0w0M3hNSUQxZWVhbUlKYllrb2I3OW5sT3ZjZ29QalV6d0hLMTJ6YU5Wb09EdU1jVVFoV0h0YkkxV0pWMmQ5TkN5eFlNUDY3YVpKamdCMnRWVExIaXNlZERCclZDRTQ0WmlXR0xVSWxERGRVd2JuQQ?oc=5",
+      "published_at": "2026-07-14T00:00:00",
+      "snippet": "How consumers are reshaping the future of mobility&nbsp;&nbsp;McKinsey & Company",
+      "source": "McKinsey & Company",
+      "category": "Consulting Opinions",
+      "ai_summary": "How consumers are reshaping the future of mobility&nbsp;&nbsp;McKinsey & Company",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "Number of users of ride-hailing & taxi in Indonesia from 2017 to 2030",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTEQ4NzZwNjk2cFdHZ0lKcnVCWDNkd1FCVnJIRFdtOGdlYmpyN2QzRWZrMk1HZWc5UUtvRTRHbjJqQy1UV19PVDNhZ1ZpV3VIUUVVVDFpOWNNR3ZvSmtDMlZXcTE1Z2dibURpM3Q4NG9ZTC1CX0wzVVZjNFJrOXdTOVV3WkhaRnByNExwNnhsWXFoNm5LZXc?oc=5",
+      "published_at": "2026-07-09T07:00:00",
+      "snippet": "Number of users of ride-hailing & taxi in Indonesia from 2017 to 2030&nbsp;&nbsp;Statista",
+      "source": "Statista",
+      "category": "Global P2P",
+      "ai_summary": "Number of users of ride-hailing & taxi in Indonesia from 2017 to 2030&nbsp;&nbsp;Statista",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Tada bets on zero commissions to upend global ride-hailing industry",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwUWM3S0Jtb3QzbWdrNjZNcGswZmpXLXpTUzhDNDhPc2d6V0drNjRZZ1hzS215eUZYdmlsMGtFNTVFVEs0WF9Cd1l0T1dOYjc0c0l2RzBmRQ?oc=5",
+      "published_at": "2026-07-09T05:01:46",
+      "snippet": "Tada bets on zero commissions to upend global ride-hailing industry&nbsp;&nbsp;The Korea Herald",
+      "source": "The Korea Herald",
+      "category": "Global P2P",
+      "ai_summary": "Tada bets on zero commissions to upend global ride-hailing industry&nbsp;&nbsp;The Korea Herald",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Is UBER's AV Push Reason Enough to Invest in the Stock Currently?",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2tGamExazhqTzhLUlZuYVllaVU5UUlrSG9HVlp5eHJ3X0NUb1hoWk9IUVkyaGZCMTVHVGF2OEVOa1BfME1ZdWtvMzR4R3BjMEZqNk1lM0JmNHpwbHVjbG5kbXpobG9YN2hDMFdLSGdMZmtTNDBQU1pXTDVWclFnbDNUeWdSbVhHVHEzZTJGT3U5ZDZDeXJxQlNhb2x5VDJ4Y1J4YjVqVk9MRG80TFplb1BiSkgyWnZZMFVQRQ?oc=5",
+      "published_at": "2026-07-02T14:25:00",
+      "snippet": "Is UBER's AV Push Reason Enough to Invest in the Stock Currently?&nbsp;&nbsp;TradingView",
+      "source": "TradingView",
+      "category": "Global P2P",
+      "ai_summary": "Is UBER's AV Push Reason Enough to Invest in the Stock Currently?&nbsp;&nbsp;TradingView",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "The Shuttle Economy: Why Corporate and Institutional Transport Is Quietly Becoming a Global Software Category",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOanotMnE5R3VvMXJBejVtaDJ3cHVFcWExTXNRVS1TTDNNNnM2MVVZZnBIa1FsbkV0aDljTGpFYmZUWmJaTDdGMHdsc3JsOE45ZE8xTE91MHp4eDhya1EtSGNINHFnNWVQd0Zyb1JnY2lQV0haWHIwTVRtOVRyTU9RWnd6dDN0M1VXN1M1aFNyaUVESmhjRl90eHF1aXVRNUJSMHIzODVhdzhKYXBNMVdGdmxqY3lwdTNfdWFscEJEUy1mUVZQYjZNMFc0elhtZw?oc=5",
+      "published_at": "2026-06-29T15:48:49",
+      "snippet": "The Shuttle Economy: Why Corporate and Institutional Transport Is Quietly Becoming a Global Software Category&nbsp;&nbsp;TechBullion",
+      "source": "TechBullion",
+      "category": "Global P2P",
+      "ai_summary": "The Shuttle Economy: Why Corporate and Institutional Transport Is Quietly Becoming a Global Software Category&nbsp;&nbsp;TechBullion",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Electric Vehicle (EV) Taxi Market Size, Share | Forecast [2034]",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWUyNjNqbEhKOWdIcW0tbEFHWXBtUndya0pPVFBVVkZlR1JsX0ZrUXZmVnNjRzB3ckk0R19wSGNHb0dyN0Fna3pYRUpmQ1FJTWVrZzJYZVhEMzNTWHEwN3BGeTAzUU1odkk1UnZtZzFhTUZ0OVRQVFdDRmJDSno4WGNiRUY?oc=5",
+      "published_at": "2026-06-29T07:00:00",
+      "snippet": "Electric Vehicle (EV) Taxi Market Size, Share | Forecast [2034]&nbsp;&nbsp;Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "category": "Global P2P",
+      "ai_summary": "Electric Vehicle (EV) Taxi Market Size, Share | Forecast [2034]&nbsp;&nbsp;Fortune Business Insights",
+      "sentiment": "Neutral",
+      "tags": [
+        "EV"
+      ]
+    },
+    {
+      "title": "Driving Into the Autonomous Age: How Self-Driving Vehicles Are Transforming Global Transportation",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX2VZNjlQdGpuZWw0aFVNMjVianRhVUVuOG1nSTlEMlFkczZUZnBRVTBTT1dGVll0blp5cjRYVmJ1OFFTTDdmLTFMQXdzZzY2QUZKUEhzZmJ2OW04dThrUkg5VzFwMFZnQWFQX2tJWEM4SVlNbS16dzlHaWJaLS1rZUllcmE3MEdMZWlQWXpnMmpiV1JOMnpUM0ZDbmtGLXpvZU1JeVctNGxXTzdqNmxidmw2b3RodkliNWFPSTFVQlM?oc=5",
+      "published_at": "2026-06-19T20:44:18",
+      "snippet": "Driving Into the Autonomous Age: How Self-Driving Vehicles Are Transforming Global Transportation&nbsp;&nbsp;Vocal",
+      "source": "Vocal",
+      "category": "Global P2P",
+      "ai_summary": "Driving Into the Autonomous Age: How Self-Driving Vehicles Are Transforming Global Transportation&nbsp;&nbsp;Vocal",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Uber bets on its global repute in Nepal's crowded ride-hailing sector",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaTkzWHZveVc1LUZ6aGdqQmM5YXNvNjEtdG5aaVYzcDZVbFVwVXRQTE1LREFHeE9OSDNyMW41YWlJN1lOMDFnLTlGY3QxR05mSmlVcmRwWENaM0RlUndjMnpnMmc0TExXZ0l0dFV2OWF1cGVKSkppRDV5MTVnY09DUTZHUVZzODVHN1N4REpzU2U2N01lTUt6UmE4eGlITm1seGJTY3lsRjA4dWpUOFBvbTFkRVlLYm1T?oc=5",
+      "published_at": "2026-06-18T07:00:00",
+      "snippet": "Uber bets on its global repute in Nepal's crowded ride-hailing sector&nbsp;&nbsp;Nikkei Asia",
+      "source": "Nikkei Asia",
+      "category": "Global P2P",
+      "ai_summary": "Uber bets on its global repute in Nepal's crowded ride-hailing sector&nbsp;&nbsp;Nikkei Asia",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Uber, Stellantis and Wayve partner on global robotaxi rollout",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSUcxQ0lVcnRic3hjLXE3MnM5azJxQ1RSVTFNWEVhdGpETUp3THFDa1JfS3Mya3pHUm1Eejh4TGtCNEo0V1hNRUZBWGxxbUZNWkgzWFVXeDRlbG9uOFhMaS1KYXI2emc4d05BVEd2QXZSdFZSU0lsbDNldmdLTlZISWdwcTdWVF9LYXE4dE1UMHpxZDEycFdoMDhxTDF0UUhlNlNxM081SjFLd1JEUlVOSEV4SC1HT0NLa2d5ZjNzc0tTeTZScG9KOXY4NjBwN0pKNEZYa1ViSGJxbU8yXy1BQ2hJMExtajMtYWVqdTVsd3play1C?oc=5",
+      "published_at": "2026-06-17T07:00:00",
+      "snippet": "Uber, Stellantis and Wayve partner on global robotaxi rollout&nbsp;&nbsp;MSN",
+      "source": "MSN",
+      "category": "Global P2P",
+      "ai_summary": "Uber, Stellantis and Wayve partner on global robotaxi rollout&nbsp;&nbsp;MSN",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "The Future of Urban Mobility: Why the Global Taxi Market Is Racing Toward a $593 Billion Opportunity",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSzhHSG4tcW52MFpzYTNVX19LRkhxcTN3OHh6QWN6LVBzM2ZrajdDRlRaUUFhd2s4d19tMVlhWUdRY29JdklfMlZYWVIzN2tVbkZIc1lPR2tFNWVydjFDc2ttbXhFaGFtUUpzczh3Tk1FVFVsTmU1V0hwb0Nhc29wZElHSG1Zb1ZhdE1CZzlHMjRyb2t5VnppaThmbUtZbVFETmhfaWNWb2JFVHhCRHVaZ3h5ZHkxQTdadFJQNFNaZnpzVmc?oc=5",
+      "published_at": "2026-06-03T11:44:44",
+      "snippet": "The Future of Urban Mobility: Why the Global Taxi Market Is Racing Toward a $593 Billion Opportunity&nbsp;&nbsp;Vocal",
+      "source": "Vocal",
+      "category": "Global P2P",
+      "ai_summary": "The Future of Urban Mobility: Why the Global Taxi Market Is Racing Toward a $593 Billion Opportunity&nbsp;&nbsp;Vocal",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "How Bharat Taxi is transforming India’s ride-hailing sector with a zero-commission cooperative model for drivers",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUmdQUGxWT29pV0pGczZLTWxFWmpVUk9sMnZKLXdaVVdlNUVRc2ZBalRzeTV5Smk4V3I0V05UaGRFV2c0cENoUndhQlN5VEYyMk9hTDFOaDRPN2VFbTMzc0ZzanJXdVVzTnY2eEhRdi1oUVRfdW1MVDRrMUNselJ6NXZ6NU5oSmlFdWU2SWlBLXFOYjgyRTdOLXJfYWxNenVFeDJGcjZpRU9HTlFaMHM3MkZKS0hpVWhzbC1JNHlzTTFyOWlUdnVYZkhhRW5pcDBHTldIbTI3QkFaSjdLb0hMeXdSdlNwR2JINE9mVHN0TWjSAfYBQVVfeXFMT2xxMnF5T002VlVxSHRjbkpfWHdiTEZhTzF5aG5pNExOWGdjVVVxaDlJWWgyVVdRSlRqOXJCTnFoSWUxdmlNY0FlZG5OMWlBWVBBc091OUhjbURPMkpqd0FHTmxRZTU2amlwOGpzUkJwMGpsSWVBRnhyclZnVXViSk9nem5XSHNrckM2QWZSVmZ6ckpsNmFKQS1xcDJDeVlfLUkzTTZPazJzS3JrOHNSR3ZfaWxuNWNiQ2NGWkRRWEdoalJadWVIUjVJMV9yTnBhM0NJSDlvVDJNYlRTdDVqVHdlWENZQmFHTTBzcmlQRVVDT0Iya21R?oc=5",
+      "published_at": "2026-06-02T07:00:00",
+      "snippet": "How Bharat Taxi is transforming India’s ride-hailing sector with a zero-commission cooperative model for drivers&nbsp;&nbsp;Organiser",
+      "source": "Organiser",
+      "category": "Global P2P",
+      "ai_summary": "How Bharat Taxi is transforming India’s ride-hailing sector with a zero-commission cooperative model for drivers&nbsp;&nbsp;Organiser",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Exclusive: European micromobility market hits $70bn, McKinsey finds",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3RZVW1GY21YWkdUM0hlVkZMSGJET2dIZHNtNHVMUTRrZG1ZNlZlbC1PS0c3djZEa0QwSFpjV1NPYTJqSW9IQzM5Mm93X2lZeWwyREJOd0xhZ2xFYUFGVzBvdHM4c0FfVHktMUYwQm1iSEl6c0hKZVV3RElZY1BudHFiajF1WEpHWnVZQnpURzVkWm9hRFcyVVFjaw?oc=5",
+      "published_at": "2026-06-01T07:00:00",
+      "snippet": "Exclusive: European micromobility market hits $70bn, McKinsey finds&nbsp;&nbsp;Zag Daily",
+      "source": "Zag Daily",
+      "category": "Consulting Opinions",
+      "ai_summary": "Exclusive: European micromobility market hits $70bn, McKinsey finds&nbsp;&nbsp;Zag Daily",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "NVIDIA DRIVE Hyperion Becomes the Global Platform for a Robotaxi-Ready World",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYUFPZTA4aUp2SEFvYTFGcVBSVjUycnlrWEdCbXNnLXlTS1hqR0Z6ZDZHdmNfSHlmTHFjY2lyWGo3UGlNSk5PWGZZcUYydTdBLXFyV29ELUVMdzVNUTRCbFBjbUpPeHA2YkRmWVZlaS1oZjdxbnlmR0V2YUZtYTEzbWUyWExiQXdOSlBsTjlYM1pvSnJXZGNGNWFsUnoxWTN4TWp0T2NZYWVPdF9ZcGN5Sg?oc=5",
+      "published_at": "2026-05-31T07:00:00",
+      "snippet": "NVIDIA DRIVE Hyperion Becomes the Global Platform for a Robotaxi-Ready World&nbsp;&nbsp;NVIDIA Newsroom",
+      "source": "NVIDIA Newsroom",
+      "category": "Global P2P",
+      "ai_summary": "NVIDIA DRIVE Hyperion Becomes the Global Platform for a Robotaxi-Ready World&nbsp;&nbsp;NVIDIA Newsroom",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "EV Taxi Market: Electrifying the Future of Urban Mobility",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkFzNnlNLWx1QkNwTWpZalFFX2VFeUt4T0l4d3Z0OGpiSjNUa2JaWFVGTTJYT2l0UWZfb2d6TElUUDU2U0pRb04zNXFPeGV0b3RUcm41T3I3YURORkozdXd1cm1NWHUybDdNdENESkVLQzl0VHFTSE40VkFhd0NWMmtweWhvbUhVREtuRg?oc=5",
+      "published_at": "2026-05-29T12:29:07",
+      "snippet": "EV Taxi Market: Electrifying the Future of Urban Mobility&nbsp;&nbsp;Vocal",
+      "source": "Vocal",
+      "category": "Global P2P",
+      "ai_summary": "EV Taxi Market: Electrifying the Future of Urban Mobility&nbsp;&nbsp;Vocal",
+      "sentiment": "Neutral",
+      "tags": [
+        "EV"
+      ]
+    },
+    {
+      "title": "McKinsey: US Autonomous Vehicle Market Could Reach $230bn by 2035",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlU0R0pmYVZ3eVN0YzZTcFVFaHhjT21jZnVKR0NhY1VTVUFYdmVobV85cDVFSmpIUjBKVGNVRXp2RnZkZ1llMElEZVZiTV9qVnZTNm5fNFFCMEVXdm9hNHFWUUhpZUtjNm5nOV9ocE1PX21ubld5TkpKaXVyaU96eklkaFpPaDgwNTdJODc5VlYwcnVtdFkzSUFENA?oc=5",
+      "published_at": "2026-05-27T07:00:00",
+      "snippet": "McKinsey: US Autonomous Vehicle Market Could Reach $230bn by 2035&nbsp;&nbsp;Zag Daily",
+      "source": "Zag Daily",
+      "category": "Consulting Opinions",
+      "ai_summary": "McKinsey: US Autonomous Vehicle Market Could Reach $230bn by 2035&nbsp;&nbsp;Zag Daily",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous",
+        "Strategy"
+      ]
+    },
+    {
+      "title": "Uber Stock Outlook as Mobility and Delivery Growth Strengthens",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGJEWEtUSkJEcEx5dWtpSTgwMTNDclQ2d3ZqQjRNRlZTcGtMczR3UkQ4U3lGV0tLWjdweWxJbTQ1TlRJd2ZjblFvTU5sOUpwS2U4ak9TdmJtWldVNTUtdEtOcXMyVXc1WFdOR05fRERIZkROQ1JUd01WSnFxbk9QZlJxX2VKa3dRVktWQjFyOHpQZlU?oc=5",
+      "published_at": "2026-05-26T11:24:03",
+      "snippet": "Uber Stock Outlook as Mobility and Delivery Growth Strengthens&nbsp;&nbsp;Vocal",
+      "source": "Vocal",
+      "category": "Global P2P",
+      "ai_summary": "Uber Stock Outlook as Mobility and Delivery Growth Strengthens&nbsp;&nbsp;Vocal",
+      "sentiment": "Positive",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Zag Talk S2E9: McKinsey on how AVs could reshape transport economics",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMm9uRV9mdnVoTFpBNVVrM1BNMjVackpkem1RMGNlYkFxVDdBd29iUXQ3V29YekU0UWloZjM5NllNdjZNbXl2ZTRlWVpJYWpUZlpuT0dZRHpqVDEzTG5hTHVsWmliTkhwbXFCenJqV2ZwTzJJbjNscGRpR2xaN1QzQzk3ZVRBTzlxc0MtUDRGaEo4MnJpUU9VLU5YYw?oc=5",
+      "published_at": "2026-05-22T07:00:00",
+      "snippet": "Zag Talk S2E9: McKinsey on how AVs could reshape transport economics&nbsp;&nbsp;Zag Daily",
+      "source": "Zag Daily",
+      "category": "Consulting Opinions",
+      "ai_summary": "Zag Talk S2E9: McKinsey on how AVs could reshape transport economics&nbsp;&nbsp;Zag Daily",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "Are Self-Driving Cars the Future of Transport? ETFs at the Wheel",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNN0dLM2lHMFp3YVVyZ0RGTzBYSG9Ub1FOc0lNUVpEMi1Ib0ZSbm9pdFh4bWNwYjFuTFJIMHdLaUZaSmFHVUgtazZNOE16cm5OVExhYjJSQ05UUFNrTFF4NU5JXzVlRGVHYlFtdDFnRFJFTTJldW1mLVBOTFhYMGVGRnQxQ0h4Mk01VUhpNEdHZ3E5NkxJenZqREJBM0NzR2U1a1dvY3Q1bUZ5MmQtX2pEVk02c3JFdUQyLVoySjFwam1UZnlQeEFNdUVDWDlQb0RKRkxLOUFfYVBkLTU5UlA3Rk9B?oc=5",
+      "published_at": "2026-05-21T07:00:00",
+      "snippet": "Are Self-Driving Cars the Future of Transport? ETFs at the Wheel&nbsp;&nbsp;The Globe and Mail",
+      "source": "The Globe and Mail",
+      "category": "Global P2P",
+      "ai_summary": "Are Self-Driving Cars the Future of Transport? ETFs at the Wheel&nbsp;&nbsp;The Globe and Mail",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Tesla Robotaxi Projected to Earn 6x Global Ride-Hailing Market - BASENOR",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnYtN1FtNlpENXJISmdnTWR6eUczNV8tM2ZLRzVKcUtucWxIQkpOdEdKWFcyMGlqdVYteHVacW1HQTZKdm10cXJ0d21WUW51bUxkTzhWVVVjTXZOS1VjajhyZzNROEFtUHdmRl9iMUZCcG02VGswamhqMjg3bWtHS2tSSklQNmE1aUxxYzRkYkJ4TlY0RHBiS2NnNk1Xdw?oc=5",
+      "published_at": "2026-05-04T07:00:00",
+      "snippet": "Tesla Robotaxi Projected to Earn 6x Global Ride-Hailing Market&nbsp;&nbsp;BASENOR - Tesla Accessories",
+      "source": "Tesla Accessories",
+      "category": "Global P2P",
+      "ai_summary": "Tesla Robotaxi Projected to Earn 6x Global Ride-Hailing Market&nbsp;&nbsp;BASENOR - Tesla Accessories",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous",
+        "EV"
+      ]
+    },
+    {
+      "title": "GIG Mobility Unveils Ride-Hailing Digital Platform For Full-Scale Travel Ecosystem",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTkt4Qnl3bmNFMThoaC1lX0NRYy1nZE5DcTRSZkI5RXFvNV9CUWd6WGpUNDdFRHAxYW9ubmZvVVg5N1NsR2pXWkhGcXFZb2RhZlN2QVZoQUJ5TXVXSjRLeEtnSG43anFMNlpiWFBkeVM2RUp4Q3ZzaVNDSFRVc2VKYmlQd2lkdWRHZklvQkVLbGljY0xfa2VRQmphU0taenJVZF9OVU9ramhIQQ?oc=5",
+      "published_at": "2026-04-24T07:00:00",
+      "snippet": "GIG Mobility Unveils Ride-Hailing Digital Platform For Full-Scale Travel Ecosystem&nbsp;&nbsp;Independent Newspaper Nigeria",
+      "source": "Independent Newspaper Nigeria",
+      "category": "Global P2P",
+      "ai_summary": "GIG Mobility Unveils Ride-Hailing Digital Platform For Full-Scale Travel Ecosystem&nbsp;&nbsp;Independent Newspaper Nigeria",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Uber vs. Baidu: Which Stock Holds the Edge Now in the AV Space?",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT2VLWUdabzRXX2VWNl9uU0dzX090b1FSc3FKOEVFNW8wZWduMHJLdkRJRVJfbm9fQzc4eUc3V0h4WHJBMS1TQWZ5SW5tUHhDUThsV09mWWNOQm0yVXBqVzBEZGo3Z0N6bHdvQmhZUnpwTldLSm5ybVVLT0U0bEV1bnIwc0RXc3ZUWU94WUNWbk5lNUNtN0dwMTgwTEVqNFJmYXBmNVNHUnVlTEtmVXhIMG5fZmpwVnc?oc=5",
+      "published_at": "2026-04-20T07:00:00",
+      "snippet": "Uber vs. Baidu: Which Stock Holds the Edge Now in the AV Space?&nbsp;&nbsp;TradingView",
+      "source": "TradingView",
+      "category": "Global P2P",
+      "ai_summary": "Uber vs. Baidu: Which Stock Holds the Edge Now in the AV Space?&nbsp;&nbsp;TradingView",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Global ride-hailing giant Uber set for Nepal’s already crowded market",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbXdtYUt6cWFnSVNnTFJ2TmttcmI5WTAwaDlENERVMTBQTmQ4NzVHRkdxM2tBcmEwbWtNTGdGUFRneEpqYmRUdUpuN0RaQUhIeHlfUjFCZ0FDVE5mMEZKeEtVcEJKOWZ4ZXpjTlljRjZ5YklVMXNncGxCOFRLTUd5TTZ3MlFHeUc4ZWlFeklWNWdsTV9OZUhuZDBPRmx4UmlkZmxER19Jb2tra0xvYm1xLWR3?oc=5",
+      "published_at": "2026-04-18T07:00:00",
+      "snippet": "Global ride-hailing giant Uber set for Nepal’s already crowded market&nbsp;&nbsp;The Kathmandu Post",
+      "source": "The Kathmandu Post",
+      "category": "Global P2P",
+      "ai_summary": "Global ride-hailing giant Uber set for Nepal’s already crowded market&nbsp;&nbsp;The Kathmandu Post",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Lucid Motors Raises $1B and Names New CEO to Accelerate Robotaxi Push",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU29DaWtlUkViWnVfT0JSSGZYejhmNDhROUtTaTMtT0ZSNXNhTHNZRGF3elZ1NVV6UUFmcm5UWjRqanlKTjhZOUMteW1uNHhqNktqMFdFd0Y4azh6bDJ0YVpIRk9WMnVWYjZ0MDk2MzNWc05qUDhVeklPelFBUlg1WjdHY2RTaWh4aUJDNlBNYU1oLTk5Vm5iemlHcw?oc=5",
+      "published_at": "2026-04-16T07:00:00",
+      "snippet": "Lucid Motors Raises $1B and Names New CEO to Accelerate Robotaxi Push&nbsp;&nbsp;CarbonCredits.com",
+      "source": "CarbonCredits.com",
+      "category": "Global P2P",
+      "ai_summary": "Lucid Motors Raises $1B and Names New CEO to Accelerate Robotaxi Push&nbsp;&nbsp;CarbonCredits.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "VW, Mercedes, Waymo push robotaxis into European cities despite adoption uncertainty",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjFONko2NTVvSHpwOHFnUDE5VGNKWENROWdLYkFTbTBBSXJBVVVLbHNDcXRKd1F5NTZlTGUzOHhZdG5rZnl3eGtaSTlTNkFNZTJRVnEzWExxb0dsYXJjYzEyYmdIVHI4MTNvZFBkMXhFZDVlUDBtSGxGRERERjdsaERQQmRONVR4cm9lT2ljVHlBSmJy?oc=5",
+      "published_at": "2026-03-29T07:00:00",
+      "snippet": "VW, Mercedes, Waymo push robotaxis into European cities despite adoption uncertainty&nbsp;&nbsp;Automotive News",
+      "source": "Automotive News",
+      "category": "Global P2P",
+      "ai_summary": "VW, Mercedes, Waymo push robotaxis into European cities despite adoption uncertainty&nbsp;&nbsp;Automotive News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Zero-Commission Ride-Hailing Platform TADA Enters U.S. Market Following Completion of Over 150 Million Global Trips",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdVBwNlNlRHJmaG1CODF6dV85VUw1STM2WjB1ZUFZaXdXUmZHNU4telJ0QjFUeG9QYWgxNkhFT2cxb1VYSkxiZUM1WU9aa1d3d0M2b3p3MkJqQTBtNTYzRG9OMEtmWnMwekkzNDROVWVkVDBJdkZ4R2pHQ1lYOEFhbXcwS1pmZ1QtU0tPLVM5dnVuSk15alZQb2ZMeGxmNTBXa05YMXF2V0hkbGpJVXZxWWRxLU5QbFBEYm9OQy1aSmw0RmlNRkVhLU1zOGNVc0ZoRDB4SnZLa1M0VjdGcU1acFRGTjlMQnQ4aVdiUjNlNnV3TUNpSHFFVFJHYk4tbkotc2c?oc=5",
+      "published_at": "2026-03-24T07:00:00",
+      "snippet": "Zero-Commission Ride-Hailing Platform TADA Enters U.S. Market Following Completion of Over 150 Million Global Trips&nbsp;&nbsp;Business Wire",
+      "source": "Business Wire",
+      "category": "Global P2P",
+      "ai_summary": "Zero-Commission Ride-Hailing Platform TADA Enters U.S. Market Following Completion of Over 150 Million Global Trips&nbsp;&nbsp;Business Wire",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Uber Bets $1.25bn On Rivian Robotaxis Amid Global Autonomous Push",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSy0zQ1MzTXB3WnpUQVpyTjlwTmphcHJQTVhvX1d3VnRNVXNPRXc1UFB5SUdscXlnOU9HWlNxc2oxN1Y5NU9VcmNTUXdNN3hTT3NwNEtnT1dheXJ2OHJMQllObEx2RHFkSDZFaEJKaWJHOE9faDRNUEdkX1hrVzhzc2dOLTNxdlU5U1NfWGh0OFFQQQ?oc=5",
+      "published_at": "2026-03-24T07:00:00",
+      "snippet": "Uber Bets $1.25bn On Rivian Robotaxis Amid Global Autonomous Push&nbsp;&nbsp;Independent Newspaper Nigeria",
+      "source": "Independent Newspaper Nigeria",
+      "category": "Global P2P",
+      "ai_summary": "Uber Bets $1.25bn On Rivian Robotaxis Amid Global Autonomous Push&nbsp;&nbsp;Independent Newspaper Nigeria",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Uber leads rivals in race for global autonomous ride-sharing dominance by 2029 - Citi Research",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZkZfaU5JR2I5M1FDR0UyaHZfRjZPN28zN1dXUlNyemZuWXJMSHFFZU16Y1JMTFlmVnlPenhxSkFCR2xiMTF4SzN1RUFGenZwWGZ5ay1KTm1RRTNodVhHWTd4Tml3cElvLU9ZS3VxbDNOTDU3LWVObWZFVlJzVlNRb1Z0QnB4SXJDZWVrUnhBY1NweWZ5emQyZi1sSzdQbGhwQ3M0N19vcklZVUFLenc3MWUzcGJTS09OMUh1N0hNX1UweUx3TV9GNw?oc=5",
+      "published_at": "2026-03-23T07:00:00",
+      "snippet": "Uber leads rivals in race for global autonomous ride-sharing dominance by 2029 - Citi Research&nbsp;&nbsp;Business News Nigeria",
+      "source": "Business News Nigeria",
+      "category": "Global P2P",
+      "ai_summary": "Uber leads rivals in race for global autonomous ride-sharing dominance by 2029 - Citi Research&nbsp;&nbsp;Business News Nigeria",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Global Ride Hailing Market to Hit USD 181.54 Billion by 2033, Driven by Increased Demand and Innovation - Uber Technologies, Lyft, and Via Transportation Lead the Competition",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNUpSMWhiZE5nX25KUmdyY040UkpiS3gxbWs4SEs5M04xSTgzS292MkxIeEx6WXFiaDJvY0p5V0JtQi1LVUl0YUJrNm5JM05RN1B2UDdjY2R1WlJ2Vy04bWZxQ3NOZXFhSndHOXdtbmVIQWUzT0VIVm1OVXZlU0o0VC1sTkVjSFY4UmJRamZ0SG5PcERsS1psc29hYw?oc=5",
+      "published_at": "2026-03-20T07:00:00",
+      "snippet": "Global Ride Hailing Market to Hit USD 181.54 Billion by 2033, Driven by Increased Demand and Innovation - Uber Technologies, Lyft, and Via Transportation Lead the Competition&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "category": "Global P2P",
+      "ai_summary": "Global Ride Hailing Market to Hit USD 181.54 Billion by 2033, Driven by Increased Demand and Innovation - Uber Technologies, Lyft, and Via Transportation Lead the Competition&nbsp;&nbsp;Yahoo Finance",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "As EV makers seek robotaxi revenue, Lucid unveils Lunar concept to take on Tesla Cybercab",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWUwSlZRVHBQeTdTdGJOZ0Nab0JUbEZtVkptZWx5WHJ4SE5mWUx4dEFZMFBhNnF5TnVGaS04U2gtRDV4bV8tNVBGbC1qS1ZYYVUyR1lwZG1XZG81emJ5RXJ3RGs4eGRLZ3Y2MTZVU2JYVmdzN2xkU1VhRE8wakhfa3ljcWRNU3VyVmc?oc=5",
+      "published_at": "2026-03-18T07:00:00",
+      "snippet": "As EV makers seek robotaxi revenue, Lucid unveils Lunar concept to take on Tesla Cybercab&nbsp;&nbsp;Automotive News",
+      "source": "Automotive News",
+      "category": "Global P2P",
+      "ai_summary": "As EV makers seek robotaxi revenue, Lucid unveils Lunar concept to take on Tesla Cybercab&nbsp;&nbsp;Automotive News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous",
+        "EV"
+      ]
+    },
+    {
+      "title": "Uber, Nvidia Plan Robotaxi Rollout Across 28 Cities Next Year — What It Means for Ride-Hailing",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRVVNRFFWbEFkR3NkLUFCV3lVZG50Zl9wMDdSOURkSlBOTHFLNGZlcU5VWjJ1QVNDNHZNWTVqV2NWdkRrTmhmTXRYM3FROVlDQVpMOUF5YzVnT3RoSnVNeUd4elJZckgxUWRpM1ZWR0lNRG9GUnZCaHgxY0E3QzlkdXFHZ2hmbS1pTDkxcUJPeVI0UFA1UGN3Tk11VmNOeTBaZ096ZnY1UkQzVmpUajVfcl9tT3gwbml6WUVjNU9tUmNyOU8ydkY2OE9QYW9JVUZqc0xINlVIUzFJMzBo0gHcAUFVX3lxTE1FVU1EUVZsQWRHc2QtQUJXeVVkbnRmX3AwN1I5RGRKUE5McUs0ZmVxTlVaMnVBU0M0dk1ZNWpXY1Z2RGtOaGZNdFgzcVE5WUNBWkw5QXljNWdPdGhKdU15R3h6UllySDFRZGkzVlZHSU1Eb0ZSdkJoeDFjQTdDOWR1cUdnaGZtLWlMOTFxQk95UjRQUDVQY3dOTXVWY055MFpnT3pmdjVSRDNWalRqNV9yX21PeDBuaXpZRWM1T21SY3I5TzJ2RjY4T1Bhb0lVRmpzTEg2VUhTMUkzMGg?oc=5",
+      "published_at": "2026-03-17T09:23:41",
+      "snippet": "Uber, Nvidia Plan Robotaxi Rollout Across 28 Cities Next Year — What It Means for Ride-Hailing&nbsp;&nbsp;outlookbusiness.com",
+      "source": "outlookbusiness.com",
+      "category": "Global P2P",
+      "ai_summary": "Uber, Nvidia Plan Robotaxi Rollout Across 28 Cities Next Year — What It Means for Ride-Hailing&nbsp;&nbsp;outlookbusiness.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Uber, Nvidia plan robotaxi rollout in 28 cities starting next year",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONExaTk00MG5WSjJzdzJNYkhLeW5UYnc4RGxsYklXTUlDdmdIXzJ2cXY4X01iZVctZjVhTV95SGtHSGMyTGtfNUhMTmxxUldFZ0RoXy1hakRweVpqcHdlaF9XMW5KS0NoOFRCRjhRMHpYRmVTUThUTi0xbHA0OVptWmZsUC1zOXVmNUlSVTgydEp2LTkzYktCTkI0M0M3QVpqZWdVbWtoV2xKa3A1SGVLcGFiMnAxODZ5Y3dOSmZQMV9peDJpaVBF?oc=5",
+      "published_at": "2026-03-16T07:00:00",
+      "snippet": "Uber, Nvidia plan robotaxi rollout in 28 cities starting next year&nbsp;&nbsp;Reuters",
+      "source": "Reuters",
+      "category": "Global P2P",
+      "ai_summary": "Uber, Nvidia plan robotaxi rollout in 28 cities starting next year&nbsp;&nbsp;Reuters",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Is Uber's Robotaxi Deal With Amazon's Zoox a Growth Catalyst?",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEdlOGRZdkZwT2lraGlNb3FhZThnMVJSSGdaeE1OUWlZaE1sNllVUzVNa25MVGdYdWVFVDZ5Q3VlRFd3OXJxU01udGxSUkNhTG0xenR3bzdJWThrbjl1SHQxQXV1TDYwQlBDYjRYaFM4QmF5VjBzM25YSVRTU181WmxHckJMcWc4MkRJNTNrUnpfUk1lazZyMEYwbzVid0hEWV9KemZnbnJFMmN6aElEWmU3cUg1OGs?oc=5",
+      "published_at": "2026-03-13T07:00:00",
+      "snippet": "Is Uber's Robotaxi Deal With Amazon's Zoox a Growth Catalyst?&nbsp;&nbsp;TradingView",
+      "source": "TradingView",
+      "category": "Global P2P",
+      "ai_summary": "Is Uber's Robotaxi Deal With Amazon's Zoox a Growth Catalyst?&nbsp;&nbsp;TradingView",
+      "sentiment": "Positive",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Zoox and Uber tie up to deploy robotaxis on ride-hailing network",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb2RBV0FfWFNGSC1VdUE4MU9waGlKUnl0REZ2aTUxRUtqZzJHOGZ6MW9yU1RYSlJUZlYxRDc3ei1rWV9XVGR4cnR4bFN1VGNheEQ1WEhwOXhQVzRlVjg1ZTFibC1WS3JqTFR0OFdKN28tMTY1b3VOVk5sbnZCR05zVEZibzlISkVnaC1Helk4M2Rvd1JKb3VKLVlrQ1NRam5DeGZpbnp3UEEySFROYlFuT3V0bWZyaE5HTncxOA?oc=5",
+      "published_at": "2026-03-11T07:00:00",
+      "snippet": "Zoox and Uber tie up to deploy robotaxis on ride-hailing network&nbsp;&nbsp;Reuters",
+      "source": "Reuters",
+      "category": "Global P2P",
+      "ai_summary": "Zoox and Uber tie up to deploy robotaxis on ride-hailing network&nbsp;&nbsp;Reuters",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Waymo Aims for 1 Million Weekly US Robotaxi Rides by 2026",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0xIak1TTFBtdXo5ZkZnYXVIUEoyeXdfWDJEODZ2WkQxUkU0QXNQNllHemRCeVhtMnFjT0xXR0R2WTZudUdTVy1YSFp6QzZiV0ZWVm1wZFk3aWV4d2pfcGJ0d21zdFdPRDcwQlVzUzR1NmRwbTNUa0ZXczRNdGRzNGNGcU51cnJHT2cybU42RXZKVTdzcHgzbldR?oc=5",
+      "published_at": "2026-03-11T07:00:00",
+      "snippet": "Waymo Aims for 1 Million Weekly US Robotaxi Rides by 2026&nbsp;&nbsp;Mexico Business News",
+      "source": "Mexico Business News",
+      "category": "Global P2P",
+      "ai_summary": "Waymo Aims for 1 Million Weekly US Robotaxi Rides by 2026&nbsp;&nbsp;Mexico Business News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Nissan, Uber to deploy autonomous ride-hailing vehicles by 2027",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ROXk5THZ6d2NnQXJ0RFM2NE9ZLXpBVjZPNXFJM2ZHSGdTVC1NcUhocVRTRGNoSUtBUHlqTWF6WVhlOGNrUmV6c0NwRnJ5cVdWSUZ0SkJ1SUc0XzBha0tiTWxrN0xyMW5KUWpIdmhQaTczUHFS?oc=5",
+      "published_at": "2026-03-11T07:00:00",
+      "snippet": "Nissan, Uber to deploy autonomous ride-hailing vehicles by 2027&nbsp;&nbsp;CBT News",
+      "source": "CBT News",
+      "category": "Global P2P",
+      "ai_summary": "Nissan, Uber to deploy autonomous ride-hailing vehicles by 2027&nbsp;&nbsp;CBT News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Mobility Trends to Watch in 2026: The Expanding Role of Ride-Hailing Platforms",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmNRZGsyM1dqUTVlVHR5SlNhSG0xdUJLeFRQZ0s0WEZPVm9ZZVkxRnRQdTJlZ1QzREJiY2RUNkRHVmdsclRfZTFEdGRnZV8wSWJJVHhaY2dzNjloa1l0Q0tQNENXVlBZUlRNdDZWZGo1bUFXMVFyX2JiQU53Yl81SFdNSnpMSG9DQVhPSVRibzlmOU5yVWFQeVlnMGRDMXM3WV9CUjFucHpMdUY2Z0pCS3hZMThzYkU?oc=5",
+      "published_at": "2026-03-11T07:00:00",
+      "snippet": "Mobility Trends to Watch in 2026: The Expanding Role of Ride-Hailing Platforms&nbsp;&nbsp;pan african visions",
+      "source": "pan african visions",
+      "category": "Global P2P",
+      "ai_summary": "Mobility Trends to Watch in 2026: The Expanding Role of Ride-Hailing Platforms&nbsp;&nbsp;pan african visions",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Mobility trends in North America (2026 – 2028)",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkRETU1BeDJ1MjZjTXgtUHBSUUE4VG12ektYa2FnSkZkZnMyUWt3M0hOZm1MVlkyNGwxWVpmb1hfTE8yUzNVcWk2UFpqTl9yYXdPX3RxZDJFSWxWbHhRLW1HXzZvczV5Y1Y1YmNlOXhqcUppbXNCTEd3azNQeG14NjNZS19iYmJhdHdoNnVtX1BQbkhp?oc=5",
+      "published_at": "2026-02-26T08:00:00",
+      "snippet": "Mobility trends in North America (2026 – 2028)&nbsp;&nbsp;The Business Journals",
+      "source": "The Business Journals",
+      "category": "Consulting Opinions",
+      "ai_summary": "Mobility trends in North America (2026 – 2028)&nbsp;&nbsp;The Business Journals",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Great (small business) wealth transfer: McKinsey sees $5 trillion of baby boomer companies for sale",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkdpdGpZRUtadUFFR1lLamtHc1JMY0hDM2ZUNUZkZlI5aXc3eUFuRUl3dWdrZEFkVnFGZE1fei1zS3Z0V19HRVJ4SGtpWkx3REdLUEhCQml6c3hCclZENTRlTE01cWlVQ1gtS3VITGd0SGxWM2Y3M0pReW5WQmo1NkxBQWlhdGsyR2F0RE1zOHdFbGItaXFFZUxSY01JakgwUVN6Y3M3dGtZaVBEUXZ1ajc5cWp2Vk0?oc=5",
+      "published_at": "2026-02-26T08:00:00",
+      "snippet": "Great (small business) wealth transfer: McKinsey sees $5 trillion of baby boomer companies for sale&nbsp;&nbsp;Fortune",
+      "source": "Fortune",
+      "category": "Consulting Opinions",
+      "ai_summary": "Great (small business) wealth transfer: McKinsey sees $5 trillion of baby boomer companies for sale&nbsp;&nbsp;Fortune",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "With platform fees up, which ride-hailing app in Singapore offers the best value?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWRpcG4tTFZra1Jpalo3MUEzd1ZKbEJPVF8yNEd1dmlUZVI1SHh4NlF1R2ItOEtvamIway1idzZ5SXJuVWJfVUU1Y1JfMkg1bUE0VHJMc2F4cExaNGQzU2swQWM3V1hpb3Bsb2dNM1dXalF4bDZlQk01aTliZDFnRE1RR3lLVWtPYkktNlBJaDlfbDZtcDFMeF9UT2JzcGUzNHBQZkx4dS1NeW9JVG8teUt2TDFtQQ?oc=5",
+      "published_at": "2026-02-14T08:00:00",
+      "snippet": "With platform fees up, which ride-hailing app in Singapore offers the best value?&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "With platform fees up, which ride-hailing app in Singapore offers the best value?&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "5 users test ride-hailing apps in Singapore. Here’s what they found",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3RMMEtRcXhHcWdWYVFITlEyaUtyelhXaEQtNXJrUzJXQ3l3RnhsNk5pUUxNZF9lbW9ORVRaSGRoZnpjdkZBOTJTYlNLLXI1ajFfNmVYdkRkWjV3UnFJQnhBOEpoVVlJLTc1RWRqdGFqUjVlX1B5eUxyUDYzNXlwS1ZXdmxhVnA1c1JJWUFJVUdRdWY2b1VBb1l4SlhZenkzcWFFcm05X1FxR1U?oc=5",
+      "published_at": "2026-02-14T08:00:00",
+      "snippet": "5 users test ride-hailing apps in Singapore. Here’s what they found&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "5 users test ride-hailing apps in Singapore. Here’s what they found&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Chinese autonomous driving companies expand into Middle East market",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9odUhJS1RVcWdrZnJoSmExZnliVVJhaGVpTEoyOEVjMGZ6UnBWekNzNUtkSTRhY1I0d3pZNXhwVV9hTlVUSVFqalRIZFdsTWZvblRLak53QVRBazJPM25wZlhB?oc=5",
+      "published_at": "2026-02-11T08:00:00",
+      "snippet": "Chinese autonomous driving companies expand into Middle East market&nbsp;&nbsp;Global Times",
+      "source": "Global Times",
+      "category": "Global P2P",
+      "ai_summary": "Chinese autonomous driving companies expand into Middle East market&nbsp;&nbsp;Global Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Baidu and Uber Partner to Bring Apollo Go Autonomous Ride-hailing to Dubai in Collaboration with Dubai’s Roads and Transport Authority",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPNlpwWGM0U3l0NTdwQi1NMzNlSlVOSW5Fb3BpRklVZFc2UlVCVDc1djNheGVqajRObXdjYTRhZGJMbjdyRjB4OGxaeU5mS2JEX281bXNpZ0doMkh1VmFUbTFiTmJ4ZS13TXBmbmRfZ1cxR1ZtcjNWQ2tEaHpITE9HUHNDN3NoUDhYUzBpVW94UXV4RnByRnI1T2U1T1FGSlFpUXludm55dW40OHFTeF92QUdRcUlnbUFjOUZOUzhoVlFoM2xQQkxJRWxiV3pNeGFDQ0prMnJQUVExSWFCTjBrNkx6YldBX1RZR3o2RnBHakUtYXN4Y0pIVWlfN2xicmk2Z3Q5cHJRTGJfc2E4cGRsbF9nMllydXVtQzBiRk4wOF9EeVNQMmZhV1RMNm9MWjhNOWJPazZNd3hmelJT?oc=5",
+      "published_at": "2026-02-10T08:00:00",
+      "snippet": "Baidu and Uber Partner to Bring Apollo Go Autonomous Ride-hailing to Dubai in Collaboration with Dubai’s Roads and Transport Authority&nbsp;&nbsp;UBER Investor Relations",
+      "source": "UBER Investor Relations",
+      "category": "Global P2P",
+      "ai_summary": "Baidu and Uber Partner to Bring Apollo Go Autonomous Ride-hailing to Dubai in Collaboration with Dubai’s Roads and Transport Authority&nbsp;&nbsp;UBER Investor Relations",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Shared Mobility Market Growing at 17% CAGR Through 2031 as Ride-Hailing and Micromobility Platforms Accelerate Global Adoption, Reports Mordor Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVm1kRFZqdE9QOHV0LWdiVWFXZW1CR1RLY3MxMmE0b3dPb0hWLURlWXBQaGYxV0R0WGxXTENCb19vRG9Bb0NwVV9BdDMxUGdXaENHcXlKaEthR1QtZWR6OGExWFVJVWktandaV3ZIVDRqX1AtXzR0S1psODNxSUxmX25xR0xJZw?oc=5",
+      "published_at": "2026-02-10T08:00:00",
+      "snippet": "Shared Mobility Market Growing at 17% CAGR Through 2031 as Ride-Hailing and Micromobility Platforms Accelerate Global Adoption, Reports Mordor Intelligence&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "category": "Global P2P",
+      "ai_summary": "Shared Mobility Market Growing at 17% CAGR Through 2031 as Ride-Hailing and Micromobility Platforms Accelerate Global Adoption, Reports Mordor Intelligence&nbsp;&nbsp;Yahoo Finance",
+      "sentiment": "Positive",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "Global report ranks inDrive as second most downloaded ride-hailing app",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0txWjFtSkdFeVlmQktRVmYwYzNjVmFULXU1Q3BCbUd2Z18zOS11Tmx2Z3pxWTJKME1ZREFqX1Y1MjIyZkJZb25iWUJHUU1yTVlmRGF0Q3hwWWcxbXk5aVA1UnBCUTludWRKTnB2emI0dVZrRW1HM0hlSjhDUFA3dXZHVFlxMU5SMUR2clUxOUR4QXdfT1BJQW1HSVFCT2dCR0ZKYWgxVk9QNXdleEJn?oc=5",
+      "published_at": "2026-02-07T08:00:00",
+      "snippet": "Global report ranks inDrive as second most downloaded ride-hailing app&nbsp;&nbsp;The Guardian Nigeria News",
+      "source": "The Guardian Nigeria News",
+      "category": "Global P2P",
+      "ai_summary": "Global report ranks inDrive as second most downloaded ride-hailing app&nbsp;&nbsp;The Guardian Nigeria News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "[Latest] Global Ride Hailing Services Market Size/Share Worth USD 295.06 Billion by 2035 at a 19.47% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ocEgyWGJ1SmNuMFlrNEN1ODg5UjBJcVVhTzRtZ3U4NUVKdTJLaE1hNXA0QnVQeTE4SlJhTjhyc09XbF9PZ1Y2TWkzR3ZCaHdrU1NBNUhBUQ?oc=5",
+      "published_at": "2026-02-05T08:00:00",
+      "snippet": "[Latest] Global Ride Hailing Services Market Size/Share Worth USD 295.06 Billion by 2035 at a 19.47% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)&nbsp;&nbsp;AI Magazine",
+      "source": "AI Magazine",
+      "category": "Global P2P",
+      "ai_summary": "[Latest] Global Ride Hailing Services Market Size/Share Worth USD 295.06 Billion by 2035 at a 19.47% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)&nbsp;&nbsp;AI Magazine",
+      "sentiment": "Positive",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "inDrive Ranks Second in Ride-Hailing App Downloads Globally",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0N3cFlyQUg3SUpSNzdFWmR5R3RRXzJSRGpmZXRwZm5MZmYzQjFLeWVjYUlXOC1zVXZFTHZ4YjFRV3RydXVSV2hBX183dEhSQThEc0ozOV9Nc042X3RZSUNsZld3dE5WNjBPcmVaNTc4LUpDTEFEU1JCTHdpa3NzbVBxUkRZakVPejkxMV8ydlpQUnc?oc=5",
+      "published_at": "2026-02-05T08:00:00",
+      "snippet": "inDrive Ranks Second in Ride-Hailing App Downloads Globally&nbsp;&nbsp;Business Post Nigeria",
+      "source": "Business Post Nigeria",
+      "category": "Global P2P",
+      "ai_summary": "inDrive Ranks Second in Ride-Hailing App Downloads Globally&nbsp;&nbsp;Business Post Nigeria",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "McKinsey: How AI is shaping the next frontier of mobility",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0RPa1prWmdyNUR2X0tPQU9EUW0xSWZ1S0JiNDdxT1h6Ym94VjNHVkFzLTZwRzRuanVCSXBqTHppbE0zTy16dXp5amVjUGlOS3VIS2NCSWR1TV9uY1lSaUxwMEtMTnNOSFhub0prMlFJMmNLdGNmdlU3dUc0ejl2dDBRSG0tdnlQTVJlRjNtUjg?oc=5",
+      "published_at": "2026-02-05T08:00:00",
+      "snippet": "McKinsey: How AI is shaping the next frontier of mobility&nbsp;&nbsp;Zag Daily",
+      "source": "Zag Daily",
+      "category": "Consulting Opinions",
+      "ai_summary": "McKinsey: How AI is shaping the next frontier of mobility&nbsp;&nbsp;Zag Daily",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "Inspiration: Investing in Housing: Unlocking Economic Mobility for Black Families & All Americans",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLM0l1eERnLWZveDBrNHJXRlFOVnZSdmtUNmZPVHNQRUlON2lKTm9kcDFHSGxZNjh0bS1Cd2w4ZUJ0S1phVm5pYmtLanJNa2ZYQTdDYmpPenBPRnR5UjA0aTNKZ01Mb2pwaU93TXFxWHo1Y0tt?oc=5",
+      "published_at": "2026-02-04T08:00:00",
+      "snippet": "Inspiration: Investing in Housing: Unlocking Economic Mobility for Black Families & All Americans&nbsp;&nbsp;Black Voice News",
+      "source": "Black Voice News",
+      "category": "Consulting Opinions",
+      "ai_summary": "Inspiration: Investing in Housing: Unlocking Economic Mobility for Black Families & All Americans&nbsp;&nbsp;Black Voice News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Autonomous Vehicles Reach Turning Point in 2026",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdlNCOUdiZHg3blk3NmoyZkNvT1FwZ2F5MVVOYnVxZ0tub043YXpRcDFoNkNVZi1OWXZiclBaT3NEVlFyOTFVNlhuWE85SGZHUUkzVGZtaUFpbXY5bDJ4X2pUQ0tzbUtLeFlPeHI5d29tcXhPTDlmQ1p6bDFFbU9JRUJsd1B0TDhZVUh3UA?oc=5",
+      "published_at": "2026-02-02T08:00:00",
+      "snippet": "Autonomous Vehicles Reach Turning Point in 2026&nbsp;&nbsp;Design News",
+      "source": "Design News",
+      "category": "Global P2P",
+      "ai_summary": "Autonomous Vehicles Reach Turning Point in 2026&nbsp;&nbsp;Design News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "inDrive Secures No.2 Global Spot in Ride-Hailing App Downloads for Fourth Straight Year as it Expands Super App",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb2ZXZHBvLVVfSE16UENOc25SMk03eGtnUnFBMXdKdVhaaElZcGpxTktlWEh0ZTltbEVfQjNPazRTczZJejZqOU5yZkZrZV8xYnBUYnJaYkYzUk0xZkgyekw4dFRCanZLTUZKOUN5bXhrdkt6MTFieER1aHBvdnBVSG80MVhCcWxTRmVSNVU0bV90UE42YkREelpveXM2emlfN0VvdVU2S1lQMzhUWkxPa1VYdGRVS0YxZ1VNcmg4ek1GVnlMUDE5SE52cy1TYWRZc0FyUzBOSzRxTFNSeUVWYVhvZ0pMd0FCRXBabml1V29JRWR2VWkzQmljT0o?oc=5",
+      "published_at": "2026-02-02T08:00:00",
+      "snippet": "inDrive Secures No.2 Global Spot in Ride-Hailing App Downloads for Fourth Straight Year as it Expands Super App&nbsp;&nbsp;Business Wire",
+      "source": "Business Wire",
+      "category": "Global P2P",
+      "ai_summary": "inDrive Secures No.2 Global Spot in Ride-Hailing App Downloads for Fourth Straight Year as it Expands Super App&nbsp;&nbsp;Business Wire",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Saudi Arabia Ride Hailing Market: Urban Mobility Demand & Platform Growth",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVZDVGtCRno1NGh5LXFIU19sOV9ITGlPNzljVnNsbDZ3SWZLX3ZpcFU2NnE4Z05CSE9vNlhpLW5LVzFOcFhZX0REWU1rOVptT0hudEZfck1WRzN3WmpLa25UOFpzVnVTSHJ2QXp4bTJ0dUxmcnB5QjI4NzdUeHhGVlRlWThjN3E4T1ZIOTVzVzVkWDVpd193WjNmcTZZNW54QW9UcUZ3?oc=5",
+      "published_at": "2026-02-02T05:51:05",
+      "snippet": "Saudi Arabia Ride Hailing Market: Urban Mobility Demand & Platform Growth&nbsp;&nbsp;Vocal",
+      "source": "Vocal",
+      "category": "Global P2P",
+      "ai_summary": "Saudi Arabia Ride Hailing Market: Urban Mobility Demand & Platform Growth&nbsp;&nbsp;Vocal",
+      "sentiment": "Positive",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Fleet Management & Mobility Services Market Size, Share [2034]",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3YtRURQeU9oSE41blVyOUQ0eE5YcFNlWUpMbThhdTVlX2dGR0xxNFVtWjc3ZExkOFBFWUpNY0VNMGIySmtsZ0oycU9ZQlU4Q1pQQnhTNzdnSkM1UTNLTlJIQzNjaGs4dkwwUHdRMzdnRmUxektPdEl1WC1WRFhRaW55QlRBcjJCRV9sY1VHMUZhZw?oc=5",
+      "published_at": "2026-01-30T21:42:31",
+      "snippet": "Fleet Management & Mobility Services Market Size, Share [2034]&nbsp;&nbsp;Fortune Business Insights",
+      "source": "Fortune Business Insights",
+      "category": "Global P2P",
+      "ai_summary": "Fleet Management & Mobility Services Market Size, Share [2034]&nbsp;&nbsp;Fortune Business Insights",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Tesla's new Cybercab aims to redefine transportation, ride-hailing",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX1JIOGU3VGFHbVJ6UXBrMDhOaEhGcUpSck04dGtuR0xTZjRsWnlVcVpLaU03ZldBUGlPaHNPSGtuU1VjU3VBdjJ0ZFhyNEtUY0V5UUgwQ3EzT0gwZDFIWjV4amVQQURrUzJvc0xTQ3ljVlFVdUE0cWVVSDdFamFEeFNFTHhvblRZd1dyYTU4Q2I1cVpZQ3FVSDdDOHZNaWNsVlk3OFVPVG5uZWY4U0NF?oc=5",
+      "published_at": "2026-01-23T08:00:00",
+      "snippet": "Tesla's new Cybercab aims to redefine transportation, ride-hailing&nbsp;&nbsp;The Tennessean",
+      "source": "The Tennessean",
+      "category": "Global P2P",
+      "ai_summary": "Tesla's new Cybercab aims to redefine transportation, ride-hailing&nbsp;&nbsp;The Tennessean",
+      "sentiment": "Negative",
+      "tags": [
+        "Autonomous",
+        "EV"
+      ]
+    },
+    {
+      "title": "Tesla finally launches robotaxi rides without safety monitors, years after CEO Elon Musk’s 2020 target",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUQ1OFl4Y0pIVVlITTV4U25mUnBObkItOF9LdXVrMUdGYThzM3lJUjY0WkZnVndtYnBDR1ZkM2Y1SEFzYWlQX3VXMm5Ga1VOSTBING9VclF6LWNMTGZBd0JmMmJ1S0dhRWtvNGtTOWk4QjJDek5NcHpfR01QNDdoUVVqLVpVaXI1QXNkNk1VU3NSYjVSWVE?oc=5",
+      "published_at": "2026-01-22T08:00:00",
+      "snippet": "Tesla finally launches robotaxi rides without safety monitors, years after CEO Elon Musk’s 2020 target&nbsp;&nbsp;Automotive News",
+      "source": "Automotive News",
+      "category": "Global P2P",
+      "ai_summary": "Tesla finally launches robotaxi rides without safety monitors, years after CEO Elon Musk’s 2020 target&nbsp;&nbsp;Automotive News",
+      "sentiment": "Positive",
+      "tags": [
+        "Autonomous",
+        "EV"
+      ]
+    },
+    {
+      "title": "Robo Taxi Market: Autonomous Ride-Hailing, Cost Efficiency & Growth Outlook",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbzdRckZQaXdBT3J5bkxfNUFmZUhrRzFKQ0VLZERSUS1vVDU5bXMzQnVrTVNUVnlEWUE3aFVLemlnZXNCd2V3RTdhRjNZQ2poWlVBUFEwMW9LLWZiVWd2YUo4V29qQmtwUHFsbnhrYl9NV25jdzNzSTVVN3dkdUVfc2VUekRvQXZCYXlnZVNOZTZMMkg4NHRya28zbTRuaWNRUXZTMjRQNA?oc=5",
+      "published_at": "2026-01-20T08:29:35",
+      "snippet": "Robo Taxi Market: Autonomous Ride-Hailing, Cost Efficiency & Growth Outlook&nbsp;&nbsp;Vocal",
+      "source": "Vocal",
+      "category": "Global P2P",
+      "ai_summary": "Robo Taxi Market: Autonomous Ride-Hailing, Cost Efficiency & Growth Outlook&nbsp;&nbsp;Vocal",
+      "sentiment": "Positive",
+      "tags": [
+        "Autonomous"
+      ]
+    },
+    {
+      "title": "Drivers push for legal recognition of ride-hailing apps in Morocco - HESPRESS English",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjJMUHVic25RNWt4eVM2cHNLbmRqdXpEai11UlplOF96UV9Db2hJVWNHTWZDcUJEbkhZbTQ1ZFBNLVVPRjZFRkNJQlQwNlV2MXZFdEI4SFhwRktTQ1FkZTZqZnZ5ekhZTHhyMGk2dU8wUFJCckljWTVHRm5sbllSMkRvZ1p3emNJZlh0SjhoQ1dxZkU2TlN5a3A2LVo2OS1fY2ZIYURzT0lMbEk?oc=5",
+      "published_at": "2026-01-19T08:00:00",
+      "snippet": "Drivers push for legal recognition of ride-hailing apps in Morocco&nbsp;&nbsp;HESPRESS English - Morocco News",
+      "source": "Morocco News",
+      "category": "Global P2P",
+      "ai_summary": "Drivers push for legal recognition of ride-hailing apps in Morocco&nbsp;&nbsp;HESPRESS English - Morocco News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "Ride-hailing is booming in the U.S. – here’s how fleets can benefit",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPOVJuYm5uMk1OMWJaZkloUF91cFo0Y2RoekdiZ3ctNU1tWE45aUU1OGdKTFJORXVIS2JXRzJvd3NSMUJONHlYeGpDUVNPcmJEdkhhXzZST0J3cE9PNW5CUWtWSzRHSzYwN1kzQnJWc0pQTnAwdW1EQnlVd1U1YW5YTVk4LVZkZ2pscC1Fc1BvMXVtVHdZejZDN1pvZm42WlAwSHc3djdGSVRiM1NISzh1MFM2dW9tRklYUlp1QTgtdjdvVm8yRGtGMFBlTXBCMDlBSzVOYjVpbVJDMWtYMXliMENGdXNyd0VCaGlJOS1xdmg5WXhiWEFydUtKblN5aFVWTnZfRlhWeU9Gb2pJaEJoWFQwbG1DdmI5dlZWS0xLb0VNbWF4ZmpvaGdwdVNwenJm?oc=5",
+      "published_at": "2026-01-15T08:00:00",
+      "snippet": "Ride-hailing is booming in the U.S. – here’s how fleets can benefit&nbsp;&nbsp;Global Fleet",
+      "source": "Global Fleet",
+      "category": "Global P2P",
+      "ai_summary": "Ride-hailing is booming in the U.S. – here’s how fleets can benefit&nbsp;&nbsp;Global Fleet",
+      "sentiment": "Neutral",
+      "tags": [
+        "Mobility"
+      ]
+    },
+    {
+      "title": "CES 2026 recap: Robotics, robotaxis and AI dominate the show",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKSjRTVVpucWV1WVZQVTJmZ2tnSVZZU21DYlhGQjQ4dFphUmtUUm1EMW5KbnR6Ukxkdm13X2ZqcG4talRXR29Jc0JGV1IzMW40RG03MDRKNExKRTQ0SlRGWm5tUkZaa3VCUGxadW5B?oc=5",
+      "published_at": "2026-01-09T08:00:00",
+      "snippet": "CES 2026 recap: Robotics, robotaxis and AI dominate the show&nbsp;&nbsp;Automotive News",
+      "source": "Automotive News",
+      "category": "Consulting Opinions",
+      "ai_summary": "CES 2026 recap: Robotics, robotaxis and AI dominate the show&nbsp;&nbsp;Automotive News",
+      "sentiment": "Neutral",
+      "tags": [
+        "Autonomous"
+      ]
+    }
+  ]
+}
