@@ -11,17 +11,17 @@ from datetime import datetime, timezone
 # Target Google News RSS Feed Queries
 FEEDS = {
     "singapore_p2p": {
-        "query": "point to point transport Singapore OR ride-hailing Singapore OR taxi Singapore OR Grab Gojek Singapore",
+        "query": '"Grab" OR "Gojek" OR "Tada" OR "Ryde" OR "ComfortDelGro" OR "BlueSG" OR "GetGo" OR "car sharing" OR "carpooling" Singapore',
         "hl": "en-SG", "gl": "SG", "ceid": "SG:en",
         "category_label": "Singapore P2P"
     },
     "global_p2p": {
-        "query": "ride-hailing global OR taxi industry global OR future mobility OR autonomous ride hailing",
+        "query": '"Uber" OR "Lyft" OR "DiDi" OR "Bolt" OR "Gojek" OR "Grab" OR "Ola" OR "Careem" OR "Cabify" OR "Zipcar" OR "Turo" OR "Getaround" OR "car sharing" OR "ride hailing" OR "shared mobility" OR "micromobility" OR "robotaxi"',
         "hl": "en-US", "gl": "US", "ceid": "US:en",
         "category_label": "Global P2P"
     },
     "consulting_opinions": {
-        "query": "McKinsey mobility OR BCG mobility OR Bain mobility OR \"McKinsey Center for Future Mobility\"",
+        "query": 'McKinsey "mobility" OR BCG "mobility" OR Bain "mobility" OR "McKinsey Center for Future Mobility" OR "shared mobility report"',
         "hl": "en-US", "gl": "US", "ceid": "US:en",
         "category_label": "Consulting Opinions"
     }
