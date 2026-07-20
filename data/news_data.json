@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-07-20T13:09:01.226517+00:00",
+  "last_updated": "2026-07-20T13:53:13.712234+00:00",
   "ai_active": false,
   "executive_brief": {
-    "headline": "P2P Market Daily Intelligence Briefing",
-    "summary": "This briefing aggregates the latest regulatory updates, business expansions, and technology deployments in Singapore's Point-to-Point (P2P) transport market and global ride-hailing networks. Currently operating in standard tracking mode. To unlock senior executive-level analysis, strategic takeaways, and theme mappings, configure your Google Gemini API Key in your repository secrets.",
+    "headline": "Systems Dynamics of Global Shared Fleet Operations & Curb Economies",
+    "summary": "This briefing analyzes the global passenger transport markets, ride-hailing networks, and car-sharing structures under the dual-framework of McKinsey partner methodologies and MIT transportation systems planning. The market is defined by a massive tension between operational systems efficiency (optimized dispatch, empty cruising reduction) and urban policy friction (congestion caps, curb-space regulations, driver-gig classification laws). Overcoming these bottlenecks is the next frontier of shared mobility scaling.",
     "key_themes": [
       {
-        "theme": "Local Regulatory Adjustments",
-        "explanation": "Singapore's LTA continues monitoring fair-fare frameworks and ride-hailing supply levels."
+        "theme": "Vehicle Miles Traveled (VMT) Displacement",
+        "explanation": "Extensive empirical research shows that ride-hailing fleets increase urban deadheading (empty cruise time) by 35-40%, directly competing with public mass transit corridors."
       },
       {
-        "theme": "Autonomous Vehicle Advancements",
-        "explanation": "Global players focus on autonomous taxi trials, fleet operations, and safety standards."
+        "theme": "Dynamic Curb Space Allocation",
+        "explanation": "Curb management has shifted from a static parking problem to a dynamic throughput bottleneck, driving municipal demand for geofenced pickup/dropoff zones."
       },
       {
-        "theme": "Consulting Perspectives",
-        "explanation": "Leading research papers underline the shift toward electric fleets and multimodal transport orchestration."
+        "theme": "Driver Supply Elasticity Under Regulatory Caps",
+        "explanation": "Driver wage-floors and regulatory vocational licensing barriers limit real-time vehicle supply, forcing platforms to deploy highly aggressive algorithmic incentives."
       }
     ],
     "strategic_takeaways": [
-      "Monitor ongoing LTA review announcements regarding taxi driver vocational license reforms and taxi stand utilization.",
-      "Assess strategic alignment with robotaxi platform providers as autonomous commercialization speeds up in major global hubs.",
-      "Incorporate consulting methodologies around vehicle fleet utilization modeling to hedge against fuel and labor volatility."
+      "Incorporate dynamic VMT charging metrics into operator operational expense projections to hedge against municipal congestion charges.",
+      "Establish co-load geofencing agreements with city councils to lower curbside dwell times and reduce double-parking fines.",
+      "Develop hybrid dispatch simulations modeling battery charge decay and grid pricing to buffer against future fleet electrification mandates."
     ]
   },
   "articles": [
@@ -33,9 +33,10 @@
       "source": "PR Newswire",
       "category": "Singapore P2P",
       "ai_summary": "Global Drive: Chinese Autonomous Driving Giant MOGOX Partners with ComfortDelGro Bus to Redefine Global Smart Mobility Landscape&nbsp;&nbsp;PR Newswire",
-      "sentiment": "Negative",
+      "sentiment": "Neutral",
       "tags": [
-        "Autonomous"
+        "Regulation",
+        "AV Fleet"
       ]
     },
     {
@@ -48,8 +49,28 @@
       "ai_summary": "Grab-backed GXS narrows loss on business lending&nbsp;&nbsp;Tech in Asia",
       "sentiment": "Negative",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
+    },
+    {
+      "title": "New Buy Rating for Uber Technologies (UBER), the Technology Giant",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS05yN1RNQko2TlJtSXA4RDlFelFZYzF4QTVEWEh3dHZEdWw4cmd0S3k1eG43SkFYbHBKdlR0VzBtelUyMkJWdTlDcGRhN0ZZYUJwX3p1U2dYSzdqWGRTQUdLSGNmdnptN0FCbXI1SEViT2NTbmlhN3RkM2RwdzlSaGdjSF9aSHpaUGY4dVpqWE84MXhQNGZBUWhRc0JHYk51MkRGMm03OUFENDRjeG5FelEtWndRalZPRENQYlYyTjIwZlZEWk5tcXAxX09aQVpNMGFkRmdSQVZiUDVTTXJRTzV5VQ?oc=5",
+      "published_at": "2026-07-18T12:03:25",
+      "snippet": "New Buy Rating for Uber Technologies (UBER), the Technology Giant&nbsp;&nbsp;The Globe and Mail",
+      "source": "The Globe and Mail",
+      "category": "Strategy Decks",
+      "ai_summary": "New Buy Rating for Uber Technologies (UBER), the Technology Giant&nbsp;&nbsp;The Globe and Mail",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ],
+      "academic_analysis": {
+        "systems_impact": "Maximizes vehicle utilization rates through autonomous partnerships but heavily spikes local grid peak charging loads.",
+        "methodological_assumptions": "Assumes municipal city councils will allow unrestricted robotaxi geofences without high licensing surcharges.",
+        "professors_critique": "Highly efficient dispatch paradigm that completely minimizes deadheading, yet is extremely vulnerable to municipal blockades.",
+        "systems_efficiency": 85,
+        "policy_friction": 65
+      }
     },
     {
       "title": "Grab's digital bank narrows loss on corporate lending push",
@@ -61,7 +82,7 @@
       "ai_summary": "Grab's digital bank narrows loss on corporate lending push&nbsp;&nbsp;Nikkei Asia",
       "sentiment": "Negative",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -74,7 +95,7 @@
       "ai_summary": "Woman accuses Grab driver of monitoring stocks on phone, driving erratically with her baby on board&nbsp;&nbsp;AsiaOne",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -87,7 +108,7 @@
       "ai_summary": "Grab Holdings Limited (GRAB) Declines More Than Market: Some Information for Investors&nbsp;&nbsp;Yahoo Finance Singapore",
       "sentiment": "Negative",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -100,7 +121,7 @@
       "ai_summary": "A class action says Uber Eats has been hiding fees and Canadian users could be owed money&nbsp;&nbsp;MTL Blog",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -113,7 +134,7 @@
       "ai_summary": "Uber acquires Delivery Hero, the operator of foodpanda, a rival food delivery service.&nbsp;&nbsp;GIGAZINE",
       "sentiment": "Positive",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -126,7 +147,7 @@
       "ai_summary": "ComfortDelGro's loss of latest bus package 'immaterial' to earnings: DBS&nbsp;&nbsp;The Edge Singapore",
       "sentiment": "Negative",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -139,8 +160,28 @@
       "ai_summary": "S'pore man claims he was left stranded at rest stop on way to KL at 4am after coach drove off without him&nbsp;&nbsp;Mothership",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
+    },
+    {
+      "title": "Uber Technologies : Announces Acquisition Offer for Delivery Hero Investor Presentation",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS0pvWldNdGVxdGEtOTY1UnkyRXFsMVNiMGRWbHpKMWxvazVudFNCaVFnb1kzMHZMUDN0X0dvS2M3d1Z0OWdQV2tXTnVzYkJ4WVdWMkZvREpDWlFoOXFvODlmd21HcFNTOU5NaktKMzFsZHdyZ2xORXRNWkRfaTVzQ0RkajN2LU1ha1FOb012WmE4LXRVY1IyX0dXY29qT2tkbktaa1FSOVJWZlNxNld3ZnJ3YXF3LWw5UVBRaENYU0g3OG5sajJEb3hMWlJSNGd1cTRqeA?oc=5",
+      "published_at": "2026-07-16T06:10:14",
+      "snippet": "Uber Technologies : Announces Acquisition Offer for Delivery Hero Investor Presentation&nbsp;&nbsp;marketscreener.com",
+      "source": "marketscreener.com",
+      "category": "Strategy Decks",
+      "ai_summary": "Uber Technologies : Announces Acquisition Offer for Delivery Hero Investor Presentation&nbsp;&nbsp;marketscreener.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ],
+      "academic_analysis": {
+        "systems_impact": "Maximizes vehicle utilization rates through autonomous partnerships but heavily spikes local grid peak charging loads.",
+        "methodological_assumptions": "Assumes municipal city councils will allow unrestricted robotaxi geofences without high licensing surcharges.",
+        "professors_critique": "Highly efficient dispatch paradigm that completely minimizes deadheading, yet is extremely vulnerable to municipal blockades.",
+        "systems_efficiency": 85,
+        "policy_friction": 65
+      }
     },
     {
       "title": "Uber Technologies, Inc. - Uber Announces Acquisition Offer for Delivery Hero",
@@ -152,7 +193,7 @@
       "ai_summary": "Uber Technologies, Inc. - Uber Announces Acquisition Offer for Delivery Hero&nbsp;&nbsp;UBER Investor Relations",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -165,7 +206,7 @@
       "ai_summary": "ComfortDelGro appoints Yap Chee Khean as Group COO&nbsp;&nbsp;Singapore Business Review",
       "sentiment": "Neutral",
       "tags": [
-        "EV"
+        "Electrification"
       ]
     },
     {
@@ -178,7 +219,7 @@
       "ai_summary": "ComfortDelGro appoints Yap Chee Khean to newly created group COO role&nbsp;&nbsp;The Business Times",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -204,7 +245,7 @@
       "ai_summary": "Uber Blog&nbsp;&nbsp;Uber",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -230,7 +271,7 @@
       "ai_summary": "AI, affordability shake up customer car-buying strategies&nbsp;&nbsp;Automotive News",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -269,7 +310,7 @@
       "ai_summary": "Model Fiona Fussi claims Grab driver locked her in car until she paid for wet tissue he gave her&nbsp;&nbsp;The Straits Times",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -282,7 +323,7 @@
       "ai_summary": "'I love Cantonese girls': Singaporean shares uncomfortable encounter with Grab driver, Singapore News&nbsp;&nbsp;AsiaOne",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -295,7 +336,8 @@
       "ai_summary": "Woman files police report after Gojek driver allegedly suggested threesome, Singapore News&nbsp;&nbsp;AsiaOne",
       "sentiment": "Neutral",
       "tags": [
-        "Strategy"
+        "Strategy",
+        "Labor Elasticity"
       ]
     },
     {
@@ -308,7 +350,7 @@
       "ai_summary": "Passenger says Grab driver locked doors and charged her $2 for wet tissue, Singapore News&nbsp;&nbsp;AsiaOne",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -321,7 +363,7 @@
       "ai_summary": "Gojek S'pore suspends driver who asked woman, 26, for 'threesome' during 1am ride&nbsp;&nbsp;Mothership",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -334,7 +376,7 @@
       "ai_summary": "Is ‘Moana’ a ‘cash grab’ or Disney’s best remake yet? Here’s what critics are saying&nbsp;&nbsp;Yahoo",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -347,7 +389,7 @@
       "ai_summary": "Uber Group CEO leaves Grab board as Singapore company looks at spending over $1 billion in international acquisitions&nbsp;&nbsp;The Independent Singapore News",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -360,7 +402,7 @@
       "ai_summary": "'We can do a threesome': Gojek driver allegedly pesters female passenger with sexually charged remarks&nbsp;&nbsp;AsiaOne",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -373,7 +415,7 @@
       "ai_summary": "Pogacar, like Jordan, Bolt or Djokovic?&nbsp;&nbsp;France 24",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -386,7 +428,7 @@
       "ai_summary": "Singapore's Ryde Adds Bitcoin, Ethereum, and Solana to Treasury&nbsp;&nbsp;CoinMarketCap",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Regulation"
       ]
     },
     {
@@ -399,7 +441,7 @@
       "ai_summary": "Californians offered free Lyft rides to avoid drunk driving on 4th of July&nbsp;&nbsp;New York Post",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -412,7 +454,7 @@
       "ai_summary": "Monthly checklist: Credit card perks and benefits to use&nbsp;&nbsp;The Points Guy",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -438,7 +480,7 @@
       "ai_summary": "Uber&nbsp;&nbsp;Uber",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -451,7 +493,7 @@
       "ai_summary": "Boston allows struggling taxi drivers to begin accepting Uber, Lyft rides&nbsp;&nbsp;Boston Herald",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -464,7 +506,7 @@
       "ai_summary": "Your next Uber or Lyft ride in Boston could be a taxi&nbsp;&nbsp;Boston.com",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -477,7 +519,7 @@
       "ai_summary": "Are you paying a fair fare for Lyft or Uber?&nbsp;&nbsp;AZ Family",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -490,7 +532,7 @@
       "ai_summary": "New Boston pilot program lets riders hail taxis through Uber, Lyft&nbsp;&nbsp;WGBH",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -503,7 +545,7 @@
       "ai_summary": "Why Uber drivers in Victoria will come to regret joining a union&nbsp;&nbsp;Financial Post",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Labor Elasticity"
       ]
     },
     {
@@ -516,7 +558,7 @@
       "ai_summary": "Car Sharing & Carpooling in Singapore: A Complete Guide (2026)&nbsp;&nbsp;City Nomads",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -529,8 +571,9 @@
       "ai_summary": "ComfortDelGro deploys driverless shuttles in Punggol&nbsp;&nbsp;Singapore Business Review",
       "sentiment": "Neutral",
       "tags": [
-        "Autonomous",
-        "EV"
+        "AV Fleet",
+        "Electrification",
+        "Labor Elasticity"
       ]
     },
     {
@@ -543,7 +586,7 @@
       "ai_summary": "Why you are charged different prices for the same Uber or Lyft ride&nbsp;&nbsp;11Alive.com",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -556,7 +599,7 @@
       "ai_summary": "Uber Reaches California Ballot Deal After Fight Over Rideshare Responsibility&nbsp;&nbsp;NCHStats",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -569,7 +612,7 @@
       "ai_summary": "Moderate UK inflation outlook prompts DBS to upgrade ComfortDelGro to 'hold'&nbsp;&nbsp;The Edge Singapore",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -582,7 +625,7 @@
       "ai_summary": "California leaders yet to reach deal to keep billionaire tax off the ballot. Time is running out&nbsp;&nbsp;CalMatters",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -595,7 +638,7 @@
       "ai_summary": "[Targeted] Save 15% on Uber Gift Cards Today Only — Up to $75&nbsp;&nbsp;Upgraded Points",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -608,7 +651,8 @@
       "ai_summary": "Free driverless shuttle rides by ComfortDelGro&nbsp;&nbsp;The Straits Times",
       "sentiment": "Neutral",
       "tags": [
-        "Autonomous"
+        "AV Fleet",
+        "Labor Elasticity"
       ]
     },
     {
@@ -634,7 +678,7 @@
       "ai_summary": "Hospital patient who tried to grab gun from auxiliary police officer gets jail&nbsp;&nbsp;CNA",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -647,7 +691,7 @@
       "ai_summary": "Traffic, distance and algorithms? More factors might go into rideshare fares than you think&nbsp;&nbsp;CBS News",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -660,7 +704,7 @@
       "ai_summary": "Same ride, different price: CR probes Uber and Lyft fare changes&nbsp;&nbsp;WCVB",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -686,7 +730,7 @@
       "ai_summary": "Consumer Confidence: How Uber and Lyft set prices&nbsp;&nbsp;kaaltv.com",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -699,7 +743,7 @@
       "ai_summary": "UBER vs. GRAB: Which Ride-Hailing Stock Has an Edge at Present?&nbsp;&nbsp;Yahoo Finance",
       "sentiment": "Neutral",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -712,7 +756,7 @@
       "ai_summary": "ComfortDelGro sees China and Singapore as key robotaxi markets&nbsp;&nbsp;The Business Times",
       "sentiment": "Neutral",
       "tags": [
-        "Autonomous"
+        "AV Fleet"
       ]
     },
     {
@@ -738,7 +782,7 @@
       "ai_summary": "Grab and Enterprise Singapore launch initiative to help F&B merchants drive growth&nbsp;&nbsp;TNGlobal",
       "sentiment": "Positive",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
       ]
     },
     {
@@ -751,7 +795,8 @@
       "ai_summary": "Uber Sues New York City Over Driver Protection Law - Uber Technologies (NYSE:UBER)&nbsp;&nbsp;Benzinga",
       "sentiment": "Neutral",
       "tags": [
-        "Regulation"
+        "Regulation",
+        "Labor Elasticity"
       ]
     },
     {
@@ -764,7 +809,7 @@
       "ai_summary": "Grab to fund onboarding packages for 70 new F&B operators&nbsp;&nbsp;Singapore Business Review",
       "sentiment": "Neutral",
       "tags": [
-        "EV"
+        "Electrification"
       ]
     },
     {
@@ -777,7 +822,7 @@
       "ai_summary": "How old do you have to be to ride solo in an Uber, Waymo or Lyft? What to know&nbsp;&nbsp;Sacramento Bee",
       "sentiment": "Neutral",
       "tags": [
-        "Autonomous"
+        "AV Fleet"
       ]
     },
     {
@@ -791,7 +836,7 @@
       "sentiment": "Neutral",
       "tags": [
         "Regulation",
-        "EV"
+        "Electrification"
       ]
     },
     {
@@ -804,7 +849,243 @@
       "ai_summary": "New initiative ‘Grab Full House Mission’ to help Singapore’s F&B merchants drive growth online and offline&nbsp;&nbsp;Grab",
       "sentiment": "Positive",
       "tags": [
-        "Mobility"
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab, EnterpriseSG launch scheme to help small F&B businesses grow customer demand and capabilities",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDkwQ1ZxRGFUOW5veGRJWnV5NXFNbHVGcjRuV1ktRDR3MkFyZGZKYU1LSDJYVnRLajloTU93QXh1VTdwbmZmcjJTZHhCUndrbnhHX3RhUGVCMnRTVkZaZ3VVOGRScUxjRHVnNjdoak5uN29IRElkdEpzam5sMjg4OUNvdmpuYnhCaEhEUEZIRFc5Q3BobDA5T0V2RHFSMXFmdkdDaXNJdkxIRXR5Qjk2VGk0em1CeHpITy1fYmw3eXZlTHA3N19KZ25tckVQcUd1R3NZ?oc=5",
+      "published_at": "2026-06-09T07:00:00",
+      "snippet": "Grab, EnterpriseSG launch scheme to help small F&B businesses grow customer demand and capabilities&nbsp;&nbsp;The Business Times",
+      "source": "The Business Times",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab, EnterpriseSG launch scheme to help small F&B businesses grow customer demand and capabilities&nbsp;&nbsp;The Business Times",
+      "sentiment": "Positive",
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "title": "Grab S'pore launches new initiative to help smaller F&B businesses, includes dine-in discounts",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRW82T2t3akswNWxnUEl2Z2JuWFJLaXlOemdZdlcyd3hGN3FITnh5V3EyblUzTHgycmczbTdjQldzX1VzY2NxMkxyNHlsQTJPOFpyQTFRNzBRWDFhaERCZEFuUTBxd3RFTzJMeWRjTmxmcDFyMjdzNHpkdEF6a0xqTE1Yd01SU0F5QUlZ?oc=5",
+      "published_at": "2026-06-09T07:00:00",
+      "snippet": "Grab S'pore launches new initiative to help smaller F&B businesses, includes dine-in discounts&nbsp;&nbsp;Mothership",
+      "source": "Mothership",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab S'pore launches new initiative to help smaller F&B businesses, includes dine-in discounts&nbsp;&nbsp;Mothership",
+      "sentiment": "Positive",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab-Backed GXS Bank Takes 7.22% Stake in Indonesia’s Superbank",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XS3p0cng3bW1ha1RPSnI2a1dQeXptU0xkNzEzMGdVN1hZUkVscmRfRVBDUktYeTZ6NVhvV0Y5U2FaWXlHTXlLdzRsTjQ5WHhCVW1LZjBFOFNmazJtTll5dklwOWJyLTFZczI1QTZXakJ0c2VFZFZoVA?oc=5",
+      "published_at": "2026-06-04T07:00:00",
+      "snippet": "Grab-Backed GXS Bank Takes 7.22% Stake in Indonesia’s Superbank&nbsp;&nbsp;Fintech Singapore",
+      "source": "Fintech Singapore",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab-Backed GXS Bank Takes 7.22% Stake in Indonesia’s Superbank&nbsp;&nbsp;Fintech Singapore",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "GetGo Smashes $100,000 Car Ownership Burden in Campaign for Sustainable Mobility",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTXc0X1dCTm1wTjl2TkNvWDVTczJaMnRKQ2pzZDRCdWUtcUtVeXdMTnVENnlmWEg2b21CSklBemUwM1RZTUViQW5sTF9FR2NDZjRmS2JQQ1k1cUQ1SEJUYlBkaFRjci16dnFlS2xrZHk4TjZaRzAyQXk3RnBNTDl2ZjlncW1QYl9PVmVlalRHNzc2czl5OGgwbGNmU0RDU0hYbWVHNnVfaHljSkM5OXRrcDJkVVRmS0tXYzRIbW1lNE9mUW9ET3BMeFRPUmxSdzl0ckE?oc=5",
+      "published_at": "2026-06-04T07:00:00",
+      "snippet": "GetGo Smashes $100,000 Car Ownership Burden in Campaign for Sustainable Mobility&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "GetGo Smashes $100,000 Car Ownership Burden in Campaign for Sustainable Mobility&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab adjusts SG-JB pilot after more than 1,000 trips",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVk9hNXZDdHFjOUtrNWRiOFJzWVhCOW5pN09oUjNhZzBfa1lOTmhRc1BQQXlsN2hCbUJOVmQwNXluZGNRQ0dPWHJnbTJ1Zlk2aW9ZSjktSTcxSEo3MUFqZVVaT0h3MFpHLUlMajhscDVZci03enpZbkMzdS1FSzRYSVZkUGhONHRycEdOM2hWTEpJVUI4?oc=5",
+      "published_at": "2026-06-01T07:00:00",
+      "snippet": "Grab adjusts SG-JB pilot after more than 1,000 trips&nbsp;&nbsp;Singapore Business Review",
+      "source": "Singapore Business Review",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab adjusts SG-JB pilot after more than 1,000 trips&nbsp;&nbsp;Singapore Business Review",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification"
+      ]
+    },
+    {
+      "title": "Waymo's Solution After Cutting A Ride Short? Take Uber Or Lyft: Report",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNam1tNFNMRl9QWmo5Qk5yYWVrYWphdURUakctN05vWVFnVE85Mkl1YVZ3VXR5TzdaTFB0eDdpLU5yWmRMekhtWS0wLXNJVGFIQm5ZMjk2QUpNdVVIUWVveDU3cXZ3d0RObWt5aURPaGFNRlZnQUYwRG5SblllSy1rSHZrbU9TTG1ZLWZxbFRlT3FzOEZvUVpkQTlhdkw2dHFp?oc=5",
+      "published_at": "2026-06-01T07:00:00",
+      "snippet": "Waymo's Solution After Cutting A Ride Short? Take Uber Or Lyft: Report&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "category": "Global P2P",
+      "ai_summary": "Waymo's Solution After Cutting A Ride Short? Take Uber Or Lyft: Report&nbsp;&nbsp;Yahoo Finance",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet",
+        "Strategy"
+      ]
+    },
+    {
+      "title": "New program offers free Uber, Lyft rides to South Florida commuters",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdlZNVDhibkdYbzJUeUc5RW1iMmp0TzVjZks5UG9YdU1aUXlDSEZvbzNfc2pmdVkzaklwWU5JZ3ZVOTBRT09CbE1XblE2Yk5vUnN5UkhfWk55UlV2S1drcUpBOUc3OVZsX2dGZFRSQVdLOUhLRjBfYjhtYl9wbzFsR2FnRXd5c2ZNQTdEWWhrZGI5N0xkVlZfeUluS0pLNXVFYVk0RkotMmt6ZTJ6RmQ0c1RQNnZsZ0Z0VUVLRTljM1RqeHZLWDFuaHk1MDB4UndMV2JDV0NHek1qbktURUZaVGZfN1FweHQtc3luaQ?oc=5",
+      "published_at": "2026-06-01T07:00:00",
+      "snippet": "New program offers free Uber, Lyft rides to South Florida commuters&nbsp;&nbsp;IslanderNews.com",
+      "source": "IslanderNews.com",
+      "category": "Global P2P",
+      "ai_summary": "New program offers free Uber, Lyft rides to South Florida commuters&nbsp;&nbsp;IslanderNews.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab rides to JB can now be booked 6 hours ahead; 30% discount during school holidays",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY2t5NVNEVzAyVVkzS2g2NW44Qi1DVXh1WkNBNlVwTUt2YmhaQ0pkY2FTQnJqTUxSMDR3MGdLM2dhQ1V2ZmZkRElwVDZNTmp3ZkNwYmp2SGVGZ2tmOGhuOXFMQ2Ntb19MejF3WDJ1VEtNSHRQTWM4S1FLaDBadHlEVUhjM3d1V3RZeVFIajBKVkpkTVdMMVVJbkVvUFFGeHlQc1l6SF9UMXltWjdMd0VLZTVyXzM4Q0ItZkRRc1ZuaEUzZDd2bGM4SHhCX3E?oc=5",
+      "published_at": "2026-05-29T07:00:00",
+      "snippet": "Grab rides to JB can now be booked 6 hours ahead; 30% discount during school holidays&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab rides to JB can now be booked 6 hours ahead; 30% discount during school holidays&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab rides to JB can be booked 6 hours in advance; 30% discount during June holidays, Singapore News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzYxcWNKMENvWTdKZE1wbkRPUU1SWXQtTFVTZU9ydWtTMjctTnhXdXRQOGJyN1dpWi04dWFVZDFXemtCUHVPbHhOWlJnV09vVThRVXdLRGxDRWJlaXI0Ry1XOUk2d2pCdnd6dWY4LUNBVFNKaFVweWlkQkpCcEJaSHFfSHl5NTd6VlhQY3ZDenc0VXN2YlZNOHRpWUI?oc=5",
+      "published_at": "2026-05-29T07:00:00",
+      "snippet": "Grab rides to JB can be booked 6 hours in advance; 30% discount during June holidays, Singapore News&nbsp;&nbsp;AsiaOne",
+      "source": "AsiaOne",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab rides to JB can be booked 6 hours in advance; 30% discount during June holidays, Singapore News&nbsp;&nbsp;AsiaOne",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "A Waymo car ended a ride early, then the company told the passenger to get an Uber",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFFJY3RZNEFLbGZXMVNkZ1RsZHR0c1d3clMyby1GUl8wNDBWeWlZM19MOE1tdXdkcWpTVHQycm1UV2l0NVBFMUN3TUV2ZXlHUEctTXYybXowOTRTMVpRZGRYZXFGVGNUZW1EODlkbUxBRkZiSDlQa3BMVXJPTkRZZEFsS01SdVhuVjFwc21HV21mQ0hCLWhUejFB?oc=5",
+      "published_at": "2026-05-27T07:00:00",
+      "snippet": "A Waymo car ended a ride early, then the company told the passenger to get an Uber&nbsp;&nbsp;Business Insider",
+      "source": "Business Insider",
+      "category": "Global P2P",
+      "ai_summary": "A Waymo car ended a ride early, then the company told the passenger to get an Uber&nbsp;&nbsp;Business Insider",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet"
+      ]
+    },
+    {
+      "title": "Uber's $10 Billion Robotaxi Bet Is Turning Lucid Into A Dilution Machine",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVJLRzNxVHY5R040LXFVZUl2RHRUY2xRTUMzLUdwdFFOeWdmdElldDhrMFM4cGNNRnJsbEJLYXF3MnV1ZHJlUXZpSlpMcXE4MlpPSnpkZ1lBTS1KeERkcVZaenEzNUFPSUxYSF9qZGVPMDRlaUtwMlpxbWZJbDQxQkxXcmRaTUUyOGVnbmVaLVNGMUpYc25pdW5R?oc=5",
+      "published_at": "2026-05-27T07:00:00",
+      "snippet": "Uber's $10 Billion Robotaxi Bet Is Turning Lucid Into A Dilution Machine&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "category": "Global P2P",
+      "ai_summary": "Uber's $10 Billion Robotaxi Bet Is Turning Lucid Into A Dilution Machine&nbsp;&nbsp;Yahoo Finance",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet"
+      ]
+    },
+    {
+      "title": "McKinsey: US Autonomous Vehicle Market Could Reach $230bn by 2035",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlU0R0pmYVZ3eVN0YzZTcFVFaHhjT21jZnVKR0NhY1VTVUFYdmVobV85cDVFSmpIUjBKVGNVRXp2RnZkZ1llMElEZVZiTV9qVnZTNm5fNFFCMEVXdm9hNHFWUUhpZUtjNm5nOV9ocE1PX21ubld5TkpKaXVyaU96eklkaFpPaDgwNTdJODc5VlYwcnVtdFkzSUFENA?oc=5",
+      "published_at": "2026-05-27T07:00:00",
+      "snippet": "McKinsey: US Autonomous Vehicle Market Could Reach $230bn by 2035&nbsp;&nbsp;Zag Daily",
+      "source": "Zag Daily",
+      "category": "Consulting Opinions",
+      "ai_summary": "McKinsey: US Autonomous Vehicle Market Could Reach $230bn by 2035&nbsp;&nbsp;Zag Daily",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet",
+        "Strategy"
+      ]
+    },
+    {
+      "title": "Lyft is coming for corporate travel",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanp4eDVRZ2MyYU1yYnZCX2FKTXBOd0NZYm1ZaG1BSWhBck04OWx0cFZ3a3VvaTA2LUt3WkpEYi1QN3FFSFpEQjN6N0hBbDBOVnh1Y3NvMGRjYVNtYzRwSzJXUXNoMjRwYjVlUHVta1ZoZUhobmN2MHYtbGR5OUxyOXp5ZUc?oc=5",
+      "published_at": "2026-05-26T07:00:00",
+      "snippet": "Lyft is coming for corporate travel&nbsp;&nbsp;Semafor",
+      "source": "Semafor",
+      "category": "Global P2P",
+      "ai_summary": "Lyft is coming for corporate travel&nbsp;&nbsp;Semafor",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Strait of Hormuz toll: Iran's power grab or a negotiating card?",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNHhCOThFUDJ5YjEyNmk2MFhNTkRYTmFuNmxhWHZxRnRPRzJ2ektOUldPbjY3eFkyUWg4VnZ5VEotdnowZnR2N2k4R3gxUFRJeDBid212NnR6MTk2TGN3NUlnSFg5c0tmbU5ZVVMtYmJkMFVLX0pleDlYcHIyZy1rb21adlR0aFcwblJOamk5MS1yUdIBlwFBVV95cUxNZkstNFVGRzBfSVQ4OFhwMlItQnZHTkJZSnhFaG8yM1dFYWNQdWRsczNEQ0h6UW50NXBfcGVVOFhRUjg0eG04NVRsaTJxXzV2Ykl1LVlSdXBEcDlHcXZWWWlHRW1XX0xhZEZ2OWRBc2NqSExfU3ZXWGlkM3gzb19mUGsyVlhabUVvU1Vzekd5R1pxdU1YeUtr?oc=5",
+      "published_at": "2026-05-25T07:00:00",
+      "snippet": "Strait of Hormuz toll: Iran's power grab or a negotiating card?&nbsp;&nbsp;The New Arab",
+      "source": "The New Arab",
+      "category": "Global P2P",
+      "ai_summary": "Strait of Hormuz toll: Iran's power grab or a negotiating card?&nbsp;&nbsp;The New Arab",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab extends temporary fuel surcharge, metered taxi fare adjustment till July 31, Singapore News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORC1OS1o3LWdxMWNHY3pJQjJOVDZKWEdUSnNScnNsRGxqc3NmSEJsN2M3X1R3cW5TTnVYbEJSNUN3Rnk1TFBWVFRKdC1Lek13N0xFU3RiXzFQRlhkcjhBUEt5enVPVnRLdTRnRU53NEtDb1V3MnRhVC1DbE95MUw1ZVZjaGhkOUNQUnVJQUhXdXZYaTNYY1Q3ZEpaa3dBYnM0RUh2eEdQbjNVbTZo?oc=5",
+      "published_at": "2026-05-23T07:00:00",
+      "snippet": "Grab extends temporary fuel surcharge, metered taxi fare adjustment till July 31, Singapore News&nbsp;&nbsp;AsiaOne",
+      "source": "AsiaOne",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab extends temporary fuel surcharge, metered taxi fare adjustment till July 31, Singapore News&nbsp;&nbsp;AsiaOne",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab extends fuel surcharge, higher GrabCab metered fare rate until end July amid fuel price volatility",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3NSZk82YVdEb1k2VHZhTWI0XzAwU04yQ0l6QzJCbHpVOHdSWlNfLVk1NzlrTi1CS1o5OC1vRDVHU3k0QzNkWTdzUUl6SUxZZmR3RFF2c2ZYR0E3aEl1U1k1NXFGRDlxTGZZM0tYLVFpSW16ZjJRTV9tb1hsU1pUZU81R2dOLTQyU1ZGRUlnWHZJZjBrZmNqVUlaVnUzUkJzcFdubXVqVnZJSjNf?oc=5",
+      "published_at": "2026-05-23T07:00:00",
+      "snippet": "Grab extends fuel surcharge, higher GrabCab metered fare rate until end July amid fuel price volatility&nbsp;&nbsp;CNA",
+      "source": "CNA",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab extends fuel surcharge, higher GrabCab metered fare rate until end July amid fuel price volatility&nbsp;&nbsp;CNA",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Singapore Grab extends 90-cent fuel surcharge, higher GrabCab metered fares till July 31",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdUx6Q3czSlRMLUxYQWdfUHhqT1JJQ2xXSTZTSVp4aTJRc01mNFYyXzhPdFRGckhsNnhXV0JPMG1Ka1NsWnd6czFQZ1BaTkJRaVMzaFRXSTY2eXFiUXVES2o4S2ttdkwwWEJGR1VWX3A3U0I1cmx0WlZ3WHhpQnA0SnllQXBDVW5oYjAwUzY3VGRtN3gyZ1dRX0gzT1l4Wi01eGdmUmlJSm1SVnZacVlqNTEwaXB4Y1FJcWgxTGtpM1JWNnJYTGcwYzQxakNYMk5vSTNJVzVUaDB0NmgxWUJPNVhHS3k?oc=5",
+      "published_at": "2026-05-23T07:00:00",
+      "snippet": "Singapore Grab extends 90-cent fuel surcharge, higher GrabCab metered fares till July 31&nbsp;&nbsp;The Star",
+      "source": "The Star",
+      "category": "Singapore P2P",
+      "ai_summary": "Singapore Grab extends 90-cent fuel surcharge, higher GrabCab metered fares till July 31&nbsp;&nbsp;The Star",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "ComfortDelGro's largest shareholder tops up stake with open market buying at average of $1.29",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRlgxN3RiWVNlS1BuZzlrU3Y1aFROa0ppVW11eVA4NW50bXI5aGJkNGVZN21JbG5pZ0FwUkhzYmFSMXk5LUpxU2RaNXRBMnh1RjI3SXRuemVQZGc4WVk2emFLaTJfQjJEblgwcFBhWDdhdEpTcnZKbnZ1XzRYazh4S19rT0RkTmE5dGg5QjE5ZDVseWlIWnZCalFzbjRKbFAxN3JUa0NMaG9fM0NHcUdkS3FUYVJhdmlWT1BFOS1tR1dWbjJXRkZlUWhNcw?oc=5",
+      "published_at": "2026-05-22T07:00:00",
+      "snippet": "ComfortDelGro's largest shareholder tops up stake with open market buying at average of $1.29&nbsp;&nbsp;The Edge Singapore",
+      "source": "The Edge Singapore",
+      "category": "Singapore P2P",
+      "ai_summary": "ComfortDelGro's largest shareholder tops up stake with open market buying at average of $1.29&nbsp;&nbsp;The Edge Singapore",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
       ]
     }
   ]

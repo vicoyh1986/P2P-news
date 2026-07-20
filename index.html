@@ -39,7 +39,7 @@
         
         <!-- Left: Briefing Overview -->
         <div class="briefing-main">
-          <span class="briefing-tag" id="executive-tag-badge">AI Executive Digest</span>
+          <span class="briefing-tag" id="executive-tag-badge">AI Systems & Strategy Digest</span>
           <h2 id="briefing-headline">Analyzing the P2P Transport Market Dynamics...</h2>
           <div class="briefing-summary" id="briefing-summary-content">
             <p>Aggregating daily insights, structural changes, and regulatory responses in the point-to-point transit sector. Please configure your Gemini API key to activate advanced strategic analysis.</p>
@@ -53,7 +53,6 @@
             Strategic Themes
           </h3>
           <div class="themes-list" id="strategic-themes-list">
-            <!-- Theme items rendered by app.js -->
             <div class="theme-item active">
               <div class="theme-header">
                 <span class="theme-title">Analyzing Themes</span>
@@ -71,11 +70,54 @@
             Executive Takeaways
           </h3>
           <div class="takeaways-list" id="executive-takeaways-list">
-            <!-- Takeaway items rendered by app.js -->
             <div class="takeaway-item">
               <div class="takeaway-badge">1</div>
               <div class="takeaway-text">Synthesizing action plans and advisory metrics...</div>
             </div>
+          </div>
+        </div>
+        
+      </div>
+    </section>
+
+    <!-- Systems Dynamics & Strategic Alignment Matrix (Upgraded 2D Plot) -->
+    <section class="glass-card matrix-card-wrapper" id="systems-dynamics-matrix-panel">
+      <div class="matrix-header">
+        <div class="matrix-title-block">
+          <span class="matrix-subtitle">MIT Systems Dynamics</span>
+          <h3>Policy Friction vs. Operational Efficiency Matrix</h3>
+        </div>
+        <p class="matrix-intro-text">This interactive 2D mapping plots strategic corporate presentations, whitepapers, and earnings briefs. High-scoring positions represent maximized vehicle-dispatch optimization; rightmost positions indicate high policy friction (municipal regulatory caps, driver wage-floors, congestion zones).</p>
+      </div>
+      <div class="matrix-grid-container">
+        
+        <!-- Left: The Plot Axis & Grid -->
+        <div class="matrix-plot-wrapper">
+          <div class="y-axis-label">OPERATIONAL SYSTEMS EFFICIENCY ➔</div>
+          <div class="matrix-plot-area">
+            
+            <!-- Matrix Quadrant Titles -->
+            <div class="quadrant-label top-left">High Yield / Unregulated</div>
+            <div class="quadrant-label top-right">Optimal Balance / High Friction</div>
+            <div class="quadrant-label bottom-left">Sub-Optimal / Early Stage</div>
+            <div class="quadrant-label bottom-right">Regulated / Low Yield</div>
+            
+            <!-- Scatter Canvas Area -->
+            <div class="scatter-plot-canvas" id="scatter-canvas">
+              <!-- Coordinate dots are mapped here dynamically via app.js -->
+              <div class="no-data-plot" id="no-data-plot-message">Loading matrix alignment coordinates...</div>
+            </div>
+            
+          </div>
+          <div class="x-axis-label">MUNICIPAL POLICY & REGULATORY FRICTION ➔</div>
+        </div>
+        
+        <!-- Right: Active Selected Deck Summary Box -->
+        <div class="matrix-info-box" id="matrix-active-info-box">
+          <div class="info-box-placeholder">
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color: var(--color-primary); margin-bottom: 12px;"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path><path d="M13.73 21a2 2 0 0 1-3.46 0"></path></svg>
+            <h4>Select a Deck Coordinate</h4>
+            <p>Hover or click over any coordinate dot on the matrix to review the MIT transport systems critique and corporate model assumptions.</p>
           </div>
         </div>
         
@@ -109,6 +151,15 @@
             </div>
             <div class="vol-dist-bar-wrapper">
               <div class="vol-dist-bar" id="bar-global-p2p" style="background: var(--color-accent);"></div>
+            </div>
+          </div>
+          <div class="vol-dist-item">
+            <div class="vol-dist-header">
+              <span class="vol-dist-label">Strategy Decks & Research</span>
+              <span class="vol-dist-value" id="count-decks">0% (0)</span>
+            </div>
+            <div class="vol-dist-bar-wrapper">
+              <div class="vol-dist-bar" id="bar-decks" style="background: #ffffff; box-shadow: 0 0 10px rgba(255,255,255,0.3);"></div>
             </div>
           </div>
           <div class="vol-dist-item">
@@ -165,7 +216,6 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
         </h4>
         <div class="keyword-cloud" id="keyword-cloud-container">
-          <!-- Tag elements populated by app.js -->
           <span class="keyword-tag">Loading Tags...</span>
         </div>
       </div>
@@ -179,7 +229,7 @@
         <!-- Search bar -->
         <div class="search-bar-wrapper">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-          <input type="text" class="search-input" id="search-bar-input" placeholder="Search news titles, AI summaries, sources, or keywords...">
+          <input type="text" class="search-input" id="search-bar-input" placeholder="Search news, investor decks, academic critiques, or geofenced tags...">
         </div>
         
         <!-- Sentiment Filter dropdown -->
@@ -203,11 +253,12 @@
         
       </div>
 
-      <!-- Category Filter Pills Bar -->
+      <!-- Category Filter Pills Bar (Upgraded) -->
       <div class="category-pills-bar" id="category-pills-bar">
-        <button class="category-pill active" data-category="all" id="pill-category-all">All News</button>
+        <button class="category-pill active" data-category="all" id="pill-category-all">All Intelligence</button>
         <button class="category-pill" data-category="Singapore P2P" id="pill-category-sg">Singapore P2P</button>
         <button class="category-pill" data-category="Global P2P" id="pill-category-global">Global P2P</button>
+        <button class="category-pill" data-category="Strategy Decks" id="pill-category-decks">Strategy Decks & Research</button>
         <button class="category-pill" data-category="Consulting Opinions" id="pill-category-consulting">Consulting Opinions</button>
       </div>
     </section>
@@ -230,8 +281,8 @@
       <a href="#" class="footer-logo" id="footer-logo-link">
         P2P<span>INTELLIGENCE</span>
       </a>
-      <p>&copy; 2026 P2P Intelligence. Generated via Google Gemini API & automated via GitHub Actions daily.</p>
-      <p style="font-size: 0.75rem; color: var(--text-dark);">For institutional research and strategy formulation purposes only.</p>
+      <p>&copy; 2026 P2P Intelligence. Developed alongside the MIT Mobility Initiative standards & automated via GitHub Actions daily.</p>
+      <p style="font-size: 0.75rem; color: var(--text-dark);">For academic analysis, strategic consulting, and enterprise investment evaluation purposes only.</p>
     </div>
   </footer>
 
