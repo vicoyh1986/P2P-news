@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T02:14:06.271854+00:00",
+  "last_updated": "2026-08-03T02:22:05.656644+00:00",
   "ai_active": false,
   "executive_brief": {
     "headline": "Systems Dynamics of Global Shared Fleet Operations & Curb Economies",
@@ -26,6 +26,26 @@
   },
   "articles": [
     {
+      "title": "Uber’s $1 Trillion Opportunity That Wall Street Is Completely Ignoring",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFlObGlONUJzRDczV2xiVW5OaVQyOFRCaFN2MjM2RHp4T1N6TVUwWmlCT1FjYU5uZ0VqM3AwTmJ0QkZWZjMxa3VJZG94SlFESThNUGo5ZDU3ZGlTS093NDgzbU02TDdMUHlrMVNXTUVRbEtzZTRGc0lXbGFUcGQ3RWx5ODZFeUdPZE1nT3NYSGdZTWxBNmRUMVFHYVc4MHJuMVZYUEJfVXpuYzFVVW12NUdn?oc=5",
+      "published_at": "2026-08-02T14:54:22",
+      "snippet": "Uber’s $1 Trillion Opportunity That Wall Street Is Completely Ignoring&nbsp;&nbsp;24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "category": "Strategy Decks",
+      "ai_summary": "Uber’s $1 Trillion Opportunity That Wall Street Is Completely Ignoring&nbsp;&nbsp;24/7 Wall St.",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ],
+      "academic_analysis": {
+        "systems_impact": "Maximizes vehicle utilization rates through autonomous partnerships but heavily spikes local grid peak charging loads.",
+        "methodological_assumptions": "Assumes municipal city councils will allow unrestricted robotaxi geofences without high licensing surcharges.",
+        "professors_critique": "Highly efficient dispatch paradigm that completely minimizes deadheading, yet is extremely vulnerable to municipal blockades.",
+        "systems_efficiency": 85,
+        "policy_friction": 65
+      }
+    },
+    {
       "title": "Vietnam frustrated as Singapore grab a point in Hanoi",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFJ3LW51MTY1blFrdjBiWGxPQ0lJbmpUSXZFaklDak55SkZKcmUzREFRRndwTXVMeTQ4dGdVeHYtb2h1RW5WWVB3RVNSR3RQNUYzbnNmUDJMY05qZHF1ZElFRjZXWkNqTGcxdFF0dUxnXzhsZm4wZDRHNEZQZzJsYzZqREdUUmNwTFBtWWMxX3I?oc=5",
       "published_at": "2026-07-31T15:15:46",
@@ -39,24 +59,18 @@
       ]
     },
     {
-      "title": "Stock Market Today: Live Updates 31.07.2026",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmeTJOYVBwSVkwX3h2bTBLMEJ3LVpPcFFyYzBRSWwwUGNNVGFOVGZid3FXemZRWkNUQ2pOak1IMEFQU3BnUGExZGJxbGdZN1VkMk1RMElkdndnOVVaVm9B?oc=5",
-      "published_at": "2026-07-31T08:00:02",
-      "snippet": "Stock Market Today: Live Updates 31.07.2026&nbsp;&nbsp;TechStock²",
-      "source": "TechStock²",
-      "category": "Strategy Decks",
-      "ai_summary": "Stock Market Today: Live Updates 31.07.2026&nbsp;&nbsp;TechStock²",
+      "title": "Grab to pilot on-demand autonomous shuttles in Punggol",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmZXZkQ2ZklERm9rdFAxQjNpYVlPTi00SHR1SEZqTWxCVm1vRURaWlphazQ5VkMxX2tYN1NRRXdzRXhpaGpZX2IxMWMzblpxV2VEVjB6cWxMNnZqNzhwTEZRZDkybW1SaGdZV29hb1RLd0NmaXVyd3hITWVFTTFMVDdtUmFXMDcxendkSXJwVEZRYkRnZmJN?oc=5",
+      "published_at": "2026-07-30T23:28:39",
+      "snippet": "Grab to pilot on-demand autonomous shuttles in Punggol&nbsp;&nbsp;Singapore Business Review",
+      "source": "Singapore Business Review",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab to pilot on-demand autonomous shuttles in Punggol&nbsp;&nbsp;Singapore Business Review",
       "sentiment": "Neutral",
       "tags": [
-        "Shared Mobility"
-      ],
-      "academic_analysis": {
-        "systems_impact": "Improves overall fleet dispatch dynamics and driver positioning models.",
-        "methodological_assumptions": "Models customer demand as an isolated variable independent of city public transit corridor improvements.",
-        "professors_critique": "Solid operational blueprint that provides immediate corporate yield, yet ignores micro-curb capacity barriers.",
-        "systems_efficiency": 65,
-        "policy_friction": 40
-      }
+        "AV Fleet",
+        "Electrification"
+      ]
     },
     {
       "title": "Lyft stock may move 13% on earnings release next week By Investing.com",
@@ -172,6 +186,19 @@
       ]
     },
     {
+      "title": "Revenue service for Punggol self-driving shuttles delayed to Q4; Grab to test on-demand rides",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRzhiLWlNeHdCWERsc0J6Q01hMnNjRXVMY21kX0xscFZIa3hXbHVROHd5d1BPaHNHWTJnVm9USmdwcFl6N0pZOUZ5bm1Qd0tvTmFGcTRqdlNYRGQ0a2Y4YUc1d2oyQnI4anZuZzduWnlnRXdmQzM1RkRiZzJnMUMzRHg3c0s4eUN0X1pIck1FdFdTbXRUd0ZYX2FVd1lnZWJ1NU4zS2xxWk1HSVhYOWk5N3FTeWdGSGEzM1cxSWZqYmZGUnlLVVFjZzZBSGVHNkxhUHV2bGR0Tms?oc=5",
+      "published_at": "2026-07-29T10:00:00",
+      "snippet": "Revenue service for Punggol self-driving shuttles delayed to Q4; Grab to test on-demand rides&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "Revenue service for Punggol self-driving shuttles delayed to Q4; Grab to test on-demand rides&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification"
+      ]
+    },
+    {
       "title": "Grab to pilot direct route services for self-driving shuttles in Punggol, Singapore News",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmdJWm9IYzRuOW12MzVCY1Zka2RqZ2FTaW5WVjV5dTBERVZkY0x2dURuMlNLRENYMGF5WXhaV2JZWm1IWlYwZ1NYWTNremZlTnE2NGNZZFlJR3hac1JMZFpEZFBuMzlMN1J4Y2gtWklCNGdzeGJkTkhGVlNkTjhaY2VwU01NZHUy?oc=5",
       "published_at": "2026-07-29T10:00:00",
@@ -240,11 +267,11 @@
     {
       "title": "Uber and Lyft Dominate the Ride-Share Industry. Can Rivals Cut In?",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHN2WjBRS21xczUxeG04YjNXVmJlY3FIZjZ6TEJnaWN4U005Y055dmhuREZQTl9Ka2xTMVQ0N0hsdGZwMWZvUE5GSFFjd2FjM1VmM3FPYVlxU0N6cEpsY3kyS05ZMGxQVVpxSmJLcmU1WmtBaU5TUmF4Rlc1ekVPcA?oc=5",
-      "published_at": "2026-07-25T07:00:07",
-      "snippet": "Uber and Lyft Dominate the Ride-Share Industry. Can Rivals Cut In?&nbsp;&nbsp;nytimes.com",
-      "source": "nytimes.com",
+      "published_at": "2026-07-25T07:00:00",
+      "snippet": "Uber and Lyft Dominate the Ride-Share Industry. Can Rivals Cut In?&nbsp;&nbsp;The New York Times",
+      "source": "The New York Times",
       "category": "Global P2P",
-      "ai_summary": "Uber and Lyft Dominate the Ride-Share Industry. Can Rivals Cut In?&nbsp;&nbsp;nytimes.com",
+      "ai_summary": "Uber and Lyft Dominate the Ride-Share Industry. Can Rivals Cut In?&nbsp;&nbsp;The New York Times",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -267,7 +294,7 @@
     {
       "title": "Broker's Digest: The Hour Glass, Marco Polo Marine, ComfortDelGro, Addvalue, Oiltek, Singapore Exchange",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcllLXzZKNEtFT2ZXSjZwaEpDa1hRckozOEdZX2t3V0hLNmtockc0UGpKODVreVd4NkNWRTR4MEVwOTlaN1JEMnZzcF9meW1DUllibHhVd3JBVlduVElqZjNGZXdwMl96OGgzYkJVakRRN3A2NTdVQlluQkVjMHpjVDZWU3F1Mm5tMWtMc2lmMl9vRVBNZlpKRFB4Q1FQdlBvR2RlN2FJZnlDUlJlOFR3VmdIbzZNaE1zNVA0TW1FT0pIUlBjY1dZ?oc=5",
-      "published_at": "2026-07-24T03:00:00",
+      "published_at": "2026-07-24T07:00:00",
       "snippet": "Broker's Digest: The Hour Glass, Marco Polo Marine, ComfortDelGro, Addvalue, Oiltek, Singapore Exchange&nbsp;&nbsp;The Edge Singapore",
       "source": "The Edge Singapore",
       "category": "Singapore P2P",
@@ -294,10 +321,10 @@
       "title": "EXPLAINER: Can Grab survive Indonesia's commission cap?",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGJjUFUtWnlyLXhBSFdIZGVzMThVRUhFYUpRWXJLRzJGSVlYbWtsb19lb0hBaWZPdmlYZmZBSER1c0dXOWRMckhQZWtYbDkxYVhLZlBUZnVQTFpSZE1OcTBJeTA5UUkySGJyT2dfZ0l1ZTRsQk9aTHVGMW5ISHIyNGZMVDJEaV83Q1NrclBpenY5WEtONURQUnYtMzItUQ?oc=5",
       "published_at": "2026-07-22T12:00:00",
-      "snippet": "EXPLAINER: Can Grab survive Indonesia's commission cap?&nbsp;&nbsp;| Asian Legal Business",
-      "source": "| Asian Legal Business",
+      "snippet": "EXPLAINER: Can Grab survive Indonesia's commission cap?&nbsp;&nbsp;legalbusinessonline.com",
+      "source": "legalbusinessonline.com",
       "category": "Singapore P2P",
-      "ai_summary": "EXPLAINER: Can Grab survive Indonesia's commission cap?&nbsp;&nbsp;| Asian Legal Business",
+      "ai_summary": "EXPLAINER: Can Grab survive Indonesia's commission cap?&nbsp;&nbsp;legalbusinessonline.com",
       "sentiment": "Neutral",
       "tags": [
         "Regulation"
@@ -330,19 +357,6 @@
       ]
     },
     {
-      "title": "Singapore Exchange launches SpaceX, Grab depository receipts",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObHlZRDY3VHpNcDQwMnZHWXU1dmFIdVZWTDduSHJUR0s0YkFLbklkMlN5QWpKTWU3TnVBVG9VS0pBUEdaUkx6TGw2ZklVSktMdEwyTmpKZkZwLWxibkhfTzlkSzBXN29TcHRTQWRUZVlWX3hyNHJoVzl3bENfWEp3eG9lbFdMMy1KQlBwNmJkUElmUVpvcmd2bHpzQWJmSnk3Zm5GTmNBbVVlbDBHajVSSkNKUE5VdFRHLWc?oc=5",
-      "published_at": "2026-07-22T07:00:00",
-      "snippet": "Singapore Exchange launches SpaceX, Grab depository receipts&nbsp;&nbsp;VnExpress International",
-      "source": "VnExpress International",
-      "category": "Singapore P2P",
-      "ai_summary": "Singapore Exchange launches SpaceX, Grab depository receipts&nbsp;&nbsp;VnExpress International",
-      "sentiment": "Positive",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Uber Sexual Assault Lawsuit June 2026 Update: Settlements & How to File",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jNlBsczlCSEE2clNoYlZ1SEtvVnZCV1Q0Mm8wQmRJMjJNcXMyV0hEbE91MHU0Yldwa1Jybzdva0xCWUs2X3BtSEhtbEowd1B5MkdxZEF1akZvcGxzVERyRkFOekZfeHRrMHEydE9B?oc=5",
       "published_at": "2026-07-22T07:00:00",
@@ -369,19 +383,6 @@
       ]
     },
     {
-      "title": "SGX expands SDR suite to Nasdaq-listed Grab, Sea and SpaceX",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUNaaEhtSDZDQWxvMUtrOEVESXUxbFQ0VGlDZEUtOVRTYUl5QjFaLURTT09mQkJxdFA3OEM1MlVQTk0xd0k1Tm1aRFJqOEYyUkx6LUdDVXEzMVJxQUl0TmFPRVhyMGlITG0zVGtyMFJlbUtudjM1MEducVV5aGV2cl9wQjBpQ3Zvay1FaEcxWmxMVzctYWJ6eVF0MFVTY1FlNTFoamFzVmQyd9IBrwFBVV95cUxNMTRodFFRZWs3OUtvemVjREtZMFhRRjk2U2tsVklwVTNjQjRaNlZwY3Z1eWNTWXVlUnM1Nkk5VFU1bVI1eTdWWkJWNTVTWVpGUVMxdGdYVkZzRmE1RlJYTnJMTW9UZ3h4TU5FUFZ5NFlLZ0xmclJHS2FxSVhvVWJQdzdyck1jUVlFcnpiNkpSZXgyTjVVUWtuOUpCQTdRSno1UThIVkFRRXBPOHk1WUxV?oc=5",
-      "published_at": "2026-07-21T09:41:31",
-      "snippet": "SGX expands SDR suite to Nasdaq-listed Grab, Sea and SpaceX&nbsp;&nbsp;The Edge Singapore",
-      "source": "The Edge Singapore",
-      "category": "Singapore P2P",
-      "ai_summary": "SGX expands SDR suite to Nasdaq-listed Grab, Sea and SpaceX&nbsp;&nbsp;The Edge Singapore",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Inside Grab's Singapore Headquarters: Southeast Asia's Super-App Leader Eyes Taiwan Expansion",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aU2JwbGFkR2tNVXBBYkl1UVJoWFZWN1ZacHFCalRhWmM4REh2SUJWWDZoM21nWTVOT3ZadzdELW9CNndyd1V0aEc4aXprMDl5d3N6eE50bG1MOG9yaXp0UlVwNkplcGc?oc=5",
       "published_at": "2026-07-21T07:42:10",
@@ -389,6 +390,19 @@
       "source": "天下雜誌",
       "category": "Singapore P2P",
       "ai_summary": "Inside Grab's Singapore Headquarters: Southeast Asia's Super-App Leader Eyes Taiwan Expansion&nbsp;&nbsp;天下雜誌",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "SpaceX, Sea and Grab to debut as SGX’s first US SDRs",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanlxdm82clBGT09jZzUyc0JvMm5oUXZCVXdsbzdHdEpzb3AtaHNfelNKMHZhcFh6ZGtYWDhpaF9RMkdiaU9jek5uU2QxYWtZMl9WSkpjUVB2U05XWkhhRlAxR3hQNHJ0Y01ieURDbm84UGw0WER4TVBlZC1icmw2Q2hveFpZRktrX241UTYyRkV2U21rNUZIX2FCSQ?oc=5",
+      "published_at": "2026-07-21T07:00:00",
+      "snippet": "SpaceX, Sea and Grab to debut as SGX’s first US SDRs&nbsp;&nbsp;businesstimes.com.sg",
+      "source": "businesstimes.com.sg",
+      "category": "Singapore P2P",
+      "ai_summary": "SpaceX, Sea and Grab to debut as SGX’s first US SDRs&nbsp;&nbsp;businesstimes.com.sg",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -408,13 +422,13 @@
       ]
     },
     {
-      "title": "SpaceX, Sea and Grab to debut as SGX’s first US SDRs",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanlxdm82clBGT09jZzUyc0JvMm5oUXZCVXdsbzdHdEpzb3AtaHNfelNKMHZhcFh6ZGtYWDhpaF9RMkdiaU9jek5uU2QxYWtZMl9WSkpjUVB2U05XWkhhRlAxR3hQNHJ0Y01ieURDbm84UGw0WER4TVBlZC1icmw2Q2hveFpZRktrX241UTYyRkV2U21rNUZIX2FCSQ?oc=5",
+      "title": "SGX expands SDR suite to Nasdaq-listed Grab, Sea and SpaceX",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeUNaaEhtSDZDQWxvMUtrOEVESXUxbFQ0VGlDZEUtOVRTYUl5QjFaLURTT09mQkJxdFA3OEM1MlVQTk0xd0k1Tm1aRFJqOEYyUkx6LUdDVXEzMVJxQUl0TmFPRVhyMGlITG0zVGtyMFJlbUtudjM1MEducVV5aGV2cl9wQjBpQ3Zvay1FaEcxWmxMVzctYWJ6eVF0MFVTY1FlNTFoamFzVmQyd9IBrwFBVV95cUxNMTRodFFRZWs3OUtvemVjREtZMFhRRjk2U2tsVklwVTNjQjRaNlZwY3Z1eWNTWXVlUnM1Nkk5VFU1bVI1eTdWWkJWNTVTWVpGUVMxdGdYVkZzRmE1RlJYTnJMTW9UZ3h4TU5FUFZ5NFlLZ0xmclJHS2FxSVhvVWJQdzdyck1jUVlFcnpiNkpSZXgyTjVVUWtuOUpCQTdRSno1UThIVkFRRXBPOHk1WUxV?oc=5",
       "published_at": "2026-07-21T07:00:00",
-      "snippet": "SpaceX, Sea and Grab to debut as SGX’s first US SDRs&nbsp;&nbsp;The Business Times",
-      "source": "The Business Times",
+      "snippet": "SGX expands SDR suite to Nasdaq-listed Grab, Sea and SpaceX&nbsp;&nbsp;The Edge Singapore",
+      "source": "The Edge Singapore",
       "category": "Singapore P2P",
-      "ai_summary": "SpaceX, Sea and Grab to debut as SGX’s first US SDRs&nbsp;&nbsp;The Business Times",
+      "ai_summary": "SGX expands SDR suite to Nasdaq-listed Grab, Sea and SpaceX&nbsp;&nbsp;The Edge Singapore",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -503,10 +517,10 @@
       "title": "Grab Holdings Limited (GRAB) Declines More Than Market: Some Information for Investors",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVFpQLUthcW8tSkpUYU5sY3hqNmhqSG0zWXctdFBURVNZXzdWTy1mbzQ5cFhUb1h5Rk9PdWtaUVFINWJUUGdBM2Zqek5xQm12c01tdVpaM21YWTNDZVNaQjdHODRpYWtDLXZmdXZzbnFoMWlCaEkwZEZzWUZOYm54bTJLeE8wTkwyYWdTTA?oc=5",
       "published_at": "2026-07-16T22:00:02",
-      "snippet": "Grab Holdings Limited (GRAB) Declines More Than Market: Some Information for Investors&nbsp;&nbsp;sg.finance.yahoo.com",
-      "source": "sg.finance.yahoo.com",
+      "snippet": "Grab Holdings Limited (GRAB) Declines More Than Market: Some Information for Investors&nbsp;&nbsp;Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
       "category": "Singapore P2P",
-      "ai_summary": "Grab Holdings Limited (GRAB) Declines More Than Market: Some Information for Investors&nbsp;&nbsp;sg.finance.yahoo.com",
+      "ai_summary": "Grab Holdings Limited (GRAB) Declines More Than Market: Some Information for Investors&nbsp;&nbsp;Yahoo Finance Singapore",
       "sentiment": "Negative",
       "tags": [
         "Shared Mobility"
@@ -529,10 +543,10 @@
       "title": "ComfortDelGro appoints Yap Chee Khean to newly created group COO role",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTFFXZ0N1M0lIZEtkb0w4Q0VNakRrVUNsTEVLQlJqSWhsSWREb090MmVsMk1vR3ItQWJDbEJWTkUtNlp2SWM1aGZqbXEtTW4yVG1saXU2bm5zUVBJbW5lZDM0UzlySF9udkxPOGE5MWZQZVBCY3RlcDNqSFdGSEIwaWltcnB4WC1KOTBMV1pZNHduZlFkUWxMb2hFYXFnMmNLeEgxcTJWZXNwT0NzVDJCRWw3U1NyZDFq?oc=5",
       "published_at": "2026-07-15T07:00:00",
-      "snippet": "ComfortDelGro appoints Yap Chee Khean to newly created group COO role&nbsp;&nbsp;The Business Times",
-      "source": "The Business Times",
+      "snippet": "ComfortDelGro appoints Yap Chee Khean to newly created group COO role&nbsp;&nbsp;businesstimes.com.sg",
+      "source": "businesstimes.com.sg",
       "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro appoints Yap Chee Khean to newly created group COO role&nbsp;&nbsp;The Business Times",
+      "ai_summary": "ComfortDelGro appoints Yap Chee Khean to newly created group COO role&nbsp;&nbsp;businesstimes.com.sg",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -605,19 +619,6 @@
       ]
     },
     {
-      "title": "Taking Ola or Uber in UP? New rule may change your ride experience during peak hours",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHF5YnNDZGUwaGVWdkJKenpmcXVZdmZhTjY2NU1TX0VVMXJra2ozeHJYZkNzVDlYYmRRbkY4Y1ZnREt0QUhNVUp5Z3JibEYzVmZRdEM0RVBkRjk1TmRGYmk3anpySUJybm5JU25BNno1VGhJUWdZbTFpcXZSVGd3cUVaX0FialVISlRvc2VPMlhuYldaeGprSGFWeHJBbHc2UmhkYlNBZlJYXzJnSkNfc1BvS2RQNEh0a1dBSVE5alNtQ0s5T3d2cGpISTRZQkxu0gHWAUFVX3lxTFAzYTVWMk9LTEVCRmYtcVBZZXJra2tjZWd0WTRRSFZFeUx5cFlZR0NUYkN1eXgtQVk5Rm9DQ0RrUHhiWklsVnVINTRQVkJKN01JSXktYm0td0xSbjVhZFBiSkg2bTFXa2lyQl9ZYWhZSUpPeThkdllyX0lFaUxtQzRmUnVMVE1OdXZac2FJcnZVMVlqbWE4ZENMdnlQcDRHbHdGZUQyMnZiU3dKdjB6OUc3UTQxdTl5c1hXaEctUGtad2R0MW5wdUNNelVxR3pVOWhzNndGOWc?oc=5",
-      "published_at": "2026-07-12T07:00:00",
-      "snippet": "Taking Ola or Uber in UP? New rule may change your ride experience during peak hours&nbsp;&nbsp;India.Com",
-      "source": "India.Com",
-      "category": "Global P2P",
-      "ai_summary": "Taking Ola or Uber in UP? New rule may change your ride experience during peak hours&nbsp;&nbsp;India.Com",
-      "sentiment": "Neutral",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
       "title": "Gojek S'pore suspends driver who asked woman, 26, for 'threesome' during 1am ride",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZnhCQ0oyVmlhVS1pek4yNFAzc2h6ekczajBfNTlILTlET1hWRmxzSkU1VzFlZVlrdGtZNDV6emNxd0FOQUwyX1c0RThvTmdlSnN2clpNLXB3cUpSbV9YQnBrV3JYbkFFakpzTE1zZ1FiZkw5RkUyQVZBSHpjVy1iLXBqOW9jZw?oc=5",
       "published_at": "2026-07-10T07:00:00",
@@ -683,26 +684,13 @@
       ]
     },
     {
-      "title": "Montreal airport travellers using Uber or Lyft being directed to new pickup zone, frustrating some passengers",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeV9MaEFNNkM5N3h6T3d1Y3FPX1Zka09Cank0Snp5cWRaby1VN2twM1NWMW1PTmFnX0xkbUtudHZqZ3JkVlJPa0p5eHd2Z1ZIcTlZNGc0WlY0M3VQR1VTM01uYU4yeVplaXJlc0pTR1Zjd3o3QmhVNXB4NkhFZWlLYlhHSjdTck9WSVR3WVBELUpBNDRFekYzSEJYaUN2RDhLTkFwMVFVZFc0dk4yWkw4aWUzdy1HdktGQWJfNkdlZVB6U1M3UEIwNDBfRURxcXF3RTJNM0taSWJERngwUW9adGpadw?oc=5",
-      "published_at": "2026-07-07T07:00:00",
-      "snippet": "Montreal airport travellers using Uber or Lyft being directed to new pickup zone, frustrating some passengers&nbsp;&nbsp;CTV News",
-      "source": "CTV News",
-      "category": "Global P2P",
-      "ai_summary": "Montreal airport travellers using Uber or Lyft being directed to new pickup zone, frustrating some passengers&nbsp;&nbsp;CTV News",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Grab completes US$425 million acquisition of US-based Stash Financial",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVTB0NFRzZmgyZ1R6bmE0ME1hSXJhbG9qSWxwUFNVZ09xZEpqYVJiMEhkMzdiNFIxZ3ZHZDY1SGpIcUZZUkgwTkNzbmN6WHRvM0xPZW1vQjdKX3UwZTE1VmRidjRzZUtSRUx0M1ZvMGNVRERYaEFNdDZRcnFFeVhlRkh3NmF1a0IyVmxZaThtMUhqd01wU3pmUzd2Vk9XcndZUjZvZ3FFaVpkXzV5Q2habE1TZnRlWHBtV01Xb2E2QTE3bDlqNHRfZDA3dFdrYlk?oc=5",
       "published_at": "2026-07-02T07:00:00",
-      "snippet": "Grab completes US$425 million acquisition of US-based Stash Financial&nbsp;&nbsp;The Business Times",
-      "source": "The Business Times",
+      "snippet": "Grab completes US$425 million acquisition of US-based Stash Financial&nbsp;&nbsp;businesstimes.com.sg",
+      "source": "businesstimes.com.sg",
       "category": "Singapore P2P",
-      "ai_summary": "Grab completes US$425 million acquisition of US-based Stash Financial&nbsp;&nbsp;The Business Times",
+      "ai_summary": "Grab completes US$425 million acquisition of US-based Stash Financial&nbsp;&nbsp;businesstimes.com.sg",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -716,19 +704,6 @@
       "source": "Fintech Singapore",
       "category": "Singapore P2P",
       "ai_summary": "Grab Finalises Acquisition of US Investing Platform Stash Financial&nbsp;&nbsp;Fintech Singapore",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Monthly checklist: Credit card perks and benefits to use",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOUWNLMFM0b29rcDFTOU1NM20tbVQ2QmpsZzJDcG5ndmpFREJ4MXFWdHZyUDgwTGl3a3Q5ZG9RZTlscjdWTVNsUHUzaER4VTAzUnRuOGYtczY1NGNZNW0takFTbGw5b0NPbjFabnMza3RzOEpJRXZlVQ?oc=5",
-      "published_at": "2026-07-02T07:00:00",
-      "snippet": "Monthly checklist: Credit card perks and benefits to use&nbsp;&nbsp;The Points Guy",
-      "source": "The Points Guy",
-      "category": "Global P2P",
-      "ai_summary": "Monthly checklist: Credit card perks and benefits to use&nbsp;&nbsp;The Points Guy",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -761,19 +736,6 @@
       ]
     },
     {
-      "title": "Ride-hailing services have tripled in Metro Vancouver, both complementing — and competing against — transit",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1ZwTVotUVVSSjEzVGw5Qlk3QUttbEJTS0RjUzZwOFMyVDY5RThzNE90WVZKaTlsdE91a2F3SFIzdU9xMHljY016TXExR2FObFFiSmt3aFVJUnZ6c085elE5aVRsMlhzWURDbGVyc1Ryc24yUGJYdklhd2NPSERGRWpDR1kycGl0VDR0Uzdn?oc=5",
-      "published_at": "2026-06-26T07:00:00",
-      "snippet": "Ride-hailing services have tripled in Metro Vancouver, both complementing — and competing against — transit&nbsp;&nbsp;Vancouver Sun",
-      "source": "Vancouver Sun",
-      "category": "Global P2P",
-      "ai_summary": "Ride-hailing services have tripled in Metro Vancouver, both complementing — and competing against — transit&nbsp;&nbsp;Vancouver Sun",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Your next Uber or Lyft ride in Boston could be a taxi",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGE0cTlfV3pPV1p2NnU4eU5mR1dVYm5ybEFMY0xzNXFjVnFsT25nLTZaYUtQVk81YXhVcWI2aDBwYkhHaHFqVEU3Wmxxek5SeG1oa1BxM3JpZm02V1B1Uk1BSzFGS0tnWElfN2xocFV1NWFud1BzUnZ5Q1hnRXlPVXBCODh3OW9tQW9qLWd5Y1B3VjFLSzBxRlRGZjJlVUhwQW9ERkhQMA?oc=5",
       "published_at": "2026-06-24T07:00:00",
@@ -797,19 +759,6 @@
       "sentiment": "Neutral",
       "tags": [
         "Labor Elasticity"
-      ]
-    },
-    {
-      "title": "New Boston pilot program lets riders hail taxis through Uber, Lyft",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlgwRGdYSldQN3RaQ3BMMzlIdXNjcml1Z1NmdVFXdGZqMW5CM01teGIxaGJWV2RHNWJkeTdyaUQ5Mm1ield3MGJvOWs4MzVBd3lZcmtmNFRpZVg3bU81dGZzckNiWW95cllqYnhZMU5PaHEtNUVFdlUzWThXNHFSbVR4RW5xazVxb0pEeThlLXpRRkp4Nk1XcEZBUDlQc3FvVnhUc0J0NGxpMHc4?oc=5",
-      "published_at": "2026-06-24T07:00:00",
-      "snippet": "New Boston pilot program lets riders hail taxis through Uber, Lyft&nbsp;&nbsp;WGBH",
-      "source": "WGBH",
-      "category": "Global P2P",
-      "ai_summary": "New Boston pilot program lets riders hail taxis through Uber, Lyft&nbsp;&nbsp;WGBH",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
       ]
     },
     {
@@ -896,10 +845,10 @@
       "title": "Save 15% on Uber Gift Cards With This Targeted Offer [Today Only]",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LM2J3YVlWNm9iajRDZU9COEY4TmZDWEV0RlE1ck9aTm9QRVItVnFoOGY2TS1UUVNIOHh3THNxM2RGQng5dVBfV01xNU11bnNyLWU1X2liQkZ2WHZ1M21TRXZ0c2pGUllDb185MFpwNA?oc=5",
       "published_at": "2026-06-22T07:00:00",
-      "snippet": "Save 15% on Uber Gift Cards With This Targeted Offer [Today Only]&nbsp;&nbsp;Upgraded Points",
-      "source": "Upgraded Points",
+      "snippet": "Save 15% on Uber Gift Cards With This Targeted Offer [Today Only]&nbsp;&nbsp;upgradedpoints.com",
+      "source": "upgradedpoints.com",
       "category": "Global P2P",
-      "ai_summary": "Save 15% on Uber Gift Cards With This Targeted Offer [Today Only]&nbsp;&nbsp;Upgraded Points",
+      "ai_summary": "Save 15% on Uber Gift Cards With This Targeted Offer [Today Only]&nbsp;&nbsp;upgradedpoints.com",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -923,10 +872,10 @@
       "title": "Uber, California lawyers say deal reached to avert dueling ballot initiative showdown",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGl2YjFfenN5cFBYZXQxUGV4eklNbmVZSkp4QTVWNzhDdGZNeHVMZHdfRlZRYzZtcjVqczZuR2I1alFVR1JZeVo2SVd5VFRWazY1emhkTlZEd0IzaTFTa1hpTEJTT3Bqa1MwRlZOeGVOcVB6cjc1bXNlNnJFbHdxaHcwTWFfd2s3YW03RGJPNVI2REJ5NVZOaW5jV0cwZ3hBcUtZYmdQTzVmUGM?oc=5",
       "published_at": "2026-06-18T07:00:00",
-      "snippet": "Uber, California lawyers say deal reached to avert dueling ballot initiative showdown&nbsp;&nbsp;latimes.com",
-      "source": "latimes.com",
+      "snippet": "Uber, California lawyers say deal reached to avert dueling ballot initiative showdown&nbsp;&nbsp;Los Angeles Times",
+      "source": "Los Angeles Times",
       "category": "Global P2P",
-      "ai_summary": "Uber, California lawyers say deal reached to avert dueling ballot initiative showdown&nbsp;&nbsp;latimes.com",
+      "ai_summary": "Uber, California lawyers say deal reached to avert dueling ballot initiative showdown&nbsp;&nbsp;Los Angeles Times",
       "sentiment": "Neutral",
       "tags": [
         "Regulation"
@@ -972,26 +921,13 @@
       ]
     },
     {
-      "title": "Uber Now Offers Shared Vans From Manhattan to LaGuardia",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNYkJJWXJqUmFRcW00Q01oM2dISjBZUDBkX2c3RjItM3kwZlJuS1JLNlZPTnBReC1jMmNBU2FlMno3VlBQZm5pMEl1NEEzZjdtYWxyVnVlQ1V5VU1GV3g0TmlKU3ZQYXZHeUtzb3lENnRVVjA?oc=5",
-      "published_at": "2026-06-15T07:00:00",
-      "snippet": "Uber Now Offers Shared Vans From Manhattan to LaGuardia&nbsp;&nbsp;Upgraded Points",
-      "source": "Upgraded Points",
-      "category": "Global P2P",
-      "ai_summary": "Uber Now Offers Shared Vans From Manhattan to LaGuardia&nbsp;&nbsp;Upgraded Points",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "ComfortDelGro sees China and Singapore as key robotaxi markets",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVEFGMlpBdEJlVnpaNWZ0d055OGtmcUg4aEE1ZDNQRmdwRWQwQ00zNlNjaFBEMm5JX2kyV1RXaE1WTngyZjBaMVV2cnlnY3k3VkRScEdmWi1iaERUejh3YVdiVmgwclA2X09kbkxxRTdGdE80M2xkUWRWX1pLNG1SdG9RaTJxakpDdzRHeC1EQV9FYnVsSm90Z0FGMkRtNTk3TmlMYlJ3S2dmaTJvNXlj?oc=5",
       "published_at": "2026-06-12T07:00:00",
-      "snippet": "ComfortDelGro sees China and Singapore as key robotaxi markets&nbsp;&nbsp;The Business Times",
-      "source": "The Business Times",
+      "snippet": "ComfortDelGro sees China and Singapore as key robotaxi markets&nbsp;&nbsp;businesstimes.com.sg",
+      "source": "businesstimes.com.sg",
       "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro sees China and Singapore as key robotaxi markets&nbsp;&nbsp;The Business Times",
+      "ai_summary": "ComfortDelGro sees China and Singapore as key robotaxi markets&nbsp;&nbsp;businesstimes.com.sg",
       "sentiment": "Neutral",
       "tags": [
         "AV Fleet"
@@ -1041,10 +977,10 @@
       "title": "Grab, EnterpriseSG launch scheme to help small F&B businesses grow customer demand and capabilities",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDkwQ1ZxRGFUOW5veGRJWnV5NXFNbHVGcjRuV1ktRDR3MkFyZGZKYU1LSDJYVnRLajloTU93QXh1VTdwbmZmcjJTZHhCUndrbnhHX3RhUGVCMnRTVkZaZ3VVOGRScUxjRHVnNjdoak5uN29IRElkdEpzam5sMjg4OUNvdmpuYnhCaEhEUEZIRFc5Q3BobDA5T0V2RHFSMXFmdkdDaXNJdkxIRXR5Qjk2VGk0em1CeHpITy1fYmw3eXZlTHA3N19KZ25tckVQcUd1R3NZ?oc=5",
       "published_at": "2026-06-09T07:00:00",
-      "snippet": "Grab, EnterpriseSG launch scheme to help small F&B businesses grow customer demand and capabilities&nbsp;&nbsp;The Business Times",
-      "source": "The Business Times",
+      "snippet": "Grab, EnterpriseSG launch scheme to help small F&B businesses grow customer demand and capabilities&nbsp;&nbsp;businesstimes.com.sg",
+      "source": "businesstimes.com.sg",
       "category": "Singapore P2P",
-      "ai_summary": "Grab, EnterpriseSG launch scheme to help small F&B businesses grow customer demand and capabilities&nbsp;&nbsp;The Business Times",
+      "ai_summary": "Grab, EnterpriseSG launch scheme to help small F&B businesses grow customer demand and capabilities&nbsp;&nbsp;businesstimes.com.sg",
       "sentiment": "Positive",
       "tags": [
         "Regulation"
@@ -1080,10 +1016,10 @@
       "title": "Why Is Grab (GRAB) Down 2.2% Since Last Earnings Report?",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUNVdWJucUxYb0Y5RWRtNXZDd0MyU2VLN1FWbnVKdUgzUHdXX3drSU5mVW56TGlLQWdoemlPcm0zempBdFo2ZjNDRkxDbHYtSk5DOVE2TWxuOWlHUllvSkVFaHBrOWVGOTdGcjg5M3lCU2gxSHhMNDdtOGhrdllNeXg4T0FQRVVQWXhjXzlB?oc=5",
       "published_at": "2026-06-03T07:00:00",
-      "snippet": "Why Is Grab (GRAB) Down 2.2% Since Last Earnings Report?&nbsp;&nbsp;Yahoo Finance",
-      "source": "Yahoo Finance",
+      "snippet": "Why Is Grab (GRAB) Down 2.2% Since Last Earnings Report?&nbsp;&nbsp;finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "category": "Strategy Decks",
-      "ai_summary": "Why Is Grab (GRAB) Down 2.2% Since Last Earnings Report?&nbsp;&nbsp;Yahoo Finance",
+      "ai_summary": "Why Is Grab (GRAB) Down 2.2% Since Last Earnings Report?&nbsp;&nbsp;finance.yahoo.com",
       "sentiment": "Neutral",
       "tags": [
         "Strategy"
@@ -1107,6 +1043,72 @@
       "sentiment": "Neutral",
       "tags": [
         "Electrification"
+      ]
+    },
+    {
+      "title": "Waymo's Solution After Cutting A Ride Short? Take Uber Or Lyft: Report",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNam1tNFNMRl9QWmo5Qk5yYWVrYWphdURUakctN05vWVFnVE85Mkl1YVZ3VXR5TzdaTFB0eDdpLU5yWmRMekhtWS0wLXNJVGFIQm5ZMjk2QUpNdVVIUWVveDU3cXZ3d0RObWt5aURPaGFNRlZnQUYwRG5SblllSy1rSHZrbU9TTG1ZLWZxbFRlT3FzOEZvUVpkQTlhdkw2dHFp?oc=5",
+      "published_at": "2026-06-01T07:00:00",
+      "snippet": "Waymo's Solution After Cutting A Ride Short? Take Uber Or Lyft: Report&nbsp;&nbsp;finance.yahoo.com",
+      "source": "finance.yahoo.com",
+      "category": "Global P2P",
+      "ai_summary": "Waymo's Solution After Cutting A Ride Short? Take Uber Or Lyft: Report&nbsp;&nbsp;finance.yahoo.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet",
+        "Strategy"
+      ]
+    },
+    {
+      "title": "New program offers free Uber, Lyft rides to South Florida commuters",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdlZNVDhibkdYbzJUeUc5RW1iMmp0TzVjZks5UG9YdU1aUXlDSEZvbzNfc2pmdVkzaklwWU5JZ3ZVOTBRT09CbE1XblE2Yk5vUnN5UkhfWk55UlV2S1drcUpBOUc3OVZsX2dGZFRSQVdLOUhLRjBfYjhtYl9wbzFsR2FnRXd5c2ZNQTdEWWhrZGI5N0xkVlZfeUluS0pLNXVFYVk0RkotMmt6ZTJ6RmQ0c1RQNnZsZ0Z0VUVLRTljM1RqeHZLWDFuaHk1MDB4UndMV2JDV0NHek1qbktURUZaVGZfN1FweHQtc3luaQ?oc=5",
+      "published_at": "2026-06-01T07:00:00",
+      "snippet": "New program offers free Uber, Lyft rides to South Florida commuters&nbsp;&nbsp;IslanderNews.com",
+      "source": "IslanderNews.com",
+      "category": "Global P2P",
+      "ai_summary": "New program offers free Uber, Lyft rides to South Florida commuters&nbsp;&nbsp;IslanderNews.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab rides to JB can now be booked 6 hours ahead; 30% discount during school holidays",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY2t5NVNEVzAyVVkzS2g2NW44Qi1DVXh1WkNBNlVwTUt2YmhaQ0pkY2FTQnJqTUxSMDR3MGdLM2dhQ1V2ZmZkRElwVDZNTmp3ZkNwYmp2SGVGZ2tmOGhuOXFMQ2Ntb19MejF3WDJ1VEtNSHRQTWM4S1FLaDBadHlEVUhjM3d1V3RZeVFIajBKVkpkTVdMMVVJbkVvUFFGeHlQc1l6SF9UMXltWjdMd0VLZTVyXzM4Q0ItZkRRc1ZuaEUzZDd2bGM4SHhCX3E?oc=5",
+      "published_at": "2026-05-29T07:00:00",
+      "snippet": "Grab rides to JB can now be booked 6 hours ahead; 30% discount during school holidays&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab rides to JB can now be booked 6 hours ahead; 30% discount during school holidays&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "A Waymo car ended a ride early, then the company told the passenger to get an Uber",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFFJY3RZNEFLbGZXMVNkZ1RsZHR0c1d3clMyby1GUl8wNDBWeWlZM19MOE1tdXdkcWpTVHQycm1UV2l0NVBFMUN3TUV2ZXlHUEctTXYybXowOTRTMVpRZGRYZXFGVGNUZW1EODlkbUxBRkZiSDlQa3BMVXJPTkRZZEFsS01SdVhuVjFwc21HV21mQ0hCLWhUejFB?oc=5",
+      "published_at": "2026-05-27T07:00:00",
+      "snippet": "A Waymo car ended a ride early, then the company told the passenger to get an Uber&nbsp;&nbsp;Business Insider",
+      "source": "Business Insider",
+      "category": "Global P2P",
+      "ai_summary": "A Waymo car ended a ride early, then the company told the passenger to get an Uber&nbsp;&nbsp;Business Insider",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet"
+      ]
+    },
+    {
+      "title": "Uber's $10 Billion Robotaxi Bet Is Turning Lucid Into A Dilution Machine",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVJLRzNxVHY5R040LXFVZUl2RHRUY2xRTUMzLUdwdFFOeWdmdElldDhrMFM4cGNNRnJsbEJLYXF3MnV1ZHJlUXZpSlpMcXE4MlpPSnpkZ1lBTS1KeERkcVZaenEzNUFPSUxYSF9qZGVPMDRlaUtwMlpxbWZJbDQxQkxXcmRaTUUyOGVnbmVaLVNGMUpYc25pdW5R?oc=5",
+      "published_at": "2026-05-27T07:00:00",
+      "snippet": "Uber's $10 Billion Robotaxi Bet Is Turning Lucid Into A Dilution Machine&nbsp;&nbsp;finance.yahoo.com",
+      "source": "finance.yahoo.com",
+      "category": "Global P2P",
+      "ai_summary": "Uber's $10 Billion Robotaxi Bet Is Turning Lucid Into A Dilution Machine&nbsp;&nbsp;finance.yahoo.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet"
       ]
     }
   ]
