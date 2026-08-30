@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T05:18:42.569231+00:00",
+  "last_updated": "2026-08-30T03:12:34.487635+00:00",
   "ai_active": false,
   "executive_brief": {
     "headline": "Systems Dynamics of Global Shared Fleet Operations & Curb Economies",
@@ -25,6 +25,19 @@
     ]
   },
   "articles": [
+    {
+      "title": "ComfortDelGro tie-up with French firm RATP Dev to run Copenhagen metro from Sept 2027",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlpxX2czVDFIbHRkbmdxS2VvOWJEcUZEbVQ3cWNxLVdacTNqcHlHZUVLRXdFUWZsZW5tcmtkbzFWRE84SGdfRmNpUkhjdTMzUW5icl93MWdhclh3RWFyeW1TeTB5Z1ExT2QxRDZCNkpqeUdSa2FnZEdjSWJPTmJ5czU5RE9XamdCZzRNRzJMcU5LbVViX3l6S2dFY2RSVzdmM2pSRmdkcmZMODAtMk5xTkQ5dVp5Rkp2aWhpbzJDRTJYQ0pDTV9zMl9GZDFVMlE?oc=5",
+      "published_at": "2026-08-30T01:35:00",
+      "snippet": "ComfortDelGro tie-up with French firm RATP Dev to run Copenhagen metro from Sept 2027&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "ComfortDelGro tie-up with French firm RATP Dev to run Copenhagen metro from Sept 2027&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification"
+      ]
+    },
     {
       "title": "Can you make money by renting your car to an Uber or Bolt driver?",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2M2VWhYX1ZtQmhnLWY2NnY4Wk9pbDl6Tmx5ZDhaVDZZaVlOQWlSVXlaSlFYMmJUQnZtcDk2VHZiWm95Zms1RS1jMUM3aEFJTmhjMlRNMEw1STJranlndWFUcXAzSG94RkpNb3dpNGFSM2JabTdDT0dCMTRDUG1CZUxOSVdEQlRnR1ZpazBuaVc?oc=5",
@@ -172,10 +185,10 @@
       "title": "Uber Technologies stock climbs as guidance and analyst targets support 2026 growth story",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRWg2N1ZnbkRqNTdDcUN0Qkd0Q05GaTBJYy1jSzJNaFhPUW9INGdhdXRncHA1RkFMODA4QmdUQjdndE1BTXVsMTk2WUZabEVMYnA4Rk9UNmFQRU8wZDNWTUF2UDJGc3oydlVDeTBkLVhkZzBpaFlralAxc2oxMHBDcWhoM1FkWkRnSmJoOTZReXdoVFpIWUk5Tjg5X2tUTVNSanZ4NVBCNWM2eGx6ZnVieTNkbUZHWHByTklkZENRcFNmQVJYLXRudjVaM1A4dw?oc=5",
       "published_at": "2026-08-26T16:52:25",
-      "snippet": "Uber Technologies stock climbs as guidance and analyst targets support 2026 growth story&nbsp;&nbsp;Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
+      "snippet": "Uber Technologies stock climbs as guidance and analyst targets support 2026 growth story&nbsp;&nbsp;AD HOC NEWS",
+      "source": "AD HOC NEWS",
       "category": "Strategy Decks",
-      "ai_summary": "Uber Technologies stock climbs as guidance and analyst targets support 2026 growth story&nbsp;&nbsp;Ad-hoc-news.de",
+      "ai_summary": "Uber Technologies stock climbs as guidance and analyst targets support 2026 growth story&nbsp;&nbsp;AD HOC NEWS",
       "sentiment": "Positive",
       "tags": [
         "Shared Mobility"
@@ -306,6 +319,19 @@
       ]
     },
     {
+      "title": "Citing structural decline of taxi business, PhillipCapital's Chew lowers ComfortDelGro's target price to $1.21",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRnh0WURadDdSWWlvcnZaX1NuMDEtQTBLR3RjbkFGbHIyUENJTUpydUY1YjJXMi1WRHB3MlctckJ4bXlKdW5EMDdlSkNMWnE1eEFSNU05aFhVcHJoMU1VcTgxX0RKRGNJWTBiWkliWk9TMV9HcUF1eTc2aFBIbDN6SE9xVzgtLUxseGtQQjFXc3dmSDNDT0toOHZGZDlMdm00UW1LR1k5UmF2eHlBMkcxS3V1azdURThSWVBDY2psdw?oc=5",
+      "published_at": "2026-08-24T08:12:39",
+      "snippet": "Citing structural decline of taxi business, PhillipCapital's Chew lowers ComfortDelGro's target price to $1.21&nbsp;&nbsp;The Edge Singapore",
+      "source": "The Edge Singapore",
+      "category": "Singapore P2P",
+      "ai_summary": "Citing structural decline of taxi business, PhillipCapital's Chew lowers ComfortDelGro's target price to $1.21&nbsp;&nbsp;The Edge Singapore",
+      "sentiment": "Negative",
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
       "title": "If your Uber or Lyft driver goes hands-free, should they ask your permission?",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlhlQmRCanNrMGxSQ3NOU21sN1BKR0dxcFE5VlkxVHZYNkVwMlY2TWQxT0M4QlYwcTFEZ0RKOUZjRzF3ZV9Xa1VxNG44NW51WGJkNjlsMHdIOG54TC1Ucnhac0F5d1VYM2VBQUhOV2RWckFDeVd6WlFtazZ4ZDduMVZySl9OZmxx?oc=5",
       "published_at": "2026-08-23T11:07:27",
@@ -327,19 +353,6 @@
       "category": "Singapore P2P",
       "ai_summary": "Man arrested for drink driving, driving without licence after accident in Geylang&nbsp;&nbsp;The Straits Times",
       "sentiment": "Negative",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Is the standing area at live concerts just a cash-grab?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUJJMURtTDlFaXlDWHpQUm1NZlBEamhYemVLbFdYaC1WaWVWMzZRckJTY1JwY3VuTzc5NTNGbUNlckEyRGNqNjAtMGxhb3NWRlZyZkdpUjJtSDZjM2FIZDEydlJMWEZSWFo2UldXLVJjdnZHSGN3UUlSTHhYQTMyMHVnaUhvV0wtenJZcGxuaUJVTmV4UWd4MjRITC03bEFkaWc?oc=5",
-      "published_at": "2026-08-22T11:00:00",
-      "snippet": "Is the standing area at live concerts just a cash-grab?&nbsp;&nbsp;Far Out Magazine",
-      "source": "Far Out Magazine",
-      "category": "Global P2P",
-      "ai_summary": "Is the standing area at live concerts just a cash-grab?&nbsp;&nbsp;Far Out Magazine",
-      "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
       ]
@@ -371,19 +384,6 @@
       ]
     },
     {
-      "title": "New Manitoba-made ride-hailing app launches in Steinbach",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2h3UWNCczFhelp5ZS1MX0o3eDRUdlhWY004UVJXdFdwMlFCcEswQXQzeWZaMkhQM191TVFhWWN6Zk94bDdWbFk0dEltLUVFbGRBTVZOTUNXNEg5Vk1QRVJLTnoyOGJwTk5QWjhqTHVpRlhtSGdDSTlVVVJ2RGpNRk02Zm1ZU0xTUFow?oc=5",
-      "published_at": "2026-08-20T10:00:00",
-      "snippet": "New Manitoba-made ride-hailing app launches in Steinbach&nbsp;&nbsp;CBC",
-      "source": "CBC",
-      "category": "Global P2P",
-      "ai_summary": "New Manitoba-made ride-hailing app launches in Steinbach&nbsp;&nbsp;CBC",
-      "sentiment": "Positive",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "ComfortDelGro pumps $10m into BYD electric, hybrid vehicles for private-hire fleet",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXlMNXR4WHRiZ09NLWdVSWZ6YTM2SzZUUGF1X1dOUVlTQTJoOVhNQndnNnhkNWllVnFheF9UOHdYeS1YLWNpLWxHa1R2QzE2YWlZM0ZKSzd4OThxZ0M3QXRqQzdWNFVkOGJLbTJZX3FvWUNhcUVGNEVmSzNDbWNyN2ZaU2RWRGxXcU5ROUFSRGo3SmVCcV9ma2N0NVhMLUwyUW1iU0NOSVNtLTU2VDR0UExOV1dlV1k3cnU3VHp5TE9IUjNPQ2JHdQ?oc=5",
       "published_at": "2026-08-20T07:00:00",
@@ -397,14 +397,14 @@
       ]
     },
     {
-      "title": "ComfortDelGro’s Zig to buy S$10 million worth of BYD cars for private-hire fleet",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMHNZaU9rQnp4NTQ3bjhCNUVtVmdXYkpQdllEU3BkcG5CeUxmSHdWajJrZkdYV2M1SG5kdEFqQjN2UGF5dzU0WmlEeGFXNDJjcEEtWWNIbU0wWlVTcHQ2b2wwN0tXNDFXSFR1Yk5FQTJJaG00LXhQZjhnRnBiWEI3WUZCSWtSVEl0c0l4akJta21UUV9aeDdCTW9DN1J3SmZzSThqZ2FzZmU0RndwTENJLXlLdGtVNWNjb3hJRC1ucnZYdUh0MENaVFVDRmxNZWg3WUNLWFdn?oc=5",
+      "title": "New Manitoba-made ride-hailing app launches in Steinbach",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2h3UWNCczFhelp5ZS1MX0o3eDRUdlhWY004UVJXdFdwMlFCcEswQXQzeWZaMkhQM191TVFhWWN6Zk94bDdWbFk0dEltLUVFbGRBTVZOTUNXNEg5Vk1QRVJLTnoyOGJwTk5QWjhqTHVpRlhtSGdDSTlVVVJ2RGpNRk02Zm1ZU0xTUFow?oc=5",
       "published_at": "2026-08-20T07:00:00",
-      "snippet": "ComfortDelGro’s Zig to buy S$10 million worth of BYD cars for private-hire fleet&nbsp;&nbsp;The Business Times",
-      "source": "The Business Times",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro’s Zig to buy S$10 million worth of BYD cars for private-hire fleet&nbsp;&nbsp;The Business Times",
-      "sentiment": "Neutral",
+      "snippet": "New Manitoba-made ride-hailing app launches in Steinbach&nbsp;&nbsp;CBC",
+      "source": "CBC",
+      "category": "Global P2P",
+      "ai_summary": "New Manitoba-made ride-hailing app launches in Steinbach&nbsp;&nbsp;CBC",
+      "sentiment": "Positive",
       "tags": [
         "Shared Mobility"
       ]
@@ -446,6 +446,19 @@
       "sentiment": "Positive",
       "tags": [
         "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Self-driving vehicles are the future, but happy drivers are still key for happy riders: Ryde founder",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSnhyREp0VUJrdFVlU19kWlVqRmlxMUV6QWhkOU04SVdFcXc5eEp0RkdBVXhsdkJ0Q2dwN0taYVJjZExEdS1vY2tfS1RweWdOaUdqSjMxUVdITXFPT2JNbXFQU24zWU1MSVFpTnh1NTlPeWptYUNncXF0Yjc4R3NSYU5tVlpKUm5WdWg2LUU4WUp2bHJfazlZZjFZVU9EX1c4UlFSeGdPOVVjZHFzdDZqR0wzVWR6d0tXa2JFbDFrWFFRNFlqOHhVLU5TNWNYZGl6VXl3T1NCVEpDQ1FYa0huaUR6by1fclZNOHFB?oc=5",
+      "published_at": "2026-08-18T07:00:00",
+      "snippet": "Self-driving vehicles are the future, but happy drivers are still key for happy riders: Ryde founder&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "Self-driving vehicles are the future, but happy drivers are still key for happy riders: Ryde founder&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Labor Elasticity"
       ]
     },
     {
@@ -537,6 +550,19 @@
       "sentiment": "Negative",
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "title": "I Tried Uber’s New Shuttle Service To Avoid Surge Pricing—But Was It Worth It?",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80MV9rSUVuRUN0ZjBENkxBUDRuVl91SDVCUm5uVHhXZTFRZ0h1SU9FNmYxU0M1emFjUlZNLTNHYUFwNm5xTnhuNEFKbEZPci1nTzctY1RRejA?oc=5",
+      "published_at": "2026-08-14T07:00:00",
+      "snippet": "I Tried Uber’s New Shuttle Service To Avoid Surge Pricing—But Was It Worth It?&nbsp;&nbsp;parade.com",
+      "source": "parade.com",
+      "category": "Global P2P",
+      "ai_summary": "I Tried Uber’s New Shuttle Service To Avoid Surge Pricing—But Was It Worth It?&nbsp;&nbsp;parade.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
       ]
     },
     {
@@ -873,19 +899,6 @@
       ]
     },
     {
-      "title": "Singapore's Grab lifts 2026 revenue forecast on solid delivery, ride-hailing demand",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2Y2VE1VVWhkQ2Y0b3ZHUWVrMFhKSVJzVkx0VkplNktnWUZhbFhZYVRMcTZBbWZSRGRLSmFKRmdzRl85MFVnSXJJdGhnZVZhcFYxWXk5X0FZVlFMb0JiX2JmZ3JiUXlkTGVwVlE5UllYMkxnRHdieElhZ2gzdzlnX2dISUZoX0FWODJ5cHpCQXBUVmVzWEJ3SV9EM01HM3FENDhCa3hnRlJCM1NtUkVoc2xSRDNxRGxVUVdtODVXR1FJSWhPSGxEdUJfWHQzQ1QzLUp6eDh2Qkh0YWFOQlE?oc=5",
-      "published_at": "2026-08-04T07:00:00",
-      "snippet": "Singapore's Grab lifts 2026 revenue forecast on solid delivery, ride-hailing demand&nbsp;&nbsp;The Star",
-      "source": "The Star",
-      "category": "Singapore P2P",
-      "ai_summary": "Singapore's Grab lifts 2026 revenue forecast on solid delivery, ride-hailing demand&nbsp;&nbsp;The Star",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification"
-      ]
-    },
-    {
       "title": "Grab reports US$252 million in Q2 earnings, raises guidance for 2026",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlhnNDlyOUExdlBveUlSY09Wb0g0YWhrdXFKN19sZjJXTUtxdG5mRkFobHFsai14YU4tM0xPVlNwTnduOVJmaFZnVTM4NkRqSG91ejFCVmg5YUphcTl2V3NGbTdfc19GNVczMzBhUnlYNmxWMldLemRvLUJwZ3lzQzJLZ3dCQkJCR3pWeTFoMGVuNURMb1lMUmpKaHI5QUtVQ3BZczYxUFlYSEF1X0tr?oc=5",
       "published_at": "2026-08-04T07:00:00",
@@ -896,6 +909,19 @@
       "sentiment": "Positive",
       "tags": [
         "Strategy"
+      ]
+    },
+    {
+      "title": "Singapore's Grab lifts 2026 revenue forecast on solid delivery, ride-hailing demand",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY2Y2VE1VVWhkQ2Y0b3ZHUWVrMFhKSVJzVkx0VkplNktnWUZhbFhZYVRMcTZBbWZSRGRLSmFKRmdzRl85MFVnSXJJdGhnZVZhcFYxWXk5X0FZVlFMb0JiX2JmZ3JiUXlkTGVwVlE5UllYMkxnRHdieElhZ2gzdzlnX2dISUZoX0FWODJ5cHpCQXBUVmVzWEJ3SV9EM01HM3FENDhCa3hnRlJCM1NtUkVoc2xSRDNxRGxVUVdtODVXR1FJSWhPSGxEdUJfWHQzQ1QzLUp6eDh2Qkh0YWFOQlE?oc=5",
+      "published_at": "2026-08-04T07:00:00",
+      "snippet": "Singapore's Grab lifts 2026 revenue forecast on solid delivery, ride-hailing demand&nbsp;&nbsp;The Star",
+      "source": "The Star",
+      "category": "Singapore P2P",
+      "ai_summary": "Singapore's Grab lifts 2026 revenue forecast on solid delivery, ride-hailing demand&nbsp;&nbsp;The Star",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification"
       ]
     },
     {
@@ -971,32 +997,6 @@
       "source": "AsiaOne",
       "category": "Singapore P2P",
       "ai_summary": "Kids spotted standing through GetGo car sunroof; firm warns against unsafe driving , Singapore News&nbsp;&nbsp;AsiaOne",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Cyclist blacks out after Grab driver's illegal turn, says driver demanded repair costs while she was in A&E",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVlvamNBeWZJNExOT0p0WUU4cWlQUm5BS1hKREZ5WWMzNDJQR1otTVRNWU1xYlJ0M21PUVZNNnpwQklqX0NnSWdJbWtrZE9YU2dXSlVxUGxZZ2Y2a1pNQnYtbmRaajhYeWxZbGpsTjdja3dxS21WVUtVTUI1eFhYUENiTUp3S2d4S21VQnFZZjE4RWhmbjNHZ3FUQWlvanF0QXFWTi02NUJLaGtVbkRxekpwVzczWWdHZE51Yw?oc=5",
-      "published_at": "2026-08-03T07:00:00",
-      "snippet": "Cyclist blacks out after Grab driver's illegal turn, says driver demanded repair costs while she was in A&E&nbsp;&nbsp;AsiaOne",
-      "source": "AsiaOne",
-      "category": "Singapore P2P",
-      "ai_summary": "Cyclist blacks out after Grab driver's illegal turn, says driver demanded repair costs while she was in A&E&nbsp;&nbsp;AsiaOne",
-      "sentiment": "Neutral",
-      "tags": [
-        "Labor Elasticity"
-      ]
-    },
-    {
-      "title": "Monthly checklist: Credit card perks and benefits to use",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOUWNLMFM0b29rcDFTOU1NM20tbVQ2QmpsZzJDcG5ndmpFREJ4MXFWdHZyUDgwTGl3a3Q5ZG9RZTlscjdWTVNsUHUzaER4VTAzUnRuOGYtczY1NGNZNW0takFTbGw5b0NPbjFabnMza3RzOEpJRXZlVQ?oc=5",
-      "published_at": "2026-08-02T07:00:00",
-      "snippet": "Monthly checklist: Credit card perks and benefits to use&nbsp;&nbsp;The Points Guy",
-      "source": "The Points Guy",
-      "category": "Global P2P",
-      "ai_summary": "Monthly checklist: Credit card perks and benefits to use&nbsp;&nbsp;The Points Guy",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
