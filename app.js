@@ -289,7 +289,7 @@ function renderWorldMap() {
 
   MOBILITY_IMPLEMENTATIONS.forEach((item, index) => {
     const marker = document.createElement("button");
-    marker.className = `map-marker ${item.featured ? "featured" : ""} ${index === 0 ? "active" : ""}`;
+    marker.className = `map-marker ${item.featured ? "featured" : ""}`;
     marker.style.left = `${item.x}%`;
     marker.style.top = `${item.y}%`;
     marker.setAttribute("aria-label", `${item.country}: ${item.idea}`);
