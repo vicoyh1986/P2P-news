@@ -527,6 +527,16 @@ header {
   .map-layout { grid-template-columns: 1fr; }
 }
 
+@media (max-width: 640px) {
+  .container { padding-inline: 16px; }
+  .world-map-card { padding: 18px; }
+  .map-header { display: block; }
+  .map-count { display: block; margin-top: 14px; }
+  .world-map, .world-map svg { min-height: 260px; }
+  .map-marker { width: 30px; height: 30px; }
+  .map-legend { flex-direction: column; gap: 6px; }
+}
+
 .metric-card {
   padding: 24px;
 }
