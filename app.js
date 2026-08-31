@@ -296,6 +296,7 @@ function renderWorldMap() {
     marker.innerHTML = `<span>${item.code}</span>`;
     marker.addEventListener("click", () => activate(item, marker));
     marker.addEventListener("mouseenter", () => activate(item, marker));
+    marker.addEventListener("focus", () => activate(item, marker));
     elements.mapMarkers.appendChild(marker);
     if (index === 0) activate(item, marker);
   });
