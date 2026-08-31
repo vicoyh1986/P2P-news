@@ -1,6 +1,6 @@
-# P2P Passenger Transport & Consulting Insights Dashboard
+# Straits Mobility Intelligence Dashboard
 
-A state-of-the-art, fully automated daily intelligence dashboard tracking the **Point-to-Point (P2P) Passenger Transport Sector** (taxis, ride-hailing, micromobility, autonomous shuttle services) in Singapore and globally. The dashboard also aggregates strategic opinions, reports, and perspectives from elite consulting firms, specifically **McKinsey & Company**, **Boston Consulting Group (BCG)**, and **Bain & Company**.
+A Singapore-first, fully automated daily intelligence dashboard tracking the **Point-to-Point (P2P) Passenger Transport Sector** (taxis, ride-hailing, micromobility, autonomous shuttle services) across the Lion City, Southeast Asia, and global comparator markets. The dashboard also aggregates strategic opinions, reports, and perspectives from **McKinsey, BCG, Bain, Oliver Wyman, Kearney, Roland Berger, Strategy&, Deloitte, Accenture, Arthur D. Little, EY, and Capgemini**.
 
 This application is **100% serverless**, self-healing, and runs on a daily refresh schedule powered by GitHub Actions. It leverages Google Gemini API for strategic executive-level AI synthesis, automatically updating a premium, glassmorphic single-page web application served on GitHub Pages.
 
@@ -8,7 +8,7 @@ This application is **100% serverless**, self-healing, and runs on a daily refre
 
 ## 🚀 Key Features
 
-*   **Daily Automating Backend**: Runs on a CRON schedule to aggregate Google News RSS queries for Singapore P2P, Global P2P, and top-tier consulting mobility studies.
+*   **Singapore-first daily backend**: Runs on a CRON schedule to aggregate Google News RSS queries for local operators, LTA/MOT policy, Singapore business press, global P2P markets, and consulting mobility studies.
 *   **Gemini 2.5 Flash Synthesis**: When a `GEMINI_API_KEY` is provided, the backend compiles the top articles and calls Gemini to synthesize a structured Executive Briefing, assign article sentiments, and extract hot topic tags.
 *   **Offline / CORS Resilience**: Includes a built-in sandbox mock database, meaning you can double-click `index.html` to review the dashboard locally in your browser even if CORS policies block local JSON fetches.
 *   **Premium Glassmorphic UI**: Sleek dark slate layout with dynamic micro-animations, customizable filters (full-text search, category pills, sentiment indices, and interactive hashtag click maps).

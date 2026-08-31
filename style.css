@@ -2,17 +2,17 @@
 
 /* --- Design System & CSS Variables --- */
 :root {
-  /* Color Palette - Premium Slate & Neon Accents */
-  --bg-dark: #070a13;
-  --bg-darker: #04060c;
-  --bg-light-glow: radial-gradient(circle at 50% -20%, rgba(83, 109, 254, 0.15) 0%, rgba(0, 0, 0, 0) 60%);
+  /* Color Palette - Marina Navy, Orchid & Singapore Red */
+  --bg-dark: #071521;
+  --bg-darker: #040b12;
+  --bg-light-glow: radial-gradient(circle at 15% -10%, rgba(213, 20, 43, 0.2) 0%, rgba(0, 0, 0, 0) 42%), radial-gradient(circle at 85% 0%, rgba(0, 142, 123, 0.17) 0%, rgba(0, 0, 0, 0) 48%);
   
-  --color-primary: #536dfe;      /* Radiant Indigo */
-  --color-primary-rgb: 83, 109, 254;
-  --color-secondary: #00e5ff;    /* Electric Cyan */
-  --color-secondary-rgb: 0, 229, 255;
-  --color-accent: #d500f9;       /* Neon Violet */
-  --color-accent-rgb: 213, 0, 249;
+  --color-primary: #d51635;      /* Singapore Red */
+  --color-primary-rgb: 213, 22, 53;
+  --color-secondary: #00a58a;    /* Marina Teal */
+  --color-secondary-rgb: 0, 165, 138;
+  --color-accent: #f2b84b;       /* Orchid Gold */
+  --color-accent-rgb: 242, 184, 75;
   
   --color-gold: #ffd600;         /* Neon Gold for Consulting */
   --color-gold-rgb: 255, 214, 0;
@@ -30,8 +30,8 @@
   --text-dark: #4b596e;
   
   /* Glassmorphism Presets */
-  --glass-bg: rgba(13, 20, 38, 0.45);
-  --glass-bg-hover: rgba(20, 30, 58, 0.6);
+  --glass-bg: rgba(10, 31, 43, 0.58);
+  --glass-bg-hover: rgba(16, 48, 59, 0.7);
   --glass-border: rgba(255, 255, 255, 0.05);
   --glass-border-hover: rgba(255, 255, 255, 0.12);
   --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
@@ -1460,4 +1460,3 @@ footer {
     max-height: 250px;
   }
 }
-

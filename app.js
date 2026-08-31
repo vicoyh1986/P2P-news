@@ -1,4 +1,4 @@
-// --- P2P Intelligence Dashboard Core Logic ---
+// --- Straits Mobility Intelligence Dashboard Core Logic ---
 
 let db = {};
 let activeFilters = {
@@ -59,26 +59,26 @@ const CORS_FALLBACK_DB = {
   last_updated: "2026-07-20T12:00:00.000000+00:00",
   ai_active: false,
   executive_brief: {
-    headline: "System Dynamics of Global Shared Fleet Operations & Curb Economies",
-    summary: "This briefing analyzes the global passenger transport markets, ride-hailing networks, and car-sharing structures under the dual-framework of McKinsey partner methodologies and MIT transportation systems planning. The market is defined by a massive tension between operational systems efficiency (optimized dispatch, empty cruising reduction) and urban policy friction (congestion caps, curb-space regulations, driver-gig classification laws). Overcoming these bottlenecks is the next frontier of shared mobility scaling.",
+    headline: "Singapore's Next Mobility Stack: Curb, Fleet & Policy",
+    summary: "Singapore's compact, highly regulated transport market is becoming a live laboratory for point-to-point mobility. Taxi, ride-hailing, car-sharing, and emerging autonomous services now compete and collaborate around the same scarce curb, road, and driver capacity. The strategic question is how to increase access without undermining the reliability of the wider public transport system.",
     key_themes: [
       {
-        theme: "Vehicle Miles Traveled (VMT) Displacement",
-        explanation: "Extensive empirical research shows that ride-hailing fleets increase urban deadheading (empty cruise time) by 35-40%, directly competing with public mass transit corridors."
+        theme: "The first-and-last-mile compact",
+        explanation: "Singapore's rail network makes P2P services most valuable when they extend MRT and bus access rather than duplicate trunk routes. Operators that measure interchange quality, not just trip volume, can earn a stronger role in the national mobility system."
       },
       {
-        theme: "Dynamic Curb Space Allocation",
-        explanation: "Curb management has shifted from a static parking problem to a dynamic throughput bottleneck, driving municipal demand for geofenced pickup/dropoff zones."
+        theme: "Curb space as infrastructure",
+        explanation: "Airport, CBD, school, and interchange pickup zones are throughput bottlenecks. Better geofencing, demand-aware kerb allocation, and cleaner handoffs with LTA infrastructure can reduce dwell time and illegal stopping."
       },
       {
-        theme: "Driver Supply Elasticity Under Regulatory Caps",
-        explanation: "Driver wage-floors and regulatory vocational licensing barriers limit real-time vehicle supply, forcing platforms to deploy highly aggressive algorithmic incentives."
+        theme: "A trusted driver operating model",
+        explanation: "Platform growth depends on sustainable driver economics, transparent incentives, and a predictable licensing environment. In Singapore, service quality and regulatory trust are strategic assets alongside dispatch efficiency."
       }
     ],
     strategic_takeaways: [
-      "Incorporate dynamic VMT charging metrics into operator operational expense projections to hedge against municipal congestion charges.",
-      "Establish co-load geofencing agreements with city councils to lower curbside dwell times and reduce double-parking fines.",
-      "Develop hybrid dispatch simulations modeling battery charge decay and grid pricing to buffer against future fleet electrification mandates."
+      "Design P2P partnerships around MRT and bus interchange gaps, especially for off-peak, night, and accessibility journeys.",
+      "Treat LTA-compliant pickup geofences and curb turnaround time as board-level operating metrics, not back-office compliance.",
+      "Model EV charging, driver earnings, and peak electricity demand together before scaling electrified or autonomous fleets."
     ]
   },
   articles: [

@@ -8,10 +8,15 @@ import re
 import sys
 from datetime import datetime, timezone
 
-# Target Google News RSS Feed Queries (Upgraded & Brand Explicit)
+# Target Google News RSS Feed Queries (Singapore-first, with global context)
 FEEDS = {
     "singapore_p2p": {
-        "query": '"Grab" OR "Gojek" OR "Tada" OR "Ryde" OR "ComfortDelGro" OR "BlueSG" OR "GetGo" OR "car sharing" OR "carpooling" Singapore',
+        "query": '("Grab" OR "Gojek" OR "TADA" OR "Ryde" OR "ComfortDelGro" OR "BlueSG" OR "GetGo" OR "car sharing" OR "carpooling") Singapore',
+        "hl": "en-SG", "gl": "SG", "ceid": "SG:en",
+        "category_label": "Singapore P2P"
+    },
+    "singapore_policy": {
+        "query": '("point-to-point" OR taxi OR "ride-hailing" OR "shared mobility" OR "electric vehicle") (Singapore OR "Land Transport Authority" OR LTA OR MOT) (site:lta.gov.sg OR site:mot.gov.sg OR site:channelnewsasia.com OR site:straitstimes.com OR site:businesstimes.com.sg)',
         "hl": "en-SG", "gl": "SG", "ceid": "SG:en",
         "category_label": "Singapore P2P"
     },
@@ -21,7 +26,7 @@ FEEDS = {
         "category_label": "Global P2P"
     },
     "consulting_opinions": {
-        "query": 'McKinsey "mobility" OR BCG "mobility" OR Bain "mobility" OR "McKinsey Center for Future Mobility" OR "shared mobility report"',
+        "query": '("mobility" OR "future of transport" OR "urban mobility" OR "electric fleet" OR "ride-hailing") (site:mckinsey.com OR site:bcg.com OR site:bain.com OR site:oliverwyman.com OR site:kearney.com OR site:rolandberger.com OR site:strategyand.pwc.com OR site:deloitte.com OR site:accenture.com OR site:adlittle.com OR site:ey.com OR site:capgemini.com)',
         "hl": "en-US", "gl": "US", "ceid": "US:en",
         "category_label": "Consulting Opinions"
     },
@@ -111,7 +116,7 @@ def fetch_rss_feed(feed_name, config):
         return []
 
 def run_gemini_synthesis(api_key, articles):
-    """Use Gemini API to synthesize and generate insights using McKinsey & MIT Professor dual-personas."""
+    """Use Gemini API to synthesize Singapore-first mobility insights."""
     print("Connecting to Gemini API for high-fidelity MIT-grade analysis...")
     
     # Select a balanced subset of articles across categories to send to Gemini
@@ -134,9 +139,9 @@ def run_gemini_synthesis(api_key, articles):
             "snippet": a["snippet"]
         })
         
-    prompt = f"""You are a dual-expert panel of world-class transit advisors:
-1. A senior McKinsey Senior Partner specializing in corporate strategy, business execution, and mobility yields.
-2. An MIT Professor of Urban Transportation Systems, specializing in systems-dynamics, regulatory friction, labor economics, and deadheading capacity ratios.
+    prompt = f"""You are a Singapore-first panel of world-class mobility advisors:
+1. A senior strategy partner drawing on the best practices of McKinsey, BCG, Bain, Oliver Wyman, Kearney, Roland Berger, Strategy&, Deloitte, Accenture, Arthur D. Little, EY, and Capgemini.
+2. A transport systems professor specializing in Singapore's LTA policy, MRT/bus integration, curb capacity, labor economics, electrification, and shared-mobility network effects.
 
 Analyze the following transit articles, corporate presentations, and strategic mobility decks (represented as JSON):
 {json.dumps(prompt_articles, indent=2)}
@@ -145,7 +150,7 @@ Task:
 Generate a highly academic, rigorous, and strategically dense market analysis in JSON format containing:
 1. An Executive Briefing:
    - "headline": A short, intellectually punchy title suited for an MIT Seminar (e.g., "The Spatial Friction of Shared Fleet Scaling").
-   - "summary": A cohesive 3-paragraph macro-analysis of the global P2P passenger transport and car sharing sectors. Avoid superficial remarks; synthesize systems-dynamics, labor-supply elasticity, grid congestion, and corporate consolidation trends.
+   - "summary": A cohesive 3-paragraph macro-analysis led by Singapore and Southeast Asia, with global comparator context. Avoid superficial remarks; synthesize MRT/bus integration, curb capacity, labor-supply elasticity, grid congestion, and corporate consolidation trends.
    - "key_themes": An array of 3 distinct structural themes (e.g., pricing-surge algorithmic biases, EV battery degradation unit economics, public-transit ridership displacement). For each theme, provide a 'theme' name and 'explanation' (2-3 sentences of deep academic-strategy synthesis).
    - "strategic_takeaways": An array of 3 concrete systems-level strategic guidelines for operators, urban planners, or institutional investors.
 2. Individual Article & Deck Enhancements:
@@ -272,26 +277,26 @@ def generate_fallback_data(articles):
     print("Using heuristic fallback engine (No AI Key provided)...")
     
     fallback_brief = {
-        "headline": "Systems Dynamics of Global Shared Fleet Operations & Curb Economies",
-        "summary": "This briefing analyzes the global passenger transport markets, ride-hailing networks, and car-sharing structures under the dual-framework of McKinsey partner methodologies and MIT transportation systems planning. The market is defined by a massive tension between operational systems efficiency (optimized dispatch, empty cruising reduction) and urban policy friction (congestion caps, curb-space regulations, driver-gig classification laws). Overcoming these bottlenecks is the next frontier of shared mobility scaling.",
+        "headline": "Singapore's Next Mobility Stack: Curb, Fleet & Policy",
+        "summary": "Singapore's compact, highly regulated transport market is becoming a live laboratory for point-to-point mobility. Taxi, ride-hailing, car-sharing, and emerging autonomous services now compete and collaborate around the same scarce curb, road, and driver capacity. The strategic question is how to increase access without undermining the reliability of the wider public transport system.",
         "key_themes": [
             {
-                "theme": "Vehicle Miles Traveled (VMT) Displacement",
-                "explanation": "Extensive empirical research shows that ride-hailing fleets increase urban deadheading (empty cruise time) by 35-40%, directly competing with public mass transit corridors."
+                "theme": "The first-and-last-mile compact",
+                "explanation": "Singapore's rail network makes P2P services most valuable when they extend MRT and bus access rather than duplicate trunk routes. Operators that measure interchange quality, not just trip volume, can earn a stronger role in the national mobility system."
             },
             {
-                "theme": "Dynamic Curb Space Allocation",
-                "explanation": "Curb management has shifted from a static parking problem to a dynamic throughput bottleneck, driving municipal demand for geofenced pickup/dropoff zones."
+                "theme": "Curb space as infrastructure",
+                "explanation": "Airport, CBD, school, and interchange pickup zones are throughput bottlenecks. Better geofencing, demand-aware kerb allocation, and cleaner handoffs with LTA infrastructure can reduce dwell time and illegal stopping."
             },
             {
-                "theme": "Driver Supply Elasticity Under Regulatory Caps",
-                "explanation": "Driver wage-floors and regulatory vocational licensing barriers limit real-time vehicle supply, forcing platforms to deploy highly aggressive algorithmic incentives."
+                "theme": "A trusted driver operating model",
+                "explanation": "Platform growth depends on sustainable driver economics, transparent incentives, and a predictable licensing environment. In Singapore, service quality and regulatory trust are strategic assets alongside dispatch efficiency."
             }
         ],
         "strategic_takeaways": [
-            "Incorporate dynamic VMT charging metrics into operator operational expense projections to hedge against municipal congestion charges.",
-            "Establish co-load geofencing agreements with city councils to lower curbside dwell times and reduce double-parking fines.",
-            "Develop hybrid dispatch simulations modeling battery charge decay and grid pricing to buffer against future fleet electrification mandates."
+            "Design P2P partnerships around MRT and bus interchange gaps, especially for off-peak, night, and accessibility journeys.",
+            "Treat LTA-compliant pickup geofences and curb turnaround time as board-level operating metrics, not back-office compliance.",
+            "Model EV charging, driver earnings, and peak electricity demand together before scaling electrified or autonomous fleets."
         ]
     }
     
