@@ -80,48 +80,32 @@
       </div>
     </section>
 
-    <!-- Systems Dynamics & Strategic Alignment Matrix (Upgraded 2D Plot) -->
-    <section class="glass-card matrix-card-wrapper" id="systems-dynamics-matrix-panel">
-      <div class="matrix-header">
-        <div class="matrix-title-block">
-          <span class="matrix-subtitle">Singapore Systems Lens</span>
-          <h3>Regulatory Friction vs. Network Efficiency</h3>
+    <!-- Global implementation map -->
+    <section class="glass-card world-map-card" id="world-mobility-map">
+      <div class="map-header">
+        <div>
+          <span class="matrix-subtitle">Field guide • 2026</span>
+          <h3>Mobility ideas worth importing</h3>
+          <p>One map for the best operating models, policy experiments, and practical lessons from around the world.</p>
         </div>
-        <p class="matrix-intro-text">This interactive 2D mapping plots strategic presentations, whitepapers, and policy briefs. High-scoring positions represent stronger fleet and interchange efficiency; rightmost positions indicate Singapore policy friction such as licensing rules, curb constraints, workforce protections, and congestion management.</p>
+        <span class="map-count" id="map-count">0 implementations</span>
       </div>
-      <div class="matrix-grid-container">
-        
-        <!-- Left: The Plot Axis & Grid -->
-        <div class="matrix-plot-wrapper">
-          <div class="y-axis-label">OPERATIONAL SYSTEMS EFFICIENCY ➔</div>
-          <div class="matrix-plot-area">
-            
-            <!-- Matrix Quadrant Titles -->
-            <div class="quadrant-label top-left">High Yield / Unregulated</div>
-            <div class="quadrant-label top-right">Optimal Balance / High Friction</div>
-            <div class="quadrant-label bottom-left">Sub-Optimal / Early Stage</div>
-            <div class="quadrant-label bottom-right">Regulated / Low Yield</div>
-            
-            <!-- Scatter Canvas Area -->
-            <div class="scatter-plot-canvas" id="scatter-canvas">
-              <!-- Coordinate dots are mapped here dynamically via app.js -->
-              <div class="no-data-plot" id="no-data-plot-message">Loading matrix alignment coordinates...</div>
-            </div>
-            
-          </div>
-          <div class="x-axis-label">MUNICIPAL POLICY & REGULATORY FRICTION ➔</div>
+      <div class="map-layout">
+        <div class="world-map" aria-label="World map of mobility implementations">
+          <svg viewBox="0 0 1000 480" role="img" aria-labelledby="map-title map-desc">
+            <title id="map-title">Global mobility implementation map</title>
+            <desc id="map-desc">Select a country marker to see the mobility idea and its relevance to Singapore.</desc>
+            <path class="landmass" d="M74 116l54-35 70 8 46 37-13 35-46 8-21 42-35-6-17-41-43-10zm217 32l43-19 37 14 16 32-25 18-31-12-28 13-23-22zm107 76l31-4 22 24-10 35-28 12-20-28zm61-118l52-30 73 4 44 30-19 29-45-1-30 24-48-12zm101 88l45-14 40 17 7 33-37 17-19 45-32-9-12-40-25-14zm94-5l69-18 94 18 64 39-30 29-74-4-44 18-54-28zm-28 92l29-4 19 24-28 19-27-12zm-397-12l20 11 13 32-17 48-19-9-11-42z"/>
+          </svg>
+          <div class="map-markers" id="map-markers"></div>
         </div>
-        
-        <!-- Right: Active Selected Deck Summary Box -->
-        <div class="matrix-info-box" id="matrix-active-info-box">
-          <div class="info-box-placeholder">
-            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color: var(--color-primary); margin-bottom: 12px;"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path><path d="M13.73 21a2 2 0 0 1-3.46 0"></path></svg>
-            <h4>Select a Deck Coordinate</h4>
-            <p>Hover or click over any coordinate dot on the matrix to review the MIT transport systems critique and corporate model assumptions.</p>
-          </div>
-        </div>
-        
+        <aside class="map-detail" id="map-detail">
+          <span class="detail-kicker">Select a marker</span>
+          <h4>Find a proven move</h4>
+          <p>Explore practical implementations—from Baden-Baden's low-cost casino transfer to Singapore's next interchange playbook.</p>
+        </aside>
       </div>
+      <div class="map-legend"><span><i class="legend-marker active"></i> Featured implementation</span><span><i class="legend-marker"></i> Research signal</span></div>
     </section>
 
     <!-- Analytics Dashboard Grid -->

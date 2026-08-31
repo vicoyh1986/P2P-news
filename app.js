@@ -49,10 +49,20 @@ const elements = {
   // Grid
   newsGrid: document.getElementById("news-grid-feed"),
   
-  // Systems Dynamics Matrix
-  scatterCanvas: document.getElementById("scatter-canvas"),
-  matrixActiveInfo: document.getElementById("matrix-active-info-box")
+  // Global implementation map
+  mapMarkers: document.getElementById("map-markers"),
+  mapDetail: document.getElementById("map-detail"),
+  mapCount: document.getElementById("map-count")
 };
+
+const MOBILITY_IMPLEMENTATIONS = [
+  { country: "Singapore", code: "SG", x: 76, y: 66, idea: "MRT-linked on-demand rides", detail: "Use P2P services to close first/last-mile gaps around rail interchanges, with LTA-compliant pickup zones.", relevance: "Pilot at interchange hotspots and measure transfer time, not only trip volume.", featured: true },
+  { country: "Germany", code: "DE", x: 51, y: 30, idea: "Baden-Baden casino transfer", detail: "A reported €2–4 taxi ride can connect the casino to Airbnb stays around 30 minutes away—an example of a simple, predictable evening transfer product.", relevance: "Package affordable, fixed-price hospitality transfers for visitors moving between venues and accommodation.", featured: true },
+  { country: "Japan", code: "JP", x: 87, y: 43, idea: "Demand-responsive rural transit", detail: "On-demand minibuses and taxi partnerships keep low-density communities connected without running empty fixed routes.", relevance: "Adapt the model for off-peak accessibility and neighbourhood feeder services.", featured: false },
+  { country: "Estonia", code: "EE", x: 57, y: 22, idea: "Digital mobility layer", detail: "Open digital services make booking, payment, and multimodal discovery feel like one journey.", relevance: "Make taxi, ride-hail, and public transport information interoperable.", featured: false },
+  { country: "Colombia", code: "CO", x: 30, y: 62, idea: "Cable + feeder integration", detail: "Small feeder services extend high-capacity corridors into difficult terrain and underserved neighbourhoods.", relevance: "Design P2P links around MRT stations and accessibility needs.", featured: false },
+  { country: "United States", code: "US", x: 21, y: 35, idea: "Airport queue orchestration", detail: "Digital staging and dispatch systems reduce curb dwell time where demand arrives in sharp waves.", relevance: "Apply demand-aware staging at Changi and major hotel clusters.", featured: false }
+];
 
 // Inline Mock Database (Fallback for CORS / offline / filesystem opening)
 const CORS_FALLBACK_DB = {
@@ -251,14 +261,44 @@ function renderDashboard() {
   // 2. Render Executive Briefing
   renderExecutiveBriefing();
   
-  // 3. Render Systems Dynamics Scatter Plot Matrix
-  renderSystemsMatrix();
+  // 3. Render global implementation map
+  renderWorldMap();
   
   // 4. Render Analytics & Metrics
   renderMetrics();
   
   // 5. Render News Feed Cards
   renderNewsFeed();
+}
+
+function renderWorldMap() {
+  if (!elements.mapMarkers) return;
+  elements.mapCount.innerText = `${MOBILITY_IMPLEMENTATIONS.length} implementations`;
+  elements.mapMarkers.innerHTML = "";
+
+  const activate = (item, marker) => {
+    document.querySelectorAll(".map-marker").forEach(m => m.classList.remove("active"));
+    marker.classList.add("active");
+    elements.mapDetail.innerHTML = `
+      <span class="detail-kicker">${item.country} · ${item.code}</span>
+      <h4>${item.idea}</h4>
+      <p>${item.detail}</p>
+      <div class="detail-relevance"><strong>Singapore lens</strong><span>${item.relevance}</span></div>
+    `;
+  };
+
+  MOBILITY_IMPLEMENTATIONS.forEach((item, index) => {
+    const marker = document.createElement("button");
+    marker.className = `map-marker ${item.featured ? "featured" : ""} ${index === 0 ? "active" : ""}`;
+    marker.style.left = `${item.x}%`;
+    marker.style.top = `${item.y}%`;
+    marker.setAttribute("aria-label", `${item.country}: ${item.idea}`);
+    marker.innerHTML = `<span>${item.code}</span>`;
+    marker.addEventListener("click", () => activate(item, marker));
+    marker.addEventListener("mouseenter", () => activate(item, marker));
+    elements.mapMarkers.appendChild(marker);
+    if (index === 0) activate(item, marker);
+  });
 }
 
 // --- Render Executive Briefing ---
