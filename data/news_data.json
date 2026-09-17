@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T02:59:11.731902+00:00",
+  "last_updated": "2026-09-17T03:02:37.284397+00:00",
   "ai_active": false,
   "executive_brief": {
     "headline": "Systems Dynamics of Global Shared Fleet Operations & Curb Economies",
@@ -26,16 +26,167 @@
   },
   "articles": [
     {
-      "title": "Grab buys 60% stake in Atome Financial for S$1.49b",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84WHRYQUZydVdfTEs0eEN6QjVPbERscVlpajJ4MTlkUnN5LUk1T25reWhjSXdPTnp2S25XY3NtSVlMYnE1LXJvWmhsNmVOMmkzSXdDOEVqYzQ2X2Nfc0FfMjRWVkVUeThZeFJnVDhlR1gzajctREE?oc=5",
+      "title": "Grab agrees $1.49bn deal to buy majority stake in Apac BNPL platform Atome",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTElZb2lYWmxVYlhlV3RpS051UU52SGYyN3Y3N3dGQzVSNGFROTRnSnhTeFFTdU1HbmMxMEVwQ19TWDFraHNOelF0ZTVwWUgxaUsyemZUcmxFdjlHRWprVHF5YmpjS1BoQkJES0RVUk5pVnhPZUNDT0JqaHN6bW5aV1JwTi05cVhOelBGdTRHSDR3REx2NUlpZGN0RW9XMXlrV2lHQmFZeV9wa2hvMENpWEczWlJ3QQ?oc=5",
+      "published_at": "2026-09-16T23:02:35",
+      "snippet": "Grab agrees $1.49bn deal to buy majority stake in Apac BNPL platform Atome&nbsp;&nbsp;Finextra Research",
+      "source": "Finextra Research",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab agrees $1.49bn deal to buy majority stake in Apac BNPL platform Atome&nbsp;&nbsp;Finextra Research",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Uber Technologies (UBER) Q2 2026 Earnings: Bottom-Line Beat of 43% Meets a Muted Stock Reaction - EPS Miss Report",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMnQtbUI2bl96SmFTNFdYTUV1WVJUVFh0WnpIV09BSkszeWNad2JRUW1LdWlhanh5VnJnckVXc1pmMFp0RDYxS2h0MWpFb2dWLU5QX1VHWG9aWTdaUEEzUklzS01EOTN2SDhpNE4yOGlSWE1fYkxPZ0hqSTNmdGdpM0FacERESzAxQVpjS0ZuZER5YzdMbUE0aFJQWHVDY1dObmItZ296WkZoQnRkWTY5QTJGeVNfeDk0SUxYVXN3VThpNTg2ZHg4Uzg1V0Q?oc=5",
+      "published_at": "2026-09-16T15:43:03",
+      "snippet": "Uber Technologies (UBER) Q2 2026 Earnings: Bottom-Line Beat of 43% Meets a Muted Stock Reaction - EPS Miss Report&nbsp;&nbsp;dars.gov.et",
+      "source": "dars.gov.et",
+      "category": "Strategy Decks",
+      "ai_summary": "Uber Technologies (UBER) Q2 2026 Earnings: Bottom-Line Beat of 43% Meets a Muted Stock Reaction - EPS Miss Report&nbsp;&nbsp;dars.gov.et",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ],
+      "academic_analysis": {
+        "systems_impact": "Maximizes vehicle utilization rates through autonomous partnerships but heavily spikes local grid peak charging loads.",
+        "methodological_assumptions": "Assumes municipal city councils will allow unrestricted robotaxi geofences without high licensing surcharges.",
+        "professors_critique": "Highly efficient dispatch paradigm that completely minimizes deadheading, yet is extremely vulnerable to municipal blockades.",
+        "systems_efficiency": 85,
+        "policy_friction": 65
+      }
+    },
+    {
+      "title": "Grab Makes $1.49 Billion Fintech Bet, Takes Control of Atome Financial",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hTDZLZWo0Wjliak1qaGRCNTUtSEdtOGd6N0pvaS1CZnlTSmNhYi1tbG1HM1F4VHhOTHV5VEU0aDBHNmE2YnpwRWdQdEJ1aV91Vl9qRVBhMkoxcjRlVXV1c1NZNzhRRy1wXzY4TTNNZ29rZ3N2NkhkZTJhNzE?oc=5",
+      "published_at": "2026-09-16T14:05:36",
+      "snippet": "Grab Makes $1.49 Billion Fintech Bet, Takes Control of Atome Financial&nbsp;&nbsp;Yahoo Finance Singapore",
+      "source": "Yahoo Finance Singapore",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab Makes $1.49 Billion Fintech Bet, Takes Control of Atome Financial&nbsp;&nbsp;Yahoo Finance Singapore",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab’s wild shopping spree takes a sensible turn",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlRnRXJxQUg0d2VRN085WExLRWRpTXJGZkhmN3gxeC0xa1duV25wcGdjWVBIa1BHRm1wZVRORUgwb2ZhNWREM3I0V04wSHZIa09yZGQ3c3NLNmlyX244VkpSaXExTHp0ekZvSmxpc1ZwNFJOaFZoRzZzRUpHcC1GRm5JY3NfYk5FVi1pV0I4ay1BVTVkNzY4RENpdkdUVHUxd3c5cTRVSDFpSVF5SFE?oc=5",
+      "published_at": "2026-09-16T11:10:01",
+      "snippet": "Grab’s wild shopping spree takes a sensible turn&nbsp;&nbsp;Breakingviews",
+      "source": "Breakingviews",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab’s wild shopping spree takes a sensible turn&nbsp;&nbsp;Breakingviews",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Ryde Explores Agentic AI to Reimagine Ride-Hailing Dispute Resolution at Tencent Cloud Hackathon Singapore 2026",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd05OWUZ0OW9aanhSZmFTRUVTaVlBaW82Q3pxUG9HWG4wLWZkWWV6dnZyQ0k2SXprbUVxeUpwdHhOa19GR0xTYjdVUGRZSERLaVBKU2Fybk93bzEwRXZWQVhxeVplUTFRTGtyanB0R0hVS0VFRVI3Smdfem11Yl9WSzllMGl0aFNlQnVWVHFCb3l1M2R1UHRjRnUwdXFqbHNjX2szWVh5OEZwWEJZSi0wa0hwMFAxQkNxcWk1SzA1UThqX1R5dG5Fc3ZKX2FwMEZvd1c4d1ZkRmFnOEV6U1RfQmt5a0k?oc=5",
+      "published_at": "2026-09-16T10:32:21",
+      "snippet": "Ryde Explores Agentic AI to Reimagine Ride-Hailing Dispute Resolution at Tencent Cloud Hackathon Singapore 2026&nbsp;&nbsp;ACCESS Newswire",
+      "source": "ACCESS Newswire",
+      "category": "Singapore P2P",
+      "ai_summary": "Ryde Explores Agentic AI to Reimagine Ride-Hailing Dispute Resolution at Tencent Cloud Hackathon Singapore 2026&nbsp;&nbsp;ACCESS Newswire",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab accelerates fintech expansion through acquisitions",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGJnREdvWWliR0l5RDVYRHZQZV9YS2EzbmVfR3lHMkdtMDJoNW9yWFFQWnNUWGcwT0FEaEF2T1ZXWmZTNHluSm1KSlJYVDlGZTVkTlFLTnRCTGdaMEZLLVFkUEJ0OUhEbVh6d1NKWUtaR3VzaVluenJkUUdsRDNiSGRTU0l4UFhtcC0wQXVfNTVfOVMwRGlRWDdncG9JUTNkSElMYndfUQ?oc=5",
+      "published_at": "2026-09-16T08:54:00",
+      "snippet": "Grab accelerates fintech expansion through acquisitions&nbsp;&nbsp;Nikkei Asia",
+      "source": "Nikkei Asia",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab accelerates fintech expansion through acquisitions&nbsp;&nbsp;Nikkei Asia",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab set for majority stake in Atome to expand lending in Southeast Asia",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOXzNwR0dfdGx1UnZVZ1pFM2FnOUVwb2tjUWFHc0RsUk5xOHlWNjZCSm40amxjcjVXazFFX3h0akJ5Tks3YWFYVlpZeGIxNlBCWVRKX1AzZVVCMVRRSlhwVFBGT0FjZEFhcHZYeFBnZkpaTWZVVzRkdHZGUGJkenlYOENxZV9mLTZuUkVZQlNHNHZCMEp5MTY4WThLUENVUEVKLUNVbm1pT0NJaGs2SVpmbzVXZFpmd3UwX1BOVUVmSFBPXzBoVktQUkRPRkVySUhNRWg0bjBvQUFUT05pQ2fSAeMBQVVfeXFMT0RUUEhLTFFLOVJlckJSeGc4SjhtbUR1OGo0MzJYb3h1YTNwczE0b2lmOVk2QVkwSjF0bnN2Wjd6VkhpeWx0Y2ROekFtd2pFMnNCY1g0cFVNZVN3UFZKMjBuVk9sdE9XcU02TkRvNVBzV2ZxNjk5RHVxbU1wcGp0MV9aWDdMSUFaOEg4eDI3Rmt4d0RPbjVabnFNVGVkRGFOa01oY2xuanNhY29pelVuUXBDVk1Lam8tRDNmV3ZPdllfU0NUR0lncDBNQ2pacTQ0cGF0UTI0c1VWU3JDbElIaDRidGc?oc=5",
+      "published_at": "2026-09-16T08:31:00",
+      "snippet": "Grab set for majority stake in Atome to expand lending in Southeast Asia&nbsp;&nbsp;The Manila Times",
+      "source": "The Manila Times",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab set for majority stake in Atome to expand lending in Southeast Asia&nbsp;&nbsp;The Manila Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Singapore's largest ride-hailing company to expand self-driving fleet 5-fold",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjdNUi1BRUZVbHY1Y09OdWpfRWYxWUZPX2VVdmFvbHRodGJFX3hwLTFCUTZ4UVJOU1oySkk3elpoZkdPdTM1bWZzVXh2bFp0U01FSy1CU2l3U1o3N3lFWXNlemk1LW5veEJVMi1xTFI2N1N5NDhMbDBkb1pjZV9wZUpITEdmWlozRXVIMjhUWS10ZWFuc3NELU9EMjltZ21yQWNpOWxTeEQ3SnBhY2dqUWhnSjJzUExSS0lqRFZzbFN1SUlITDRiVEFzRW5MUDAzdFRB?oc=5",
+      "published_at": "2026-09-16T04:00:36",
+      "snippet": "Singapore's largest ride-hailing company to expand self-driving fleet 5-fold&nbsp;&nbsp;VnExpress International",
+      "source": "VnExpress International",
+      "category": "Singapore P2P",
+      "ai_summary": "Singapore's largest ride-hailing company to expand self-driving fleet 5-fold&nbsp;&nbsp;VnExpress International",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGw5V0llaDE0UkZUa3VReU04VzhOaUlXQWxvWmtJT05PWFFDUnE0Q2NvZ2dYczZ0bFlSdEV3cHNVTVNJa0lMTVFvWkswcHJacl9pNWJhRHdrVDZXRHJsY1kxS0dUcGFIMERWTGVJRFR0all0Ul9zdXd0Sk16Y29IYWpR0gGHAUFVX3lxTE1aRU15RTVZUEE2SnA3OU5JbmtsUkNqY0dWSGRNeGUtVEN0S0hMVFplVXBxRXNpN01KaDlPV29mMzN4UXdKbUU3NEY4VVVuY2tiOFZIRHl6YjZYM3o2NlNwMmJjWWQzZHhUb0F0dDZXd2kzTG1sODVQU1FKeWtBaEM4NXVyQUl4UQ?oc=5",
+      "published_at": "2026-09-16T03:50:00",
+      "snippet": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome&nbsp;&nbsp;CNBC",
+      "source": "CNBC",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome&nbsp;&nbsp;CNBC",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification",
+        "Labor Elasticity"
+      ]
+    },
+    {
+      "title": "Grab to acquire 60% stake in Atome Financial for US$1.49 billion",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTRQZkFndURpeUg5MFVpM0xWcVJnUEpQSXhhSEJLdU52RUh0WGYweG5CTExlWXhQMXJDUmphMjVRTlZKYUZrZzdma2RQVGJLYVl6Vms1VC1IeGt0OTFxZVBLejUxVm9sbkZ4aDVxZWMzc005Yi1nNjlPZkFab01leFhBM0tMY1hmWHIyZllUQ0RSUkx3?oc=5",
+      "published_at": "2026-09-16T02:23:32",
+      "snippet": "Grab to acquire 60% stake in Atome Financial for US$1.49 billion&nbsp;&nbsp;marketech apac",
+      "source": "marketech apac",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab to acquire 60% stake in Atome Financial for US$1.49 billion&nbsp;&nbsp;marketech apac",
+      "sentiment": "Positive",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab buys 60% stake in Atome Financial for $1.9b",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YQ3RmV2t3MjJna3JiTTBkNHFtVkRCNjdkTHA5SHBHY3RkNkhVSnJ6QzQwWXIwa1pISkN5RGpMZ1dqdXhCTlJ5QWdET0VCNzB6aExyOXAxLTBhOG9xdTZvNUJCeXZCOTZhTnFXcnZsR3JXRHc?oc=5",
       "published_at": "2026-09-16T01:47:09",
-      "snippet": "Grab buys 60% stake in Atome Financial for S$1.49b&nbsp;&nbsp;Singapore Business Review",
+      "snippet": "Grab buys 60% stake in Atome Financial for $1.9b&nbsp;&nbsp;Singapore Business Review",
       "source": "Singapore Business Review",
       "category": "Singapore P2P",
-      "ai_summary": "Grab buys 60% stake in Atome Financial for S$1.49b&nbsp;&nbsp;Singapore Business Review",
+      "ai_summary": "Grab buys 60% stake in Atome Financial for $1.9b&nbsp;&nbsp;Singapore Business Review",
       "sentiment": "Neutral",
       "tags": [
         "Electrification"
+      ]
+    },
+    {
+      "title": "The best apps in Singapore for daily life: Must-have apps for dating, food delivery, travel and transport",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCRkhhY05ObTlHbExobkoxZUgzVkcyeXJ6YnY5cHI0UnRxcEtwNGJqNTB3RXRjSUdfeU94bUdpQlJZcnNxX29HTXNENndyQldXa3VoN0FWQS1XZ2pVRUs4T2c5OE5VYUlVUVE?oc=5",
+      "published_at": "2026-09-16T01:30:51",
+      "snippet": "The best apps in Singapore for daily life: Must-have apps for dating, food delivery, travel and transport&nbsp;&nbsp;Honeycombers",
+      "source": "Honeycombers",
+      "category": "Singapore P2P",
+      "ai_summary": "The best apps in Singapore for daily life: Must-have apps for dating, food delivery, travel and transport&nbsp;&nbsp;Honeycombers",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
       ]
     },
     {
@@ -81,10 +232,10 @@
       "title": "Grab set to acquire Atome stake for US$1.49bil to expand lending",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX00wak1uMDVBcTQzcGIzLXo3cU5YQW5JTW1laUlBSGoxMXF1cEpyQkRoOWROTHhndHBrSXA4MHF0SzlPQnIwRmRRVFdoV1lJZFpuTVhpbk1VQzNnZlFMa2pHTHRKaDNBWm9SVlI1Q0dhMFQ3eVFLbGxKUF85bElCNnppNy0yQkd4MEhHZXBTb0QxQjJydlVYU09NaHJleXZzLU9Sc000aGkyMHRybDFvcVNFRmxjRkRmYW9oOWpJQ0N6dkYtakw4ZjJUdTdGazZlRHc?oc=5",
       "published_at": "2026-09-15T14:25:00",
-      "snippet": "Grab set to acquire Atome stake for US$1.49bil to expand lending&nbsp;&nbsp;freemalaysiatoday.com",
-      "source": "freemalaysiatoday.com",
+      "snippet": "Grab set to acquire Atome stake for US$1.49bil to expand lending&nbsp;&nbsp;Free Malaysia Today",
+      "source": "Free Malaysia Today",
       "category": "Singapore P2P",
-      "ai_summary": "Grab set to acquire Atome stake for US$1.49bil to expand lending&nbsp;&nbsp;freemalaysiatoday.com",
+      "ai_summary": "Grab set to acquire Atome stake for US$1.49bil to expand lending&nbsp;&nbsp;Free Malaysia Today",
       "sentiment": "Positive",
       "tags": [
         "Shared Mobility"
@@ -111,6 +262,19 @@
       "source": "Forbes",
       "category": "Singapore P2P",
       "ai_summary": "Grab To Buy 60% Of Singapore-Based Atome For $1.5 Billion In Fintech Push&nbsp;&nbsp;Forbes",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Host your Lovable, Bolt or any other Vibe-Coded website on Hostinger",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHVMTVd5VVM5OHBkQ2hlTGpLT2xMbUdXUVVBU2U4UEVDaUpDRFFVNmpZbFZmUjJScmY0ZDdlUl9GWnQ0Sk8tUWlZSVpXcGd0MUdyXzdhV0VmQTJtbFVjeUVkUlJXU01fLVJpM0NtdFZvTlg2OHU5VG1EdTJMRlJTdkxsbnVONnI0TXBsRmxFY3J0eFJzeVJvSjRvanpJd1RPQWdWSQ?oc=5",
+      "published_at": "2026-09-15T12:04:11",
+      "snippet": "Host your Lovable, Bolt or any other Vibe-Coded website on Hostinger&nbsp;&nbsp;hostinger.com",
+      "source": "hostinger.com",
+      "category": "Global P2P",
+      "ai_summary": "Host your Lovable, Bolt or any other Vibe-Coded website on Hostinger&nbsp;&nbsp;hostinger.com",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -156,6 +320,19 @@
       ]
     },
     {
+      "title": "Grab to Buy Most of Atome for $1.49 Billion to Spur Lending Push",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHJRNFJ3enlOM1hiNTJqSDZRY0JqbExhLUwxQnhQSWpxMEROczR5aklTSldocXlLTUloZW5oT0ROdlJrTFB0QWtPaUdXYXc2VEJtdGhnclB6Tm5MTktwWkg1cHZ1Q0NvaVFYQkVxM05jUGFNQTA1RF9USnRvaG5BRUJaZVVyRWhHZ3NEdExzSm15OXJwYTdhNjgwb1g1MXNQX2FrTWtxTVFIOGE3Q3F4MUk1Vnk?oc=5",
+      "published_at": "2026-09-15T11:19:52",
+      "snippet": "Grab to Buy Most of Atome for $1.49 Billion to Spur Lending Push&nbsp;&nbsp;Bloomberg",
+      "source": "Bloomberg",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab to Buy Most of Atome for $1.49 Billion to Spur Lending Push&nbsp;&nbsp;Bloomberg",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
       "title": "Grab takes majority stake in Atome Financial in US$1.49 billion deal",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0E0d1JWQlRPczJQWXl0RGd0TERoakdBT3FhUEVFNWM4eEZoT29SbE9CLU9tRHI0Ui1lVF9kZ1pSUjlUZU5HYVI5WmZxMFp0SzZzQTBPLW1NOHB3eUNGNURwTVU4TnpsTWduUjhVTmpnRUZJeEFiampydkVqR2NFaExfSjc?oc=5",
       "published_at": "2026-09-15T11:04:00",
@@ -185,36 +362,23 @@
       "title": "Grab to buy most of Atome for US$1.49 bil to spur lending push",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUJuS01KSXlqZm5RMDlvWEV3OXY3TUtMMUJpQnVPQkJ0OThZRXh2X0kxMF9HSXNvZHA5UDZUX1pLNzRCVGppWVpjblZ5aTAxbkEtVjl6cThLb3g0c2YxMVpVQlhBOVNtbV9vX2c2ZEhNRUZOWVYxbDR0TFFhbDktVkNZekVWTTRqVVJja2pOalZDd9IBlwFBVV95cUxOVG9TdUszdnIxbXZUMVFaRV9HNURrVkZqWEMwSUxxOFowSHJibWc4RW43bnpDVE9lWDBWalgzYnVXbVI1cFhFYUhJNi12eWxLVWN5V2dGazVyUHpkS0V3Ym9BRXg4SXdPVTROTGpvUFNILUFQNnJZODB3TjVpeEpDN180LVpPcWFINXFfQl9kd2pDbkxEVlNF?oc=5",
       "published_at": "2026-09-15T10:44:43",
-      "snippet": "Grab to buy most of Atome for US$1.49 bil to spur lending push&nbsp;&nbsp;theedgesingapore.com",
-      "source": "theedgesingapore.com",
+      "snippet": "Grab to buy most of Atome for US$1.49 bil to spur lending push&nbsp;&nbsp;The Edge Singapore",
+      "source": "The Edge Singapore",
       "category": "Singapore P2P",
-      "ai_summary": "Grab to buy most of Atome for US$1.49 bil to spur lending push&nbsp;&nbsp;theedgesingapore.com",
+      "ai_summary": "Grab to buy most of Atome for US$1.49 bil to spur lending push&nbsp;&nbsp;The Edge Singapore",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
       ]
     },
     {
-      "title": "Host your Lovable, Bolt or any other Vibe-Coded website on Hostinger",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHVMTVd5VVM5OHBkQ2hlTGpLT2xMbUdXUVVBU2U4UEVDaUpDRFFVNmpZbFZmUjJScmY0ZDdlUl9GWnQ0Sk8tUWlZSVpXcGd0MUdyXzdhV0VmQTJtbFVjeUVkUlJXU01fLVJpM0NtdFZvTlg2OHU5VG1EdTJMRlJTdkxsbnVONnI0TXBsRmxFY3J0eFJzeVJvSjRvanpJd1RPQWdWSQ?oc=5",
-      "published_at": "2026-09-15T10:39:08",
-      "snippet": "Host your Lovable, Bolt or any other Vibe-Coded website on Hostinger&nbsp;&nbsp;hostinger.com",
-      "source": "hostinger.com",
-      "category": "Global P2P",
-      "ai_summary": "Host your Lovable, Bolt or any other Vibe-Coded website on Hostinger&nbsp;&nbsp;hostinger.com",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Grab to Buy Most of Atome for $1.49 Billion to Spur Lending Push",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHJRNFJ3enlOM1hiNTJqSDZRY0JqbExhLUwxQnhQSWpxMEROczR5aklTSldocXlLTUloZW5oT0ROdlJrTFB0QWtPaUdXYXc2VEJtdGhnclB6Tm5MTktwWkg1cHZ1Q0NvaVFYQkVxM05jUGFNQTA1RF9USnRvaG5BRUJaZVVyRWhHZ3NEdExzSm15OXJwYTdhNjgwb1g1MXNQX2FrTWtxTVFIOGE3Q3F4MUk1Vnk?oc=5",
-      "published_at": "2026-09-15T10:17:08",
-      "snippet": "Grab to Buy Most of Atome for $1.49 Billion to Spur Lending Push&nbsp;&nbsp;Bloomberg.com",
-      "source": "Bloomberg.com",
+      "title": "Grab Is in Talks to Buy Control of Singapore's Atome for Over $2 Billion",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlIU3J1RHVNdVk4Q016cmM4MmRVbi05TjV6MEkxX2hJNkJkVzFHWjFFZ1JrQjE0alhoSXdyX090aWxEc180clF0Qk9KRFh6LWFHRFRkcFNyU0l0VnN1dklaeHRoeDdfbHgyS3NjMmIzbXd5MGt3cXdQY2w5aTdSMDc3OXdrbmktZERUSllKd2UyUXIySnphTkpvSlRMVXM?oc=5",
+      "published_at": "2026-09-15T10:44:23",
+      "snippet": "Grab Is in Talks to Buy Control of Singapore's Atome for Over $2 Billion&nbsp;&nbsp;Startup Fortune",
+      "source": "Startup Fortune",
       "category": "Singapore P2P",
-      "ai_summary": "Grab to Buy Most of Atome for $1.49 Billion to Spur Lending Push&nbsp;&nbsp;Bloomberg.com",
+      "ai_summary": "Grab Is in Talks to Buy Control of Singapore's Atome for Over $2 Billion&nbsp;&nbsp;Startup Fortune",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -237,26 +401,13 @@
       "title": "Hainan Gor: Hainanese curry rice by ex-Grab driver with tender braised pork & house-made meatballs",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lanJEV2x5UFFoZWlOU0VFdWZPSkRYbWJ3YlZZRXJMZUxkUl9YUG1fc1lTWHdSc1UzU3pjWDFXcEY5Y2Z3NXBteDVINjlieUpiSWYw?oc=5",
       "published_at": "2026-09-15T06:04:44",
-      "snippet": "Hainan Gor: Hainanese curry rice by ex-Grab driver with tender braised pork & house-made meatballs&nbsp;&nbsp;SETHLUI.com",
-      "source": "SETHLUI.com",
+      "snippet": "Hainan Gor: Hainanese curry rice by ex-Grab driver with tender braised pork & house-made meatballs&nbsp;&nbsp;sethlui.com",
+      "source": "sethlui.com",
       "category": "Singapore P2P",
-      "ai_summary": "Hainan Gor: Hainanese curry rice by ex-Grab driver with tender braised pork & house-made meatballs&nbsp;&nbsp;SETHLUI.com",
+      "ai_summary": "Hainan Gor: Hainanese curry rice by ex-Grab driver with tender braised pork & house-made meatballs&nbsp;&nbsp;sethlui.com",
       "sentiment": "Positive",
       "tags": [
         "Labor Elasticity"
-      ]
-    },
-    {
-      "title": "Safety operators in Singapore discuss working in autonomous cars",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVVpck9nRzljQ0NYazJ0UE1CQmJQbFNfdmhCTUNnVUlvT2hRMUdjSUVVa1BZMGRfWm4ybnV6OHBkcWhNdWwtTFktWHZPWUJCdUtlNGJOQVhMc012MU1laW14OVJEdGFwSzZZT1RzcXFaa1NDVUdOVHRydXlwcDlzc3cwMkFTcDEtaFpsMjlTd1k3WTNmWjVWaFdB?oc=5",
-      "published_at": "2026-09-15T04:18:18",
-      "snippet": "Safety operators in Singapore discuss working in autonomous cars&nbsp;&nbsp;UA.NEWS",
-      "source": "UA.NEWS",
-      "category": "Singapore P2P",
-      "ai_summary": "Safety operators in Singapore discuss working in autonomous cars&nbsp;&nbsp;UA.NEWS",
-      "sentiment": "Neutral",
-      "tags": [
-        "AV Fleet"
       ]
     },
     {
@@ -352,19 +503,6 @@
       ]
     },
     {
-      "title": "Oye: Uber’s exit exposes gaps in Nigeria’s transport regulation, consumer choice",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2o5Q0F3WmRHNFllSHFnMVFiczcwZ1lvMFV3S2pXVWpUcUN4aEFxWktIS0RwUElWeWRQRFNGMTlJSWVnTFM1ZER2T1F6LUNNVkpkanRxdjV0MjJ4czBEbnVnOG51bWVuSlJYLWRHT3EtM2RHTVYtd01HWmFQYjlwdlFnZERSNTJ6NjgxSFlPLUg4Y25UanA4aUU4dDhKRnQzMGdFNw?oc=5",
-      "published_at": "2026-09-14T04:00:00",
-      "snippet": "Oye: Uber’s exit exposes gaps in Nigeria’s transport regulation, consumer choice&nbsp;&nbsp;The Guardian Nigeria News",
-      "source": "The Guardian Nigeria News",
-      "category": "Global P2P",
-      "ai_summary": "Oye: Uber’s exit exposes gaps in Nigeria’s transport regulation, consumer choice&nbsp;&nbsp;The Guardian Nigeria News",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Uber stock took a hit it didn’t earn over Tesla Cybercab",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHFDN0xhTFQzc08zeVVXSEw2T0dMb25hSkZ6X0h4MUFuNlp3M05xczZoSFZrNEIzbnZON0dkYXZ2MmNjM1hYbDdkTlowSGM1U0tvZVQtZ2RENGVXQmJtbUs0c2o4VTBQVVdubTAzQ0FlQVgzamc1ZFV5WjlGcmlkTmN4eV9IUTZsaTdoWW1lcTk?oc=5",
       "published_at": "2026-09-13T23:17:00",
@@ -388,10 +526,10 @@
       "title": "Uber exit exposes Nigeria’s transport, regulatory gaps — Oye",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmVLNVJxZlNNSGNhNWx1MTl5MXRKTElDOEZ6Wl96S1FpQkdtY2xkRE42bGVaNHB5S3dkOHJHaDVvWUlVbjFBMi1IaEZ3WmhydzQ1eGVadlBiR1FuYmlDdTZSM2NrdWN3THJmOC03SzN4S2dxXy1HVFQwbVVZdVBoemE0aG8zSHBqSUtKaXM3eEkwVzlQZlF6UNIBngFBVV95cUxOcTFscnRFNEFyZlcxVi1nYS1vRFNUakNxbWhqcVpNQXFOanBtU1FGMDljLXhWZkJVRzVmQlRYc1pCSnduUXlaaUZBSVR6azhKcXluaHdJM2NuOUZFNUp1eGt5N0hzS0hweXV4RnFyUExsMi1oMmNWVE9XQ0ltSEllZG9TZTR0VUYwMEprMUtOS3FtLXlhbmxnem95a0ZMQQ?oc=5",
       "published_at": "2026-09-13T20:48:11",
-      "snippet": "Uber exit exposes Nigeria’s transport, regulatory gaps — Oye&nbsp;&nbsp;vanguardngr.com",
-      "source": "vanguardngr.com",
+      "snippet": "Uber exit exposes Nigeria’s transport, regulatory gaps — Oye&nbsp;&nbsp;Vanguard News",
+      "source": "Vanguard News",
       "category": "Global P2P",
-      "ai_summary": "Uber exit exposes Nigeria’s transport, regulatory gaps — Oye&nbsp;&nbsp;vanguardngr.com",
+      "ai_summary": "Uber exit exposes Nigeria’s transport, regulatory gaps — Oye&nbsp;&nbsp;Vanguard News",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -411,27 +549,13 @@
       ]
     },
     {
-      "title": "Grab faces Vietnam's review of commissions as drivers plan boycott",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkRncm9wem9ZNGRMdjdkaWROOENpRjRGN0EzN1NNS3VpUk1KdEtDZmlNNVBEWl9RZ016bFE3WkVhUjJBaUdQXzIwc3JZUVY5WE5URVI0VEh6MHNERFdkeEktemFuRE5xNUllU0Z0dXBhbG9RU2c0dzJCdHVjaWJLSnVuLU50b0dPVkNrMkJpelZLdGRjQWgxdEZlVVBya1pNQzRQONIBqgFBVV95cUxPa191VzRrbUJHM2ZfSWVQQ3plUkNfOE9BeXlobmZZaXNVRXdtZ3l1UkcwR2k3VDFXd2JucGJUOGJiRlk0U2trRE5vZmtUcWNUbXlfUFZCTE01cFkzN1NkNEU2bGJsVk5jUHYwR3RXX29NZVpiUXpVYUdvSVM0ZmpBM2NWLWRsQi14alpDSnJndmdsdWlrSHNCYWNkdFJDU0M4X0R6MjJMWW1JZw?oc=5",
-      "published_at": "2026-09-12T04:28:39",
-      "snippet": "Grab faces Vietnam's review of commissions as drivers plan boycott&nbsp;&nbsp;theedgesingapore.com",
-      "source": "theedgesingapore.com",
-      "category": "Singapore P2P",
-      "ai_summary": "Grab faces Vietnam's review of commissions as drivers plan boycott&nbsp;&nbsp;theedgesingapore.com",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification",
-        "Labor Elasticity"
-      ]
-    },
-    {
       "title": "Cash Grab or a Step Forward? Disney’s Outlandish Decision With Marvel and Star Wars Will Make You Think You’re Back in the ’90s",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fUjUwbFNxYl9aRlQyMnU2VTdSZm03eFhKU2dyb282ZnBiQmpBaDllNWdCdmdNODVjV0N4cFpFQnBBVnhRR0M4YWM5VXdqQm9zdVE?oc=5",
       "published_at": "2026-09-11T21:49:35",
-      "snippet": "Cash Grab or a Step Forward? Disney’s Outlandish Decision With Marvel and Star Wars Will Make You Think You’re Back in the ’90s&nbsp;&nbsp;imdb.com",
-      "source": "imdb.com",
+      "snippet": "Cash Grab or a Step Forward? Disney’s Outlandish Decision With Marvel and Star Wars Will Make You Think You’re Back in the ’90s&nbsp;&nbsp;IMDb",
+      "source": "IMDb",
       "category": "Global P2P",
-      "ai_summary": "Cash Grab or a Step Forward? Disney’s Outlandish Decision With Marvel and Star Wars Will Make You Think You’re Back in the ’90s&nbsp;&nbsp;imdb.com",
+      "ai_summary": "Cash Grab or a Step Forward? Disney’s Outlandish Decision With Marvel and Star Wars Will Make You Think You’re Back in the ’90s&nbsp;&nbsp;IMDb",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -454,10 +578,10 @@
       "title": "Singapore Attorney General to appeal sentence of UK man who assaulted Grab driver who later died",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR0U4WFppaGhYNWIzOVR4bkpiU0xnZElNOW00NHQ2NTBHRmxQa3l1NnY1TElmclU2c1dGUVo2b2EyQzU4NzZtYi1GNVNRZVhGSDRFb3E3ZkRGbjlLeVJPUFJCX19lLTVZeEZHclRXR0ZaVV9TeUY1YXhnOWg2bmJQZjdYWGdlMnREUmhISzFwTFpqUGVpcXhhOThpdElheGd0Z0VmbUt0VjlobUZFWGxXa0RFakl1Y2ZyTHZnVmZKTm0?oc=5",
       "published_at": "2026-09-10T10:34:27",
-      "snippet": "Singapore Attorney General to appeal sentence of UK man who assaulted Grab driver who later died&nbsp;&nbsp;The Independent Singapore News",
-      "source": "The Independent Singapore News",
+      "snippet": "Singapore Attorney General to appeal sentence of UK man who assaulted Grab driver who later died&nbsp;&nbsp;The Independent Singapore",
+      "source": "The Independent Singapore",
       "category": "Singapore P2P",
-      "ai_summary": "Singapore Attorney General to appeal sentence of UK man who assaulted Grab driver who later died&nbsp;&nbsp;The Independent Singapore News",
+      "ai_summary": "Singapore Attorney General to appeal sentence of UK man who assaulted Grab driver who later died&nbsp;&nbsp;The Independent Singapore",
       "sentiment": "Neutral",
       "tags": [
         "Labor Elasticity"
@@ -516,29 +640,16 @@
       ]
     },
     {
-      "title": "SEA Digest: OJK mulls IDX ownership limit; Gojek Singapore rolls out capped fares",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lbmxrN25TbXRINGNnNmFabURXd0RRMHBhbk5GZVdLcm12NHFjS2p3NkRFaTU5UXVPTkZMR01XWkdtSjU2SElOei11MHp4QzJsQ2VUeU5Qakp0TTdSdmtBOWNKd0ZkVmlnZ19zTEp2dkNkSEVG?oc=5",
-      "published_at": "2026-09-08T08:38:31",
-      "snippet": "SEA Digest: OJK mulls IDX ownership limit; Gojek Singapore rolls out capped fares&nbsp;&nbsp;DealStreetAsia",
-      "source": "DealStreetAsia",
+      "title": "Singaporeans can now drive GetGo cars to Malaysia, with no deposit or mileage fees",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kSURqZmRwNlVCaUlkZ1p2UlRWYmp4WjdKZ2NPRzdZWXhpVWhmUUk3Q0pMN2IxWkFqREFzUW9MOVpFQVRsWFBMTjVFdUFDbHZwRENkQWdyR1dpc3A1UWtNT1FQTzJFQWtHT1VGRF9rMXU?oc=5",
+      "published_at": "2026-09-09T07:00:00",
+      "snippet": "Singaporeans can now drive GetGo cars to Malaysia, with no deposit or mileage fees&nbsp;&nbsp;sethlui.com",
+      "source": "sethlui.com",
       "category": "Singapore P2P",
-      "ai_summary": "SEA Digest: OJK mulls IDX ownership limit; Gojek Singapore rolls out capped fares&nbsp;&nbsp;DealStreetAsia",
+      "ai_summary": "Singaporeans can now drive GetGo cars to Malaysia, with no deposit or mileage fees&nbsp;&nbsp;sethlui.com",
       "sentiment": "Neutral",
       "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "title": "Singapore's Ryde Adds Bitcoin, Ethereum, and Solana to Treasury",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2hPeW96elctblBmNnpvR2tIV09ZSzJ4YjFzQzJZUUM1dExIN05Dcmd6eG9PdUJ1OF9Rb1lveDF4eXAtVzdBM3hwZElRMEZBSTNNQUhTWlo2NzZJTFRTVUlZMTNLM09FNmNNQ3Q5eEpadU9memlZYVhOU2FTN1JHS2RPWk8tZ3dJTy1oNWVuWnpQZU5GcF84YjZ0enQ2OTBiSW15cw?oc=5",
-      "published_at": "2026-09-08T03:51:10",
-      "snippet": "Singapore's Ryde Adds Bitcoin, Ethereum, and Solana to Treasury&nbsp;&nbsp;CoinMarketCap",
-      "source": "CoinMarketCap",
-      "category": "Singapore P2P",
-      "ai_summary": "Singapore's Ryde Adds Bitcoin, Ethereum, and Solana to Treasury&nbsp;&nbsp;CoinMarketCap",
-      "sentiment": "Neutral",
-      "tags": [
-        "Regulation"
+        "Shared Mobility"
       ]
     },
     {
@@ -594,6 +705,19 @@
       ]
     },
     {
+      "title": "From Google to Alibaba: AI investments in Singapore over the last 12 months",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjloalZiMnhuVWt6NnNtLWhhWXVqX0lCVmk5REhYMUdFNFV3T1N5dkJyVnZiQVNDSGhzNmRfODRhQXpwcmlzVHRtd1IyOVVWSDUzUXZTUmpkbjdGVVZ4WVJNY3FVX0t0bEg3UnBnbWJsRHNjRi1HWFJsM2R4V1lVTUZ2TDhXWElXeXhEejlhX0dDN3hyZEZvZzIxRHBfOE44Zm1XRnFaZ3d3MXpKS1ctcXlZa3c3TTV0Z3c?oc=5",
+      "published_at": "2026-09-02T07:00:00",
+      "snippet": "From Google to Alibaba: AI investments in Singapore over the last 12 months&nbsp;&nbsp;Singapore Economic Development Board (EDB)",
+      "source": "Singapore Economic Development Board (EDB)",
+      "category": "Singapore P2P",
+      "ai_summary": "From Google to Alibaba: AI investments in Singapore over the last 12 months&nbsp;&nbsp;Singapore Economic Development Board (EDB)",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification"
+      ]
+    },
+    {
       "title": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanI3bi1HRzRqbDJnWXo0NmFfV0R3SXJvVVppUnVuRzduS3BGZVNjNVhmWl90VktsSVhhOThabklQWE1sR3BSNHpfd0ExdGVDNFVkSEU2OTFRaEh1QzR4aVA0LVhFM3V4UnhUaWMwanFXRjZIM2NVd2F1M0M0OWU1dmtpejJxS01CVXRQVEJzWDYyTy1mLVpKaNIBrAFBVV95cUxOdU5jaldJNHFENnNiZktuRk9WaXZmcUFtZ2pYRjJOaVYzR21VUkI2UkJrekNxaVVpOUU1TTkwcUl6d0RqVnhKeThxdVVVeFlpRmVDWks3ZW9BNTladUd5OUpUMEM0S0NIYmF5VXVFMXVrZVZ1R1VTSmpvd3I2LVFYVVNSQ0w2VDBuc1NDMUVYVkRXSi1tNFBJQkkzbVBSejRlRDRmeVVXNzdsa2xD?oc=5",
       "published_at": "2026-09-02T07:00:00",
@@ -601,19 +725,6 @@
       "source": "WAFB",
       "category": "Global P2P",
       "ai_summary": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know&nbsp;&nbsp;WAFB",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Land grab or rain? Why was a 100-year-old Hindu temple in Pakistan demolished?",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODBKTjd5UTZ5a1UtTjBTM094aHBweTF0YlhWR3F3bUo0bXdTZ1hET2RzcFB1bmFiVDJleWdYQWVBa2tXSGd4Vm5pci1hNHVTc0I4aGJuaXN1dk9aZWpRSjBabDlWbVo4M19VZ1ZoOHBSeGFYYWRWZHZNZVQ3blc1WlFBZTVaUXFxckM2dU55c09yS1JEcGpvcS1QRE9nbU9WcEZReEV2bUNMa0FidTFLNFBGekJDVWllcm9FVm0xRVl4MTlqUGfSAcsBQVVfeXFMUHdMN3M3N1YwU1A5bzhOREMtTC1TbXFMa1pRMHYzV2ZqbHN6dFpYXzBLMU1IbEpFcmdjSVZVVlZVM0x5dGhyaXBzaFJ2SERMQzJqTnh5bGpfcVBnVUhYZ0tVcUdPMDRqOEhXVmZFR1ZUU3FWaXVKWUw5cGdTVTdKYjlDVVVrb1dydXNTaERfb3BuTXpPVGgxSm1RalVITG9MSUlpNV9JcldaWDhlUkJfQ3VZQ0cyeHdnclFadS1MZ0J0Rm1VLVRZUVBaSWs?oc=5",
-      "published_at": "2026-09-01T10:11:18",
-      "snippet": "Land grab or rain? Why was a 100-year-old Hindu temple in Pakistan demolished?&nbsp;&nbsp;Firstpost",
-      "source": "Firstpost",
-      "category": "Global P2P",
-      "ai_summary": "Land grab or rain? Why was a 100-year-old Hindu temple in Pakistan demolished?&nbsp;&nbsp;Firstpost",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -672,6 +783,19 @@
       ]
     },
     {
+      "title": "Land grab or rain? Why was a 100-year-old Hindu temple in Pakistan demolished?",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODBKTjd5UTZ5a1UtTjBTM094aHBweTF0YlhWR3F3bUo0bXdTZ1hET2RzcFB1bmFiVDJleWdYQWVBa2tXSGd4Vm5pci1hNHVTc0I4aGJuaXN1dk9aZWpRSjBabDlWbVo4M19VZ1ZoOHBSeGFYYWRWZHZNZVQ3blc1WlFBZTVaUXFxckM2dU55c09yS1JEcGpvcS1QRE9nbU9WcEZReEV2bUNMa0FidTFLNFBGekJDVWllcm9FVm0xRVl4MTlqUGfSAcsBQVVfeXFMUHdMN3M3N1YwU1A5bzhOREMtTC1TbXFMa1pRMHYzV2ZqbHN6dFpYXzBLMU1IbEpFcmdjSVZVVlZVM0x5dGhyaXBzaFJ2SERMQzJqTnh5bGpfcVBnVUhYZ0tVcUdPMDRqOEhXVmZFR1ZUU3FWaXVKWUw5cGdTVTdKYjlDVVVrb1dydXNTaERfb3BuTXpPVGgxSm1RalVITG9MSUlpNV9JcldaWDhlUkJfQ3VZQ0cyeHdnclFadS1MZ0J0Rm1VLVRZUVBaSWs?oc=5",
+      "published_at": "2026-09-01T07:00:00",
+      "snippet": "Land grab or rain? Why was a 100-year-old Hindu temple in Pakistan demolished?&nbsp;&nbsp;Firstpost",
+      "source": "Firstpost",
+      "category": "Global P2P",
+      "ai_summary": "Land grab or rain? Why was a 100-year-old Hindu temple in Pakistan demolished?&nbsp;&nbsp;Firstpost",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
       "title": "GetGo now lets users drive its rental cars from Singapore to Malaysia",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZeHhtRl8wbV9TeHJNLUpHc0hvMWRMY2xaUWVGV0RKVFJLMkQ3S3J3QTVhcEx2cUh1TUM3UnRKRklBMkh3LXhZWklMSldpdGlPYnk4YnVvdnRmYTc0NS0tZjhiUWg1REtDUXYzcVF6R2dlZWZM?oc=5",
       "published_at": "2026-09-01T04:05:37",
@@ -708,32 +832,6 @@
       "sentiment": "Neutral",
       "tags": [
         "Electrification"
-      ]
-    },
-    {
-      "title": "GetGo rolls out Malaysia road trips for Singapore car-sharing users",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1RtWDZMdFFJUkNLNm9OdUoxQkN6ZWpBdkVjQ2pTSTZYU2cwMGVZVmFmU3JMUDdYSXR6blEzdG9TTGVvY0pEaDlFa1ZIaTdqRmY4eG5ya3hqTHNxY1hxQjJSMllia3kxNVBQamw5T1c5N3FSd0F1ejdpY0VBT0QtdDV6Tk0?oc=5",
-      "published_at": "2026-08-31T07:00:00",
-      "snippet": "GetGo rolls out Malaysia road trips for Singapore car-sharing users&nbsp;&nbsp;Yahoo",
-      "source": "Yahoo",
-      "category": "Singapore P2P",
-      "ai_summary": "GetGo rolls out Malaysia road trips for Singapore car-sharing users&nbsp;&nbsp;Yahoo",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "SEA Digest: Salim Group buys out Keppel from data centre JV; Gojek expands tie-up with ComfortDelGro",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbVNRMjJ2cXRBemtFaWF6MGNpMlRLeHZQVEZiLXZaTjhpZzVaSmZpUTZkdkFwcldaSERTUUVNS05Kd1JOaEgtZzI5d2p2ZXJZcFJiUHQwZjJGUnlSWkx4UElkU1F5dWhZTXVwN3lVTlJ3VUhKRUJQVmJFLWJSLW9WZE5weG1mVkJRMXctSUZJN1dUVFlLQXhST0lpeGtudjM4bENGRG1oUHBhRHowU3J0X2xDTlF0d2tTVklSVFpVZFJDTVV3cXk0bmZpSFNHOHAzZ3RocnJpc0UxeS1I?oc=5",
-      "published_at": "2026-08-31T07:00:00",
-      "snippet": "SEA Digest: Salim Group buys out Keppel from data centre JV; Gojek expands tie-up with ComfortDelGro&nbsp;&nbsp;DealStreetAsia",
-      "source": "DealStreetAsia",
-      "category": "Singapore P2P",
-      "ai_summary": "SEA Digest: Salim Group buys out Keppel from data centre JV; Gojek expands tie-up with ComfortDelGro&nbsp;&nbsp;DealStreetAsia",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
       ]
     },
     {
@@ -789,45 +887,6 @@
       ]
     },
     {
-      "title": "How to stay safe in an Uber or Lyft",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CenlwRmNwRG9XQUNnMkZIV3RNMllHSGE4VjcxemY0Z1dkdXZQOEk0dzVPWmtpTFJ6R0RKdV9ZTFdhWUFESHFyMThvVDFoQ1UtcF94N1ZKemdGWGoxOHZ4NzR6djQ4U3dJMXBXak1LRTI?oc=5",
-      "published_at": "2026-08-27T07:00:00",
-      "snippet": "How to stay safe in an Uber or Lyft&nbsp;&nbsp;aol.com",
-      "source": "aol.com",
-      "category": "Global P2P",
-      "ai_summary": "How to stay safe in an Uber or Lyft&nbsp;&nbsp;aol.com",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "BLKJ Havas and Grab 5-Star Eats turn Singapore’s toughest food critics into keyboard warriors",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYU9hSlE4aGhYLUN2WFMwRE5LWGVfSjdjd0RuUXUzOVFxUTdOcGtKQjZyTkpfRkVBVzBsNjRnRjJqOXRUUTNWNFlEU3VVV1ExSTQ3STA5S3JyZFRUM3ItcnNOQzBOUTBXckdoYVpNQVMxaGFRblVkT2JCaWFNUV8tcDJGc0NFVmlBMXZ0TF9NTndKd3hJNDkyNTViT1hnZUJWMk1Yamg1SjMyQnBDZHlWUUhfdHRZQ2dZQlRWTjhUYzM1T2l5X2FRa0RMOGdwTm8?oc=5",
-      "published_at": "2026-08-26T07:00:00",
-      "snippet": "BLKJ Havas and Grab 5-Star Eats turn Singapore’s toughest food critics into keyboard warriors&nbsp;&nbsp;Campaign Brief Asia",
-      "source": "Campaign Brief Asia",
-      "category": "Singapore P2P",
-      "ai_summary": "BLKJ Havas and Grab 5-Star Eats turn Singapore’s toughest food critics into keyboard warriors&nbsp;&nbsp;Campaign Brief Asia",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Singaporean refutes commenter who called driving for Grab a ‘low-class’ job",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0VWV0tLaXRMdTNEakVPRFI2Y2pNYVVNUUFuWGRsWEV0SUN0aEZQdXZXazJBcDFGYTEzQ1RDdW50NUw4dEdqdjFIQnFGS0RLdTRTWHBuR01vREVzVWRTT2ZvNU85WmliZjNXTEQwZ0ZrUkVreGNDanRoLUdnZm1Qay0tQzE4SE9QTTNWS0RfX1Q1cVo4NFpkdEx5YURocnBZUlE?oc=5",
-      "published_at": "2026-08-26T07:00:00",
-      "snippet": "Singaporean refutes commenter who called driving for Grab a ‘low-class’ job&nbsp;&nbsp;The Independent Singapore News",
-      "source": "The Independent Singapore News",
-      "category": "Singapore P2P",
-      "ai_summary": "Singaporean refutes commenter who called driving for Grab a ‘low-class’ job&nbsp;&nbsp;The Independent Singapore News",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "GetGo car catches fire on Lornie Highway, incident under investigation, Singapore News",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVhCcXU0elN4aGp4YVVPLTlwbFl0Q3lHVDRiZnhjUjZxcVZHODdNUGtIa1FQVlhkdDk3eElrdGpFZjNjRFhUOHN2WEstNXZ1YW9MODQ0d2xPOVNyYm1DV0J5OFZNSExsOXV3cnA3VmppRVljY1FZbGJuRGdBcy10ZWVvczl0MjNJZ3dV?oc=5",
       "published_at": "2026-08-25T07:00:00",
@@ -836,19 +895,6 @@
       "category": "Singapore P2P",
       "ai_summary": "GetGo car catches fire on Lornie Highway, incident under investigation, Singapore News&nbsp;&nbsp;AsiaOne",
       "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "GetGo car crashes into road divider fencing in Tampines, Singapore News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1anlieGMzeGc0d2JBNXQtUXoxR0ItQ0hHcjJRakZvWl9VaUhoN0RYTjhMX3dLTk1LOWFJX0o3eXA4SXBFRFZSWFZiV1A2UFFsc1k4TXJ2cDRlcG45anVoRWUzSUF6NTdwTjA0OGdGSFF3M1dOTTBCTjhZZjZ3Z00?oc=5",
-      "published_at": "2026-08-24T07:00:00",
-      "snippet": "GetGo car crashes into road divider fencing in Tampines, Singapore News&nbsp;&nbsp;AsiaOne",
-      "source": "AsiaOne",
-      "category": "Singapore P2P",
-      "ai_summary": "GetGo car crashes into road divider fencing in Tampines, Singapore News&nbsp;&nbsp;AsiaOne",
-      "sentiment": "Negative",
       "tags": [
         "Shared Mobility"
       ]
@@ -867,19 +913,6 @@
       ]
     },
     {
-      "title": "Vineyard airport clamps down on Turo",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5bkZxWXNabmUyQUhLa0Z1cjFJTnJUcnBHbGdtU3N0RVExRzhLWXJHQm9VYllUMWVJZEJ0aWJTeEFjY01XaVdyb3ZGc1RsNHVOOXdZYjVuRTlkX2lyMm5sTkxKU2VkUmtNTUNaQVo2MW5QMXJGNEFxelVPYlQ?oc=5",
-      "published_at": "2026-08-21T17:54:51",
-      "snippet": "Vineyard airport clamps down on Turo&nbsp;&nbsp;MV Times",
-      "source": "MV Times",
-      "category": "Global P2P",
-      "ai_summary": "Vineyard airport clamps down on Turo&nbsp;&nbsp;MV Times",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Woman boycotts Grab, says company 'didn't care' after driver allegedly ran over husband's foot",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXJ3MlNST0VlTU53cFpwdkxZZmk2UFBfLUxmd2htYUlfVzZIU18zbkdaOFh0Sm5jcFItak9iNGZZZWJBWWNpUl9HZ19lNzYzUWRubmF6Ynl3WVRjNS1SQVc1aUFIUFRjVC1XSHJRRXFYOTExa3NnbHMtVjRvNXplY1JHcnl6LXJ6dnVQbVFFVUNtODZpTG5iamNObjFWb2tfdkd3?oc=5",
       "published_at": "2026-08-21T07:00:00",
@@ -890,6 +923,19 @@
       "sentiment": "Neutral",
       "tags": [
         "Labor Elasticity"
+      ]
+    },
+    {
+      "title": "Vineyard airport clamps down on Turo",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5bkZxWXNabmUyQUhLa0Z1cjFJTnJUcnBHbGdtU3N0RVExRzhLWXJHQm9VYllUMWVJZEJ0aWJTeEFjY01XaVdyb3ZGc1RsNHVOOXdZYjVuRTlkX2lyMm5sTkxKU2VkUmtNTUNaQVo2MW5QMXJGNEFxelVPYlQ?oc=5",
+      "published_at": "2026-08-21T07:00:00",
+      "snippet": "Vineyard airport clamps down on Turo&nbsp;&nbsp;MV Times",
+      "source": "MV Times",
+      "category": "Global P2P",
+      "ai_summary": "Vineyard airport clamps down on Turo&nbsp;&nbsp;MV Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
       ]
     },
     {
@@ -932,32 +978,6 @@
       ]
     },
     {
-      "title": "Grab, RSAS and NDCA Launch RideSafe Course for Delivery Riders in Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2hCaENqdEM3M3VEQVF0VGFuWUNTUV9WVmdRNjhJR1ZqLUtOZFR6U1RpVmREdnN5eVlXRlRlM2VoR0lMeTU5Mzl6QmdSWkZDeWJnWWZsS3NsTU1jem1LejNWWEpYcG1KakNnVWpRa0tRMHlzWUNmdkxSMTd4dXZIRjR1TzduanN3a1lSQzgzcm04eGpUemlSdzI3YThENF9pYUJtME5MSDVkUQ?oc=5",
-      "published_at": "2026-08-20T03:03:34",
-      "snippet": "Grab, RSAS and NDCA Launch RideSafe Course for Delivery Riders in Singapore&nbsp;&nbsp;Branding in Asia",
-      "source": "Branding in Asia",
-      "category": "Singapore P2P",
-      "ai_summary": "Grab, RSAS and NDCA Launch RideSafe Course for Delivery Riders in Singapore&nbsp;&nbsp;Branding in Asia",
-      "sentiment": "Positive",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "UBER or LYFT: Which Player Is Better-Placed Post-Q2 Earnings Results?",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTTVVOEt4czZzNzBYbGJldXM3UjRxUHNydExiWHZIT0dTRzVBeEVQN3pqWWhES2diUlU4N3BWemJ2ZnE1QzhnbEZqZmlReTFoNzRsZE5VUW1iOUlsVG5YSjJwSTdHU1l3MGZNQU5Cc0NkTUpqbGdDMFNTM1NRYUppbU5LWG1ZWkhPNjQ4NWxvQXpEMnRIQUpNOEZ5MA?oc=5",
-      "published_at": "2026-08-19T07:00:00",
-      "snippet": "UBER or LYFT: Which Player Is Better-Placed Post-Q2 Earnings Results?&nbsp;&nbsp;Yahoo Finance",
-      "source": "Yahoo Finance",
-      "category": "Global P2P",
-      "ai_summary": "UBER or LYFT: Which Player Is Better-Placed Post-Q2 Earnings Results?&nbsp;&nbsp;Yahoo Finance",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "ComfortDelGro boss reshapes Singapore fleet for profit turnaround",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlBiVV96VVBMenkyNDRRbGVuUUtOWFczZENPNk55LWJXZnhJcEFfWFFLT29TcWRWZTNiTS12eVQ4RTJ2dGdqRFg3WldPb0NZSnVCVFJuc1N3TXJET21fOTcyUkZRVTJoY1NIeENyN2dILVNiaHlpcjVESlZrTk1pRzhSWXQxcXhaaTdUcW0tX2RmaHNyVGZEWXJ6YkUzaE1sVnlWSW1paEtyaWdPQ1pZWXhYNUEwMlItb0JRYVRxRGU5bjBh?oc=5",
       "published_at": "2026-08-18T07:00:00",
@@ -968,32 +988,6 @@
       "sentiment": "Positive",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "GXS Bank Launches Cashback Credit Card With Grab, Singtel Rewards",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVA3LUZWd3JzWEY3bi0zX3NsdkJ4SzhJUG43SklQT3NfbUF3S0RUVmR1emxUYklCdW9POHV5eUlESjBDcTI4cmVCUHJyVlJVNHBfUjN1dW5laU9vZXdVNEcwSDhJNktkLXFjb3c5WFgtTEJQcUJLTFRKdThCb0xsbWlVaw?oc=5",
-      "published_at": "2026-08-17T03:29:29",
-      "snippet": "GXS Bank Launches Cashback Credit Card With Grab, Singtel Rewards&nbsp;&nbsp;Fintech Singapore",
-      "source": "Fintech Singapore",
-      "category": "Singapore P2P",
-      "ai_summary": "GXS Bank Launches Cashback Credit Card With Grab, Singtel Rewards&nbsp;&nbsp;Fintech Singapore",
-      "sentiment": "Positive",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "ComfortDelGro posts 19.7% H1 profit decline on weaker P2P earnings",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGxtMmhmSDVkczN5Z2h3a1poTFZzSlhYMzFzdGpKVGczbjBPNmh2XzByVVB5NGlaUk4xbXZQTmdGUkpYZXhxakZiOFkzUzFRMGIxa2Y3cnBSSTdoLVl0elI2SzlFSXcxZU9LbUpCVVNidU1jU2puSURzQ3VqM29sOUhEak12aU1GZHlnVVVMMEZVako3ZkM3eF9GQXBPXzNwdzJaOW9sckU?oc=5",
-      "published_at": "2026-08-17T02:33:37",
-      "snippet": "ComfortDelGro posts 19.7% H1 profit decline on weaker P2P earnings&nbsp;&nbsp;Singapore Business Review",
-      "source": "Singapore Business Review",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro posts 19.7% H1 profit decline on weaker P2P earnings&nbsp;&nbsp;Singapore Business Review",
-      "sentiment": "Positive",
-      "tags": [
-        "Electrification"
       ]
     },
     {
@@ -1049,19 +1043,6 @@
       ]
     },
     {
-      "title": "ComfortDelGro’s 1HFY2026 patmi down 19.7% y-o-y to $85.1 mil; maintains dividend at 3.91 cents",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYU90WUNNckFTZHBvbDhGUTRkaTBUdDEtZWVPQ3kxczdhY1hKZ3ZvOUNIb0tzRVlMRUpPdC1aS3BaVFdXV3l5NFRfN0Zxb2JMdjJkS2tiMVZ6OGZDLXlEck5YcjF0TXBVLWF4cjYyd05RY0d0QW5mQUlLLXB5UkN3UzRpYWFNREFGaGVCYkR3Vmw2NUE2cFVnZlBkU0dJaC1WeUtidHE5TmNfS0JSTVQ4TkRPVmpoc0J2bDc5SVpEa1MzTUtPcWlCT3VB?oc=5",
-      "published_at": "2026-08-14T07:00:00",
-      "snippet": "ComfortDelGro’s 1HFY2026 patmi down 19.7% y-o-y to $85.1 mil; maintains dividend at 3.91 cents&nbsp;&nbsp;theedgesingapore.com",
-      "source": "theedgesingapore.com",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro’s 1HFY2026 patmi down 19.7% y-o-y to $85.1 mil; maintains dividend at 3.91 cents&nbsp;&nbsp;theedgesingapore.com",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "I Tried Uber’s New Shuttle Service To Avoid Surge Pricing—But Was It Worth It?",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80MV9rSUVuRUN0ZjBENkxBUDRuVl91SDVCUm5uVHhXZTFRZ0h1SU9FNmYxU0M1emFjUlZNLTNHYUFwNm5xTnhuNEFKbEZPci1nTzctY1RRejA?oc=5",
       "published_at": "2026-08-14T07:00:00",
@@ -1070,6 +1051,32 @@
       "category": "Global P2P",
       "ai_summary": "I Tried Uber’s New Shuttle Service To Avoid Surge Pricing—But Was It Worth It?&nbsp;&nbsp;parade.com",
       "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "ComfortDelGro rebrands EV charging business as CDG Energy, Singapore News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNThLRGlQQ3dLcnR2MXJSMXIyYXlMRGRtNzBmRXVhdDAtT08yWlM2bmFPV0l2cVVPNXE2OEdyZ1pnUzdfbzAySm9IenIzeUJSWXNpQXFfaDl5MG5qMl9zemR6X2dpZkNGaXNXQTl1NC1HUm9PMnRENW5PcndSSVYwLXJKREQ3VmpVZzVfekN3?oc=5",
+      "published_at": "2026-08-12T07:00:00",
+      "snippet": "ComfortDelGro rebrands EV charging business as CDG Energy, Singapore News&nbsp;&nbsp;AsiaOne",
+      "source": "AsiaOne",
+      "category": "Singapore P2P",
+      "ai_summary": "ComfortDelGro rebrands EV charging business as CDG Energy, Singapore News&nbsp;&nbsp;AsiaOne",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification"
+      ]
+    },
+    {
+      "title": "Singapore Tourism Board and Grab Launch Campaign to Discover Singapore’s Precincts and Do More After Dark",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOY0s2eHZfTjU0LS1qQ2xiY18tOE13eUNHUUthMG5aQ2RGS1JXbW5xSFc4djZjVjRmdW1sMU96RWJFSUl4TmdraFdaRDlNZkptaVUweEZvV3pSOGluT19fcnROUUVucUt5cWI5R2NRT3dPUHdKdDY5MlR2bXBRZGpGMDdPYTM1QTFkc0gyakJvWXF4UGVNRnB2bm9mOTZETHpsSW1xdS0wOHUwUzJxbWtDOFpWZUlGQjk4ZElSWjJnSWdSdVY3ZjR6RTdtelgtRzNJZ1p5VjBLcjZSdm00cnZ5MG9rYzBDNkNseTgzZGxWU1MtUGhRMGo5aHFtaVh4emFn?oc=5",
+      "published_at": "2026-08-11T07:00:00",
+      "snippet": "Singapore Tourism Board and Grab Launch Campaign to Discover Singapore’s Precincts and Do More After Dark&nbsp;&nbsp;stb.gov.sg",
+      "source": "stb.gov.sg",
+      "category": "Singapore P2P",
+      "ai_summary": "Singapore Tourism Board and Grab Launch Campaign to Discover Singapore’s Precincts and Do More After Dark&nbsp;&nbsp;stb.gov.sg",
+      "sentiment": "Positive",
       "tags": [
         "Shared Mobility"
       ]
