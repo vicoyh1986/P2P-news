@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T03:16:25.168024+00:00",
+  "last_updated": "2026-09-28T03:13:15.626135+00:00",
   "ai_active": false,
   "executive_brief": {
     "headline": "Systems Dynamics of Global Shared Fleet Operations & Curb Economies",
@@ -26,6 +26,71 @@
   },
   "articles": [
     {
+      "title": "Waymo's entry in Singapore AV market not immediately material to ComfortDelGro, says RHB",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQUZWUGVuV0p0alh1VmJ2WElxN2pLVDNfN2x2SGpSLXJ0eXZVZ01id1FaUXdLU3doQmZGXzFadjh2dFl3UXJ0dkN1YkUtMTJEV2FadHJsTE1NQjJBX09qVU5PcXM2akRRbXpFNHJ0Q25wQ0p0Q21DT0lxei1ySmo5QzV3SzM2MHhSSG10QnRjeHN3R2xCNUJwcm5lbWp0Rk4wYjFhdHdDVGgwMXdyeDN2OHdOOGhtaG9Ba3RQM05ialFIUDJ3VDlCTXliQQ?oc=5",
+      "published_at": "2026-09-28T02:51:01",
+      "snippet": "Waymo's entry in Singapore AV market not immediately material to ComfortDelGro, says RHB&nbsp;&nbsp;theedgesingapore.com",
+      "source": "theedgesingapore.com",
+      "category": "Singapore P2P",
+      "ai_summary": "Waymo's entry in Singapore AV market not immediately material to ComfortDelGro, says RHB&nbsp;&nbsp;theedgesingapore.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet"
+      ]
+    },
+    {
+      "title": "Great Eastern Holdings appoints former ComfortDelGro director to its board",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWVCMVBnaDZ5LU9razk4TTJ5RHNna0ExNVg2c1FxeWJ6TXRJSWk4czk1bVFQZGowU0QyWmVQMkUxSEVrZW1YTkUxVGViYnNNMjU0SFBkems4RlkxN1ZGbVdsTHBaTkt6a2hMdVgxakF3cldfZ2xUYnc3anotVFE0V3IwbzB4V3JSVVRINHBoYjRHdUJnSk1mYVA2X0tVeHdBS0NRZHo2YmlYLTR6RDB4cjBHanpsXzQzbXRCYkRGbUdOQ3B0TmJlalNB0gHKAUFVX3lxTE5RZUIxUGdoNnktT2trOThNMnlEc2drQTE1WDZzUXF5YnpNdElJaThzOTVtUVBkajBTRDJaZVAyRTFIRWtlbVhORTFUZWJic00yNTRIUGR6azhGWTE3VkZtV2xMcFpOS3praEx1WDFqQXdyV19nbFRidzdqei1UUTRXcjBvMHhXclJVVEg0cGhiNEd1QmdKTWZhUDZfS1V4d0FLQ1FkejZiaVgtNHpEMHhyMEdqemxfNDNtdEJiREZtR05DcHROYmVqU0E?oc=5",
+      "published_at": "2026-09-27T23:03:00",
+      "snippet": "Great Eastern Holdings appoints former ComfortDelGro director to its board&nbsp;&nbsp;theedgesingapore.com",
+      "source": "theedgesingapore.com",
+      "category": "Singapore P2P",
+      "ai_summary": "Great Eastern Holdings appoints former ComfortDelGro director to its board&nbsp;&nbsp;theedgesingapore.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Ryde Introduces RydeX GO, a New Ride-Hailing Option for Closer Pick-Ups in Singapore",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ0RyV0c5UXZFV1g1cUhSMmdvZmRpMmxjci1YZ2tUTV9mT1N2dTlRaXc5MWFpVk1WQjZuRlNrVHZ0VEZLNzNLWHN4ZWs3eXg2N0xJSkJyTjZ1T3lXdkJPS2x3V05yUTJweFNESC11c0xrX1pvcEtuLUMxcUJRSU1kaHRtSVZueFR0SzJDaF9pMlhRcm9kdXNReHRwa3J1MjFnRG51MmVvX1J4ZC01VGpwRk9fQ3RVRlY2RU9pRldpZHVrSnJ6NUVkT1g4cmtld0pvV0VwaGY4TWV2RkRoUy0zbXFmSXY?oc=5",
+      "published_at": "2026-09-27T20:14:05",
+      "snippet": "Ryde Introduces RydeX GO, a New Ride-Hailing Option for Closer Pick-Ups in Singapore&nbsp;&nbsp;ACCESS Newswire",
+      "source": "ACCESS Newswire",
+      "category": "Singapore P2P",
+      "ai_summary": "Ryde Introduces RydeX GO, a New Ride-Hailing Option for Closer Pick-Ups in Singapore&nbsp;&nbsp;ACCESS Newswire",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "To Grab or not to grab: An old practice dies hard at NAIA",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1Z1Ym4xQUhrdnA1YnItVGVDVTZuZ3hpRzF4d01EU05PdEd1NTVKUE5YelppcW9OdG5VczdCZlZmRUpfZVNZWWd2RmJxZG42TGhPOF9fNHF6RUMzZVhfNVVDYnRDb0U3MGFvZXFPZG9RQi1XV19wSV9BVnNxY0JoRHg0Y2t5ZmozUno4?oc=5",
+      "published_at": "2026-09-27T06:00:00",
+      "snippet": "To Grab or not to grab: An old practice dies hard at NAIA&nbsp;&nbsp;Rappler",
+      "source": "Rappler",
+      "category": "Global P2P",
+      "ai_summary": "To Grab or not to grab: An old practice dies hard at NAIA&nbsp;&nbsp;Rappler",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Keppel, StarHub discuss M1 deal; Grab execs buy shares after stock falls: Markets this week",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdFlJa1dBVk42blQwUUx3bGNya0NoeUVuaklBVUpRajEzZzhhci1kV1FtWnl6blVBQUl4ZmpMb2k0Y2JCY0gwN2JRMTdwOVhwdjdpU2szYlA0UzV5SnJ4QVhBVG8xMElybFg5Y2M1Sk5BY0IxTWZiaFlEVzFGWWNyeGl6SHVTUHlEUGREdHZHQk1rdm93OWdxcnBmUG1xenRqWUhtVS10TElYMWFxbi1iMFRTWlRQN2p2SWJaNjJMRERWZE9LNzlMR1cxVGJHWjJLU2RhaWFlTUstQWZzd2FNeGowWEhUamhIalE?oc=5",
+      "published_at": "2026-09-27T04:00:00",
+      "snippet": "Keppel, StarHub discuss M1 deal; Grab execs buy shares after stock falls: Markets this week&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "Keppel, StarHub discuss M1 deal; Grab execs buy shares after stock falls: Markets this week&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
       "title": "Ontario EV shopper weighs Bolt or BYD Dolphin, then gets warning: 'A tin can with a battery'",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0dwNmJZeVAwTDhFMTFfZXlPVUE3NnNDZXgyQV9OU0U3WVU5My1fcWljbjdKcDNnMXZ1aU1aaTExa3RUdXoydkxYd3M0dTFFYmIxZERvZmVjVmNabno0YU5tNWxaY2ZSWm5sd1ZmazNkTzZST3NqZE5uSFpsajduSDYxakRsbWda?oc=5",
       "published_at": "2026-09-26T14:39:00",
@@ -39,13 +104,13 @@
       ]
     },
     {
-      "title": "'A lesson learnt': Grab delivery rider gets trapped on 30th-floor stairwell after finding exit door locked",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFlhUWRicGZLV3Itd0V6b2M5UUdqbW1Ld1FtRWI1b3g0YVl2aW44elZKeDF4RnItdGlBWmxhamljRVoyY3NWZktIdnJRVmkyTllJM1BCTm96U2xZZTdMUVdRWk0xcGsxRUh6M2JmSmpiT2RfLU9ZQmJQNVNNQmRnWVJDSi1NRkplR0E2SEFXTFI?oc=5",
-      "published_at": "2026-09-25T07:59:00",
-      "snippet": "'A lesson learnt': Grab delivery rider gets trapped on 30th-floor stairwell after finding exit door locked&nbsp;&nbsp;AsiaOne",
-      "source": "AsiaOne",
-      "category": "Singapore P2P",
-      "ai_summary": "'A lesson learnt': Grab delivery rider gets trapped on 30th-floor stairwell after finding exit door locked&nbsp;&nbsp;AsiaOne",
+      "title": "Turo vs. Traditional Car Rentals: The Pros and Cons of Booking",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wQVpvTmlJWDB1NlFwcmFTNnZTaDdDcnF6bW1KNVV0UGNxeFYyaVZlLWlJaEtBTkJaeVFFUjNCVzZRUlBXZVUwMWtxS0ZuT2xpUWl6OFNmNzZaaEtKcHNNTWViTXJfSnRSQkE?oc=5",
+      "published_at": "2026-09-25T07:00:00",
+      "snippet": "Turo vs. Traditional Car Rentals: The Pros and Cons of Booking&nbsp;&nbsp;NerdWallet",
+      "source": "NerdWallet",
+      "category": "Global P2P",
+      "ai_summary": "Turo vs. Traditional Car Rentals: The Pros and Cons of Booking&nbsp;&nbsp;NerdWallet",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -59,19 +124,6 @@
       "source": "VnExpress International",
       "category": "Singapore P2P",
       "ai_summary": "Tourist in Singapore walks 14 km at night to dodge $40 Grab fare&nbsp;&nbsp;VnExpress International",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "How to self-enroll in Lyft Business Rewards and earn rewards",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTlTdVBQTk9nczZkYXEyQ0RIa1dSUzRXNGRscGtxZlVCdV9valIycVc3VEZrTGFOeG5FMFI5allLSUVIcWt0bGJaVUcwb2tSSkZ2RWlpd09WQWNMTHQ3cHB4dTZSWVI4WUExQkE5Z3EzVy04NGstUWZmSGc2emxqVTNn?oc=5",
-      "published_at": "2026-09-24T14:25:35",
-      "snippet": "How to self-enroll in Lyft Business Rewards and earn rewards&nbsp;&nbsp;The Points Guy",
-      "source": "The Points Guy",
-      "category": "Global P2P",
-      "ai_summary": "How to self-enroll in Lyft Business Rewards and earn rewards&nbsp;&nbsp;The Points Guy",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -117,19 +169,6 @@
       ]
     },
     {
-      "title": "Former gambling advocate in Malaysia now drives Grab after racking up RM1m debt",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2tDX3pmS3BQSk1ndlZ0cXpyd2R0TVFJcVFHcGYyS2xCZnpQS1drajlSdm5iOXk3eXM1cmhuMF9uVnFEWVZ6MzZiTlk4MEFVSXBNQ210SkRScGdjallfTEtzeWFsQWctOU9mRjB0MWtYblQtZU1UemZJRnRhUkxYUklDZmNkUlRFRWJwN2JqM29JbThMUVNzdHYxMk01TEx2?oc=5",
-      "published_at": "2026-09-24T08:39:00",
-      "snippet": "Former gambling advocate in Malaysia now drives Grab after racking up RM1m debt&nbsp;&nbsp;AsiaOne",
-      "source": "AsiaOne",
-      "category": "Singapore P2P",
-      "ai_summary": "Former gambling advocate in Malaysia now drives Grab after racking up RM1m debt&nbsp;&nbsp;AsiaOne",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Wingstop Singapore Has 1-FOR-1 8pc Boneless Wings On GrabFood Till September 26",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkZuTS1qbXdHTDVrQkJXNmxxb2tZaDNNdU5GZHFqR0hmSkQ0RE5fd0dKZ3JWTEl1VS1NUUVKWlpwUzhIeUEzR0NtUGhhZGxRbDlXSk56aEtpZVhwZGdEZ0pkSklnVThNeGtQc1doQ0Ntby16NnhmaWkzMjlZaUdQb2NFWWNMR0ZNSll3UkVmemp3QlB6WUNaVmYxdzlEMmxXYTk4Wm95S09HQQ?oc=5",
       "published_at": "2026-09-24T07:32:07",
@@ -137,19 +176,6 @@
       "source": "Great Deals Singapore",
       "category": "Singapore P2P",
       "ai_summary": "Wingstop Singapore Has 1-FOR-1 8pc Boneless Wings On GrabFood Till September 26&nbsp;&nbsp;Great Deals Singapore",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Indonesian court reduces Gojek founder’s sentence to 9 years in appeal hearing",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjNMNXNwdlVsT2Rxc3lkVUkzQ1JnV3M1YktwNG1iSXQ0WE9qaHNwb0JJQ1lWdzhUQlJFeE1rbFlSSENrNXh1UWJ0T3A1aXg1SmJQZ3RJeUlMbGJ0VHZKdGxyTHNqbFFFUjRhVHV2YnNvVG5BTE5zM1RMbzNnZ1pFX2JmUkt3UEluR3NmbjUxMV80Ql9taElPeTd1VjVBcUw3SXFmNmh4RXNvU2FuZmRXMjZfc2pPbGpLVmc?oc=5",
-      "published_at": "2026-09-24T06:36:00",
-      "snippet": "Indonesian court reduces Gojek founder’s sentence to 9 years in appeal hearing&nbsp;&nbsp;The Straits Times",
-      "source": "The Straits Times",
-      "category": "Singapore P2P",
-      "ai_summary": "Indonesian court reduces Gojek founder’s sentence to 9 years in appeal hearing&nbsp;&nbsp;The Straits Times",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -346,19 +372,6 @@
       ]
     },
     {
-      "title": "ComfortDelGro to waive commission for affected drivers over Sept 15 outage affecting taxis’ terminals",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdXQ0OUQ5Y3I5dHJKa2JuWk9jUVlFXzYxUGhMZldLT1F4RlN2MUNlM2RpNkhqQWtCenpwOGNxZk92Y0JJOExydkFwN0FjRkNFYUxpQ2kyTGNIdWtIdlRyRmpURzR4eTEwZ042RkhnTUxBbDFqbDBCcWNvTTloM1J0Y2tjNjR6MTlHU094REJfeWVJNTVHUVR0YTl2WW5Uc3VuTHQwY29IQ29WSGNkRVo0T083VFV6SUZlWHdKaE0tdllMQkFXNmN6aFp3TlMyWFpnc0pFM1ZSZmU4QlBzZDIzeUZ6Yw?oc=5",
-      "published_at": "2026-09-23T05:10:00",
-      "snippet": "ComfortDelGro to waive commission for affected drivers over Sept 15 outage affecting taxis’ terminals&nbsp;&nbsp;The Straits Times",
-      "source": "The Straits Times",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro to waive commission for affected drivers over Sept 15 outage affecting taxis’ terminals&nbsp;&nbsp;The Straits Times",
-      "sentiment": "Neutral",
-      "tags": [
-        "Labor Elasticity"
-      ]
-    },
-    {
       "title": "ComfortDelGro, Strides Premier extend temporary fare adjustment till Nov 30, Singapore News",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFBRNVJ0RXQyUW41TmxRSHl5bXNNSk96ZkFoR09iUzA0cjBUUWRoYWRVemlnT3drdHNQOEg5UVFPWVkwOExldjBiMWZ4OXlFSFlyQzl6MENsMWJhelhydmJQaV9hMXk1WERQeTlBSERPc1ZHWDl1YzJFU0I0QmtTSERPcHZabTh3cGl4bWh3?oc=5",
       "published_at": "2026-09-22T22:30:00",
@@ -373,28 +386,15 @@
     },
     {
       "title": "ComfortDelGro, Strides Premier, GrabCab extend temporary fare increases to end-November",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3FTbnNwRWl6VnF6aHNjajF5SXRtaGRVYVYwX0JaNjNtZkdEM1JHYldsVWQ4Q1d5Nk45dlphQ3gya0JyZWs5UnpRS3dRVmJHNG1oakpVcnZWNmdabnpXSkdlYnJFTmVQYjYzdmlncmZtMTJSaTlWZlRaZlkxdFpBUjh6RWJWT25oNUhlUV9QNTM?oc=5",
-      "published_at": "2026-09-22T15:07:56",
-      "snippet": "ComfortDelGro, Strides Premier, GrabCab extend temporary fare increases to end-November&nbsp;&nbsp;Yahoo News Singapore",
-      "source": "Yahoo News Singapore",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLUtWYmdJQkw4WXdYc1pMQU5XNEttRXlYeVR3YnFhdTN3djMtQURpVGVqNzFkX2NCRlczNmMzc2c4WDZBS3d0V0NlTW9HWEp1MmgydW5TdWU4cWtGVXA3dGRNclB5d3p5TzNnMURab3JGbVQ0QVlIMHRsYkVBeUg3ckk3dnlBa2ZrUjg4bHhOdkNydUtzV1Q3RXdXbHVrWHY4R29RX182aXlHWm9nTTlHRzMzZ3FhbW8?oc=5",
+      "published_at": "2026-09-22T15:07:00",
+      "snippet": "ComfortDelGro, Strides Premier, GrabCab extend temporary fare increases to end-November&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
       "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro, Strides Premier, GrabCab extend temporary fare increases to end-November&nbsp;&nbsp;Yahoo News Singapore",
+      "ai_summary": "ComfortDelGro, Strides Premier, GrabCab extend temporary fare increases to end-November&nbsp;&nbsp;The Straits Times",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "ABS-CBN News. . Dyan Castillejo got to talk with Singapore Tennis Open co-tournament directors Yazed Osman and Laura Ceccarelli. They had an exchange about the preparations for the tournament, how they leveled up from a WTA 250 to 500, and more. |",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjZqb2p5MlNkTFdGbU5obDRxWko3Tjc4X2I5N2ZMRDhaOWsydE9DSzRIRFZoQ1VicXoxWkRseEFwLWxRODIweFQtUVNoWHNSbFFyNkVnMHJsZ0VTenI2V1NwZXh6eFptd3NOUDhpZlpDdnFKZnFLdnliQmtuYklNYk9JM1M3VEVJb3VSMDBFN2RCTmJ3UmVXQkFrd1VTRFZDMlFfNEpMUlpkRml1SUhwQURUVlNoYWFaY19uSXR6X0UxT1M5TF9zNS0zamRmSDhPY3I0azZCY0I?oc=5",
-      "published_at": "2026-09-22T10:10:47",
-      "snippet": "ABS-CBN News. . Dyan Castillejo got to talk with Singapore Tennis Open co-tournament directors Yazed Osman and Laura Ceccarelli. They had an exchange about the preparations for the tournament, how they leveled up from a WTA 250 to 500, and more. |&nbsp;&nbsp;facebook.com",
-      "source": "facebook.com",
-      "category": "Singapore P2P",
-      "ai_summary": "ABS-CBN News. . Dyan Castillejo got to talk with Singapore Tennis Open co-tournament directors Yazed Osman and Laura Ceccarelli. They had an exchange about the preparations for the tournament, how they leveled up from a WTA 250 to 500, and more. |&nbsp;&nbsp;facebook.com",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification"
       ]
     },
     {
@@ -412,30 +412,15 @@
     },
     {
       "title": "UBER or GRAB: Which Ride-Hailing Stock Holds More Promise Now?",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUm5aM1pTTW1WbGh2RkN6Q0hTSkhudHRKWFdocTJiM0FVX0wzSFdtUVpIcG5XLS1QbzA0TlhmOUhjdVhIWGJJX21ReEN6TTBjWXl3dnpERU5rTzh3OTVrb1VEd3BOMDgzNmF3R1JpUmxNNWJGUmZpTGI0NVloVG9ITThWTGZ4aUJuT3FzdGwyN0xmSkNKbkNXRmN2V1N0YlpTc2ZZ?oc=5",
-      "published_at": "2026-09-21T14:52:01",
-      "snippet": "UBER or GRAB: Which Ride-Hailing Stock Holds More Promise Now?&nbsp;&nbsp;Zacks Investment Research",
-      "source": "Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORWdGcmVaOTkwM1ExMWtHWmlDeEUxT3Z1T29aR3JybmxFaThfbURKckFSWGtJVU1lY2ZlVVZ2SERrMm9xM0JfYklQbk1JbWdUN3A3dmZ3blhnUUp3dVdBOHpkVU9fZGFtSWtaSlpGUUdfNXZfcllVekZoa1dvM3RJRGNKSnpuTHE5QVdWMXl2VjI0ay1xSnNuYQ?oc=5",
+      "published_at": "2026-09-21T15:22:00",
+      "snippet": "UBER or GRAB: Which Ride-Hailing Stock Holds More Promise Now?&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
       "category": "Global P2P",
-      "ai_summary": "UBER or GRAB: Which Ride-Hailing Stock Holds More Promise Now?&nbsp;&nbsp;Zacks Investment Research",
+      "ai_summary": "UBER or GRAB: Which Ride-Hailing Stock Holds More Promise Now?&nbsp;&nbsp;Yahoo Finance",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Google’s Waymo is bringing its driverless taxis to Singapore",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kbE5NallqU3ZYNUhjb3kwVU5xaUI5dE4ycWZrN21wSHY3bUV5ZEUtSTFUc3JESmY2aXpNRTEwN3dXeGNfOHk1c1VPZjJhUjFXZzU5SE5ib0JNWmRDT3VkMjBJS3R2VFlWREFFTXkyWmY1ZDhpRFBnc2hVZlc0UQ?oc=5",
-      "published_at": "2026-09-21T03:00:03",
-      "snippet": "Google’s Waymo is bringing its driverless taxis to Singapore&nbsp;&nbsp;Asia Tech Review",
-      "source": "Asia Tech Review",
-      "category": "Singapore P2P",
-      "ai_summary": "Google’s Waymo is bringing its driverless taxis to Singapore&nbsp;&nbsp;Asia Tech Review",
-      "sentiment": "Neutral",
-      "tags": [
-        "AV Fleet",
-        "Electrification",
-        "Labor Elasticity"
       ]
     },
     {
@@ -523,19 +508,6 @@
         "systems_efficiency": 85,
         "policy_friction": 65
       }
-    },
-    {
-      "title": "Ryde Explores Agentic AI to Reimagine Ride-Hailing Dispute Resolution at Tencent Cloud Hackathon Singapore 2026",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUWhmWTYwRVBfTGRQWWFnVE1RQjdwaUpINzBYTTVYMHpmbnBHR3hOTUZWQm1UQ0FTX1VrdXkzY3dxMkM3M1NhX0Fqc2xBVnpWZ1N2LXNWWlY3UnJueEM1Q2FvSG5RQjZMVUg3Yk90T0dfM0dyY3ZGRGYxU1VFck5xZzdDVGZmWWpvMWR1THNWcnlIWE5tZ1hZV2pZNDY5YUJHcWNrVEhYb0VMZ1d5UXRLaU9IWk9mX2xHZkFaRVI3ano4cF8tYTZfMVI4cXVBYlR1Nm41UURWM2UzdXN5U2NHSEhXRVFzN0h6VjBsNi1QNU91OHdRQUNGNUhB?oc=5",
-      "published_at": "2026-09-16T10:30:00",
-      "snippet": "Ryde Explores Agentic AI to Reimagine Ride-Hailing Dispute Resolution at Tencent Cloud Hackathon Singapore 2026&nbsp;&nbsp;Morningstar",
-      "source": "Morningstar",
-      "category": "Singapore P2P",
-      "ai_summary": "Ryde Explores Agentic AI to Reimagine Ride-Hailing Dispute Resolution at Tencent Cloud Hackathon Singapore 2026&nbsp;&nbsp;Morningstar",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
     },
     {
       "title": "Grab buys 60% stake in Atome Financial for $1.9b",
@@ -669,43 +641,16 @@
       ]
     },
     {
-      "title": "What Does Grab Holdings (GRAB) Want From A Singapore BNPL Deal?",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRXRzZFJaUEhFN2thRk9KY3I5bFE5eF9IbmoxOWxCOVp0T1pjZUtOb01NTERkNXFXcGxqRUdJbXMydEJ2X01QcTMzQlZwcFVWMExyTGdQZzJibW9aRWRnQjNGeFoxejlTN2dSRWs4clhtcjBqTG4yZEU2ZVpIbnotX2VjZUp5ZjhHdXFlVHNoTGd1Vm1lWFQ2QWVrVmd4VXFSbjladWVZbHhyMkFXOFFCbUI1TGlLQjIyc1g1QVdNVW1Vc21BRnl0TGxkRVV4aUwxODlOMdIB2gFBVV95cUxNaElUaFR1UkY0U0UzSWVqWjZEVHlqVVZjN1RpcEpNczBPcEpkc3Nwel9qWU5RdHRQS2lvNXhxT0NFc3dUczVsdHdGN21zdXVvc2hpOUplNDBEeUR1Qmp0Q3FSQS1hcE1fX2g3UFNPQks3WkE5NWlUSmlvRnB1Mk52T1pQbmtoT2lfU2N6TV9FemlGR0J1Sk1ESHZzY1lrcDZQdklZVU5QZXUyUEVEenlBUUZ5VWp1VkZoazdFcUsxU05rdmEtd29vckZYWlo3djhqclhMZ09Pdmk5dw?oc=5",
-      "published_at": "2026-09-12T07:00:00",
-      "snippet": "What Does Grab Holdings (GRAB) Want From A Singapore BNPL Deal?&nbsp;&nbsp;simplywall.st",
-      "source": "simplywall.st",
-      "category": "Singapore P2P",
-      "ai_summary": "What Does Grab Holdings (GRAB) Want From A Singapore BNPL Deal?&nbsp;&nbsp;simplywall.st",
+      "title": "Grab Vs. Uber: One Exhibits Much Cleaner Upside",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkV0bjJtV284T0RQS1htNzFhNVJBSmh1bDJ0elhJTk43ZTZnZVU2X3BDcElESl9WektWWDRFMjRPQ3V5VmVzbzVyVkFfOWF3SXo1amdwV1R5dVJOaUV0cC00N0REZ3hidlBYcHlvZ0l2dTcweHVuTVJEaW9qczE5QlFCRWFxRGVnbnVSTm9vUjU4eU1r?oc=5",
+      "published_at": "2026-09-11T07:00:00",
+      "snippet": "Grab Vs. Uber: One Exhibits Much Cleaner Upside&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "category": "Global P2P",
+      "ai_summary": "Grab Vs. Uber: One Exhibits Much Cleaner Upside&nbsp;&nbsp;Yahoo Finance",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Grab Drivers Can Find Chargers, Shop for EVs and Get Car Loans From GXS Bank",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44VU13YzZHX1hOa3cxUmRhV2NseFd3N183OFJkQ3AydjJLTDQ1UTVGQkxFMnlDaWZmbm94OEc1MjVIRm5pazlaMDc3MTFaNVRIT0RYWkJfMDJnMkwzZDVOSmMzdWl2QmlQcGV5aURWamlnY2s2d0x0RDdn?oc=5",
-      "published_at": "2026-09-11T07:00:00",
-      "snippet": "Grab Drivers Can Find Chargers, Shop for EVs and Get Car Loans From GXS Bank&nbsp;&nbsp;Fintech Singapore",
-      "source": "Fintech Singapore",
-      "category": "Singapore P2P",
-      "ai_summary": "Grab Drivers Can Find Chargers, Shop for EVs and Get Car Loans From GXS Bank&nbsp;&nbsp;Fintech Singapore",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification",
-        "Labor Elasticity"
-      ]
-    },
-    {
-      "title": "Rideshare Lawsuit for Assault in Uber & Lyft (September 2026)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWIxeUNkS190ZXM3TTZST1BkYXZGdWduT3VhbWc3MXJhUGJnVkh3b2VKRkY0TWUtMHMyenpJeTRwS01Kc3ZNWlJ0bkQ2aGcwN3hBeHJ3N05iS3lZanQ2TEtRNjhXQkd2SFo1Z2NHcDhTVTFEZW5KV0QzWFdlMGNqWFlXV2kyRjBEZkdlUndR?oc=5",
-      "published_at": "2026-09-10T20:57:49",
-      "snippet": "Rideshare Lawsuit for Assault in Uber & Lyft (September 2026)&nbsp;&nbsp;sokolovelaw.com",
-      "source": "sokolovelaw.com",
-      "category": "Global P2P",
-      "ai_summary": "Rideshare Lawsuit for Assault in Uber & Lyft (September 2026)&nbsp;&nbsp;sokolovelaw.com",
-      "sentiment": "Negative",
-      "tags": [
-        "Regulation"
       ]
     },
     {
@@ -735,26 +680,26 @@
       ]
     },
     {
-      "title": "Singapore Attorney General to appeal sentence of UK man who assaulted Grab driver who later died",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTTFMU2Z6NVJVcGJqZjNpSENCd3RHRnBrWmFUNW9kODZETTVjMlpWMlNLZE9WdDB0MlQ5WWFwaTUyNmRvQzgwNFZ6R2lDMVJTU0NXUXFORGhwVk9oRUpjX2d4OTc3MFhMOVlaVjZWbGJJNWdrVExfTTRwRkRNQzlpX3YzNlVPZEJFVmhFT0ZweW11VnFWbDhYOUtPSUZ1VXp0aGdqNXFSQk41YllaSFhoU3pFNERkZVd3bXltUnlfRQ?oc=5",
+      "title": "Rideshare Lawsuit for Assault in Uber & Lyft (September 2026)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWIxeUNkS190ZXM3TTZST1BkYXZGdWduT3VhbWc3MXJhUGJnVkh3b2VKRkY0TWUtMHMyenpJeTRwS01Kc3ZNWlJ0bkQ2aGcwN3hBeHJ3N05iS3lZanQ2TEtRNjhXQkd2SFo1Z2NHcDhTVTFEZW5KV0QzWFdlMGNqWFlXV2kyRjBEZkdlUndR?oc=5",
       "published_at": "2026-09-10T07:00:00",
-      "snippet": "Singapore Attorney General to appeal sentence of UK man who assaulted Grab driver who later died&nbsp;&nbsp;theindependent.sg",
-      "source": "theindependent.sg",
-      "category": "Singapore P2P",
-      "ai_summary": "Singapore Attorney General to appeal sentence of UK man who assaulted Grab driver who later died&nbsp;&nbsp;theindependent.sg",
-      "sentiment": "Neutral",
+      "snippet": "Rideshare Lawsuit for Assault in Uber & Lyft (September 2026)&nbsp;&nbsp;Sokolove Law",
+      "source": "Sokolove Law",
+      "category": "Global P2P",
+      "ai_summary": "Rideshare Lawsuit for Assault in Uber & Lyft (September 2026)&nbsp;&nbsp;Sokolove Law",
+      "sentiment": "Negative",
       "tags": [
-        "Labor Elasticity"
+        "Regulation"
       ]
     },
     {
       "title": "McDonald's x Uber Eats Courier Appreciation Week Rules",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MQTVLMjJvWWtQSDNLRnhTT1JXdnZJLVFsWWF2RTc4OGNFeDU0WTZvN2Nva19pd2FmRFZZNk9vaFVrSVhETkF4akRpWDFSTGkybWRuRC04RU5RYlpROVo4c3N0V3g4aThBQm5HYw?oc=5",
       "published_at": "2026-09-10T07:00:00",
-      "snippet": "McDonald's x Uber Eats Courier Appreciation Week Rules&nbsp;&nbsp;Uber",
-      "source": "Uber",
+      "snippet": "McDonald's x Uber Eats Courier Appreciation Week Rules&nbsp;&nbsp;uber.com",
+      "source": "uber.com",
       "category": "Global P2P",
-      "ai_summary": "McDonald's x Uber Eats Courier Appreciation Week Rules&nbsp;&nbsp;Uber",
+      "ai_summary": "McDonald's x Uber Eats Courier Appreciation Week Rules&nbsp;&nbsp;uber.com",
       "sentiment": "Neutral",
       "tags": [
         "Regulation"
@@ -790,10 +735,10 @@
       "title": "AGC to appeal against reduced charge, sentence for man who assaulted Grab driver",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd0R5UzZJbVZTci1oX3lGaDVleHpqaEtSQmJYNUtXNFJkWmZHQ2ZwQnIyYVZrVHFUUy1Jemw5QS03THpCTGQ1MUd5S1BBSk9oUHhDa01NTTNSclBWeFQtVW9PdjIwTS1TN3NIMGFiTTd0YlJEWWxJYlJhNWpUeEM1ZHBfd2s2M3hQZVF5RQ?oc=5",
       "published_at": "2026-09-09T07:00:00",
-      "snippet": "AGC to appeal against reduced charge, sentence for man who assaulted Grab driver&nbsp;&nbsp;channelnewsasia.com",
-      "source": "channelnewsasia.com",
+      "snippet": "AGC to appeal against reduced charge, sentence for man who assaulted Grab driver&nbsp;&nbsp;CNA",
+      "source": "CNA",
       "category": "Singapore P2P",
-      "ai_summary": "AGC to appeal against reduced charge, sentence for man who assaulted Grab driver&nbsp;&nbsp;channelnewsasia.com",
+      "ai_summary": "AGC to appeal against reduced charge, sentence for man who assaulted Grab driver&nbsp;&nbsp;CNA",
       "sentiment": "Neutral",
       "tags": [
         "Labor Elasticity"
@@ -808,32 +753,6 @@
       "category": "Singapore P2P",
       "ai_summary": "Singaporeans can now drive GetGo cars to Malaysia, with no deposit or mileage fees&nbsp;&nbsp;SETHLUI.com",
       "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Preview: Intercell brings Mall Grab, Effy, Skin On Skin, Osmosis Jones and more to Singapore and Hong Kong this November",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS0tSX2RWeDhSR296cXJkUHRtZGhZQTQtdEZFMXVUWWd3Y2piTnRaVjVUT3JQMnp5WmNQTWViYjZMX1dLZ1pHSmFCRk9rTjhSYS02aFhURG5UcG5QTThYbldibFo0US15dzV6eXU2d2wwMTRILUR4cnptajNQbmpIcHE2ZUJ1S0lsZDNRX0hjbjdyTW1ELTN1dkI5VWhSc1NreWhLNzRkdExDTGM4a0RyZ1hpTThEU3RfWVJkelB3MEdFQlFPbVZ4cndubW5GVXE2cVNsZGp3cnlQVU85NWJYajVSeGVEZDN5ZHc?oc=5",
-      "published_at": "2026-09-08T07:00:00",
-      "snippet": "Preview: Intercell brings Mall Grab, Effy, Skin On Skin, Osmosis Jones and more to Singapore and Hong Kong this November&nbsp;&nbsp;Bakchormeeboy",
-      "source": "Bakchormeeboy",
-      "category": "Singapore P2P",
-      "ai_summary": "Preview: Intercell brings Mall Grab, Effy, Skin On Skin, Osmosis Jones and more to Singapore and Hong Kong this November&nbsp;&nbsp;Bakchormeeboy",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification"
-      ]
-    },
-    {
-      "title": "Gojek Singapore Launches GoCar Nearby for Short Off-peak Trips",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXFSeTNYYWx1Yk1ONmZOMFJkM0NrNEtwbW52Q01HejdnS2RZT0ZNVDlDZG1SYVlLU21sb2ZIUjMtUS0tTlRBSmk0NEpEMi1zcDF5NFNON3BCalQ0N1EzTG9ScDdfVlowUzdPSkJtRXNWVk5ueV9qR1hJY1BESjZmMG43R3ZYZHA4bDZ0OEV3TmJ0SENfRk53empaQWw3ZkVlRUtZMkRiVQ?oc=5",
-      "published_at": "2026-09-07T07:00:00",
-      "snippet": "Gojek Singapore Launches GoCar Nearby for Short Off-peak Trips&nbsp;&nbsp;moomoo.com",
-      "source": "moomoo.com",
-      "category": "Singapore P2P",
-      "ai_summary": "Gojek Singapore Launches GoCar Nearby for Short Off-peak Trips&nbsp;&nbsp;moomoo.com",
-      "sentiment": "Positive",
       "tags": [
         "Shared Mobility"
       ]
@@ -855,10 +774,10 @@
       "title": "Ohio offers free Uber, Lyft rides in Franklin County to curb Labor Day drunk driving",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdFMyTXJXb1ZUXzJ5Si1abWhNOU43UXk0bmNHc0puS0IxUFJMdjU3VHNEeFJBSHJ3ejBidUpLRW9oc2MxVjF2c3JnTkpveUhzYTFISm9aWFllQ2hyVWNfNTdSLVFnc2dFWE1VNEdYY2VxS09mNTJSVGxBc1liSFFYOEs1UEVKSXRwUG1zdVI5X1VfWE0yWUNib1hXRGpmS016T1VCM3EyNlNYQVhpdVNnSTN6SXdzcGtxS2RFbUdNYU96aHBfVkNMdjZjVzJrNkljVDltZ2hNRGpUS0kwY3VEMHFJNGM5dndfNmNCLWVXcGRLWlJSOTZOQnRTNmJ3Z1V0OGxNNFBQOGRYdkVLaGFnclJyVXZheGNnWXVyTjJGd0lsQQ?oc=5",
       "published_at": "2026-09-04T07:00:00",
-      "snippet": "Ohio offers free Uber, Lyft rides in Franklin County to curb Labor Day drunk driving&nbsp;&nbsp;abc6onyourside.com",
-      "source": "abc6onyourside.com",
+      "snippet": "Ohio offers free Uber, Lyft rides in Franklin County to curb Labor Day drunk driving&nbsp;&nbsp;WSYX",
+      "source": "WSYX",
       "category": "Global P2P",
-      "ai_summary": "Ohio offers free Uber, Lyft rides in Franklin County to curb Labor Day drunk driving&nbsp;&nbsp;abc6onyourside.com",
+      "ai_summary": "Ohio offers free Uber, Lyft rides in Franklin County to curb Labor Day drunk driving&nbsp;&nbsp;WSYX",
       "sentiment": "Neutral",
       "tags": [
         "Labor Elasticity"
@@ -881,10 +800,10 @@
       "title": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanI3bi1HRzRqbDJnWXo0NmFfV0R3SXJvVVppUnVuRzduS3BGZVNjNVhmWl90VktsSVhhOThabklQWE1sR3BSNHpfd0ExdGVDNFVkSEU2OTFRaEh1QzR4aVA0LVhFM3V4UnhUaWMwanFXRjZIM2NVd2F1M0M0OWU1dmtpejJxS01CVXRQVEJzWDYyTy1mLVpKaNIBrAFBVV95cUxOdU5jaldJNHFENnNiZktuRk9WaXZmcUFtZ2pYRjJOaVYzR21VUkI2UkJrekNxaVVpOUU1TTkwcUl6d0RqVnhKeThxdVVVeFlpRmVDWks3ZW9BNTladUd5OUpUMEM0S0NIYmF5VXVFMXVrZVZ1R1VTSmpvd3I2LVFYVVNSQ0w2VDBuc1NDMUVYVkRXSi1tNFBJQkkzbVBSejRlRDRmeVVXNzdsa2xD?oc=5",
       "published_at": "2026-09-02T07:00:00",
-      "snippet": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know&nbsp;&nbsp;wafb.com",
-      "source": "wafb.com",
+      "snippet": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know&nbsp;&nbsp;WAFB",
+      "source": "WAFB",
       "category": "Global P2P",
-      "ai_summary": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know&nbsp;&nbsp;wafb.com",
+      "ai_summary": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know&nbsp;&nbsp;WAFB",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -933,37 +852,11 @@
       "title": "GetGo launches carsharing service for drives to Malaysia",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkJNS3B5UU1XbEZrMHZxaFVHYmptU2VSTGxzMU1ydHcxTzQtRUYzZHNuSVNwM1E5bkJ1dmxkaDJoVVNDV1JTaEkxbEpodUpZRUMtNm91dEpRcnJmblhoZ1JCWWF1T011akhVZlg0R0ZnLWFwY1paUzlvZjZPMjBTTkotQ2lQOEFqRFE1cHV2aE9tQQ?oc=5",
       "published_at": "2026-09-01T07:00:00",
-      "snippet": "GetGo launches carsharing service for drives to Malaysia&nbsp;&nbsp;channelnewsasia.com",
-      "source": "channelnewsasia.com",
+      "snippet": "GetGo launches carsharing service for drives to Malaysia&nbsp;&nbsp;CNA",
+      "source": "CNA",
       "category": "Singapore P2P",
-      "ai_summary": "GetGo launches carsharing service for drives to Malaysia&nbsp;&nbsp;channelnewsasia.com",
+      "ai_summary": "GetGo launches carsharing service for drives to Malaysia&nbsp;&nbsp;CNA",
       "sentiment": "Positive",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "GetGo cuts bug investigation time by up to 60% via unified monitoring",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmRPWlh4S0UzSzFsWk9pQnRtU1dZSFZtNGVZeWhDZDJibUVCNDV4TkdBeTZhbXk4QWNNR3Fua3lXb2RvYWNyaENIeW5GS29FVjZtd3BCVW44bE5GVXpBaWdFWlA1ZzNhRlU1UGYwc3VNUjhraksxemdrUnB6aEpDRTF6OHpCQnQxNkpWdU1fQXVGaDYwdFVzYk5GeHFZRGlR?oc=5",
-      "published_at": "2026-09-01T07:00:00",
-      "snippet": "GetGo cuts bug investigation time by up to 60% via unified monitoring&nbsp;&nbsp;Singapore Business Review",
-      "source": "Singapore Business Review",
-      "category": "Singapore P2P",
-      "ai_summary": "GetGo cuts bug investigation time by up to 60% via unified monitoring&nbsp;&nbsp;Singapore Business Review",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification"
-      ]
-    },
-    {
-      "title": "GetGo now lets users drive its rental cars from Singapore to Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZeHhtRl8wbV9TeHJNLUpHc0hvMWRMY2xaUWVGV0RKVFJLMkQ3S3J3QTVhcEx2cUh1TUM3UnRKRklBMkh3LXhZWklMSldpdGlPYnk4YnVvdnRmYTc0NS0tZjhiUWg1REtDUXYzcVF6R2dlZWZM?oc=5",
-      "published_at": "2026-09-01T04:05:37",
-      "snippet": "GetGo now lets users drive its rental cars from Singapore to Malaysia&nbsp;&nbsp;Vulcan Post",
-      "source": "Vulcan Post",
-      "category": "Singapore P2P",
-      "ai_summary": "GetGo now lets users drive its rental cars from Singapore to Malaysia&nbsp;&nbsp;Vulcan Post",
-      "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
       ]
@@ -985,10 +878,10 @@
       "title": "ComfortDelGro joint venture wins S$3.4 billion contract to operate and maintain Copenhagen Metro",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzNkcENBNXg2LWlrQjZHa0lGWFBlYXNkZ1ZjMHBoemxPYWV2bXBhN01iUHVlcUttTWM0dF9YdzluWDhoWmdWeUJQR29TQWZLT3V5WUZwRWN3Q1NFTzgyUmNJTXlycS1WeG1pZ0tpS3pzZzJVM3RrNjJnT1FXaFVDeFVNWXhjYWlBTk45MkQ1ZEJrci1rUGt4OWZwbzJCOUZvN1NoeTk1cXRfdkw4NFNj?oc=5",
       "published_at": "2026-08-31T07:00:00",
-      "snippet": "ComfortDelGro joint venture wins S$3.4 billion contract to operate and maintain Copenhagen Metro&nbsp;&nbsp;channelnewsasia.com",
-      "source": "channelnewsasia.com",
+      "snippet": "ComfortDelGro joint venture wins S$3.4 billion contract to operate and maintain Copenhagen Metro&nbsp;&nbsp;CNA",
+      "source": "CNA",
       "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro joint venture wins S$3.4 billion contract to operate and maintain Copenhagen Metro&nbsp;&nbsp;channelnewsasia.com",
+      "ai_summary": "ComfortDelGro joint venture wins S$3.4 billion contract to operate and maintain Copenhagen Metro&nbsp;&nbsp;CNA",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -1008,19 +901,6 @@
       ]
     },
     {
-      "title": "ComfortDelGro consortium wins $3.4b contract to operate Copenhagen Metro, Singapore News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVZkUVFJUFV3ZkY5elFjVVhjZlgtSEtXNXctaFpKMzdOYXZlOE1pRzBvN0ZfOWEwZk42alJZXzgzZVMyWDdvbUZjUG9FNEVGX2xlNzIxR2RRc3gweXpjdEdsNjlVblBQbXNxaFpEbmhLWklOYWhWd25yTS14WmI4Q3pTN3NteXl3ZEJhb21ySDJubHA0?oc=5",
-      "published_at": "2026-08-30T07:00:00",
-      "snippet": "ComfortDelGro consortium wins $3.4b contract to operate Copenhagen Metro, Singapore News&nbsp;&nbsp;AsiaOne",
-      "source": "AsiaOne",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro consortium wins $3.4b contract to operate Copenhagen Metro, Singapore News&nbsp;&nbsp;AsiaOne",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "How to stay safe in an Uber or Lyft",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CenlwRmNwRG9XQUNnMkZIV3RNMllHSGE4VjcxemY0Z1dkdXZQOEk0dzVPWmtpTFJ6R0RKdV9ZTFdhWUFESHFyMThvVDFoQ1UtcF94N1ZKemdGWGoxOHZ4NzR6djQ4U3dJMXBXak1LRTI?oc=5",
       "published_at": "2026-08-27T07:00:00",
@@ -1031,19 +911,6 @@
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "ComfortDelGro inks two China deals to build out AV ecosystem",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaEJPblJya1V6VnpJS0wxakRBUkpFNnoyaXFJamMtdGhiRGFzZGhJMTdDQzN1OE55dlJ2VVB4Z2tFNkhjTEltZS1ZeGVTTlVmbm1PVjZ5WFhaNV9tZXEybVFFRENxVVozaTNmSzZhbnZERnlMV3Y0ZXZ5YzZEdmxKcHNrOXp4bjF6?oc=5",
-      "published_at": "2026-08-26T07:00:00",
-      "snippet": "ComfortDelGro inks two China deals to build out AV ecosystem&nbsp;&nbsp;Singapore Business Review",
-      "source": "Singapore Business Review",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro inks two China deals to build out AV ecosystem&nbsp;&nbsp;Singapore Business Review",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification"
       ]
     },
     {
@@ -1083,6 +950,136 @@
       "sentiment": "Neutral",
       "tags": [
         "Labor Elasticity"
+      ]
+    },
+    {
+      "title": "Vineyard airport clamps down on Turo",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5bkZxWXNabmUyQUhLa0Z1cjFJTnJUcnBHbGdtU3N0RVExRzhLWXJHQm9VYllUMWVJZEJ0aWJTeEFjY01XaVdyb3ZGc1RsNHVOOXdZYjVuRTlkX2lyMm5sTkxKU2VkUmtNTUNaQVo2MW5QMXJGNEFxelVPYlQ?oc=5",
+      "published_at": "2026-08-21T07:00:00",
+      "snippet": "Vineyard airport clamps down on Turo&nbsp;&nbsp;MV Times",
+      "source": "MV Times",
+      "category": "Global P2P",
+      "ai_summary": "Vineyard airport clamps down on Turo&nbsp;&nbsp;MV Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "ComfortDelGro pumps $10m into BYD electric, hybrid vehicles for private-hire fleet",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXlMNXR4WHRiZ09NLWdVSWZ6YTM2SzZUUGF1X1dOUVlTQTJoOVhNQndnNnhkNWllVnFheF9UOHdYeS1YLWNpLWxHa1R2QzE2YWlZM0ZKSzd4OThxZ0M3QXRqQzdWNFVkOGJLbTJZX3FvWUNhcUVGNEVmSzNDbWNyN2ZaU2RWRGxXcU5ROUFSRGo3SmVCcV9ma2N0NVhMLUwyUW1iU0NOSVNtLTU2VDR0UExOV1dlV1k3cnU3VHp5TE9IUjNPQ2JHdQ?oc=5",
+      "published_at": "2026-08-20T07:00:00",
+      "snippet": "ComfortDelGro pumps $10m into BYD electric, hybrid vehicles for private-hire fleet&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "ComfortDelGro pumps $10m into BYD electric, hybrid vehicles for private-hire fleet&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification"
+      ]
+    },
+    {
+      "title": "ComfortDelGro’s Zig to buy S$10 million worth of BYD cars for private-hire fleet",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMHNZaU9rQnp4NTQ3bjhCNUVtVmdXYkpQdllEU3BkcG5CeUxmSHdWajJrZkdYV2M1SG5kdEFqQjN2UGF5dzU0WmlEeGFXNDJjcEEtWWNIbU0wWlVTcHQ2b2wwN0tXNDFXSFR1Yk5FQTJJaG00LXhQZjhnRnBiWEI3WUZCSWtSVEl0c0l4akJta21UUV9aeDdCTW9DN1J3SmZzSThqZ2FzZmU0RndwTENJLXlLdGtVNWNjb3hJRC1ucnZYdUh0MENaVFVDRmxNZWg3WUNLWFdn?oc=5",
+      "published_at": "2026-08-20T07:00:00",
+      "snippet": "ComfortDelGro’s Zig to buy S$10 million worth of BYD cars for private-hire fleet&nbsp;&nbsp;The Business Times",
+      "source": "The Business Times",
+      "category": "Singapore P2P",
+      "ai_summary": "ComfortDelGro’s Zig to buy S$10 million worth of BYD cars for private-hire fleet&nbsp;&nbsp;The Business Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "New Manitoba-made ride-hailing app launches in Steinbach",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2h3UWNCczFhelp5ZS1MX0o3eDRUdlhWY004UVJXdFdwMlFCcEswQXQzeWZaMkhQM191TVFhWWN6Zk94bDdWbFk0dEltLUVFbGRBTVZOTUNXNEg5Vk1QRVJLTnoyOGJwTk5QWjhqTHVpRlhtSGdDSTlVVVJ2RGpNRk02Zm1ZU0xTUFow?oc=5",
+      "published_at": "2026-08-20T07:00:00",
+      "snippet": "New Manitoba-made ride-hailing app launches in Steinbach&nbsp;&nbsp;CBC",
+      "source": "CBC",
+      "category": "Global P2P",
+      "ai_summary": "New Manitoba-made ride-hailing app launches in Steinbach&nbsp;&nbsp;CBC",
+      "sentiment": "Positive",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "ComfortDelGro boss reshapes Singapore fleet for profit turnaround",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlBiVV96VVBMenkyNDRRbGVuUUtOWFczZENPNk55LWJXZnhJcEFfWFFLT29TcWRWZTNiTS12eVQ4RTJ2dGdqRFg3WldPb0NZSnVCVFJuc1N3TXJET21fOTcyUkZRVTJoY1NIeENyN2dILVNiaHlpcjVESlZrTk1pRzhSWXQxcXhaaTdUcW0tX2RmaHNyVGZEWXJ6YkUzaE1sVnlWSW1paEtyaWdPQ1pZWXhYNUEwMlItb0JRYVRxRGU5bjBh?oc=5",
+      "published_at": "2026-08-18T07:00:00",
+      "snippet": "ComfortDelGro boss reshapes Singapore fleet for profit turnaround&nbsp;&nbsp;The Star",
+      "source": "The Star",
+      "category": "Singapore P2P",
+      "ai_summary": "ComfortDelGro boss reshapes Singapore fleet for profit turnaround&nbsp;&nbsp;The Star",
+      "sentiment": "Positive",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "ComfortDelGro H1 profit falls 19.7% as group focuses on long-term transformation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWR6OTR5WTNhcV9GSnlqeVpOLTcwN1B0cGZNMU5HNlEzME1SZE82UnEtSUNHNWdBU2JnN2p1ZjNuNFNJMWR3RG1zNVNZZkdjVkt1dXJKbzFKY2JzNlNPZnFGR1RIQTgzek82ZEZQODNfUXdxOS12akd5NVZjZTVKLXBHZ19ZYlc0d0dQWnNBejc2cEV3NjZ2NXoxbzlPdGFLb2NaX2tDcTlDc0VaVjFVN0tiYjBNcm8?oc=5",
+      "published_at": "2026-08-14T07:00:00",
+      "snippet": "ComfortDelGro H1 profit falls 19.7% as group focuses on long-term transformation&nbsp;&nbsp;The Business Times",
+      "source": "The Business Times",
+      "category": "Singapore P2P",
+      "ai_summary": "ComfortDelGro H1 profit falls 19.7% as group focuses on long-term transformation&nbsp;&nbsp;The Business Times",
+      "sentiment": "Positive",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Uber & Lyft Sexual Assault Lawsuits: Survivors Taking Action",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hMGQyZG1oVkg4SVkwS21yQ0FNdzZkRzJMZHVEaVIydnl0bmR1aUNsc0gtNW5jZ0JXc2RVWHAxbk5JUVhwMXg2MzRBRDU2anR4aFVXMVc1Qk5idlQ3VjdXcldyQTg3d1YtQlplcXJ2Zl95NFdJTFBJ?oc=5",
+      "published_at": "2026-08-14T07:00:00",
+      "snippet": "Uber & Lyft Sexual Assault Lawsuits: Survivors Taking Action&nbsp;&nbsp;ClassAction.org",
+      "source": "ClassAction.org",
+      "category": "Global P2P",
+      "ai_summary": "Uber & Lyft Sexual Assault Lawsuits: Survivors Taking Action&nbsp;&nbsp;ClassAction.org",
+      "sentiment": "Negative",
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "title": "Singapore after dark? STB and Grab say don’t call it a night",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUEgyMTBwLUZoTmk3RTRFam1WMzBtd01nODA3UWhybUJfVVp0TU1zR1hWaTVzdkgyNGJITVQxZ0ZLb19KUXFwQ3FCZVBJS09xbkJYVHB2MGNON1lka2JUakpkU2FOUkR4eGhGSnVzNkdyYldfMmJGM2paaThkZWNaa01pMEpkZzJYLS1heS1lLUtXd245aUtNTGpHZ3JaQQ?oc=5",
+      "published_at": "2026-08-12T07:00:00",
+      "snippet": "Singapore after dark? STB and Grab say don’t call it a night&nbsp;&nbsp;marketing-interactive.com",
+      "source": "marketing-interactive.com",
+      "category": "Singapore P2P",
+      "ai_summary": "Singapore after dark? STB and Grab say don’t call it a night&nbsp;&nbsp;marketing-interactive.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Scaling minimobility: Industry leaders weigh in on what’s needed",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkJKd09ZUU8xUFRla3FSTUkzbFRTVkItNUVJRTkxZUFYYXdGNUZoMTF4OTFZWXJxMlhYSU95aTVUNndTYktrYTR3VjU4Y0dQS1BZNGotanNfQkgxWDJBVmlsS1FqYlA3UUtnbTJibWVaYW5YenpyYTdJRU5JMlh5bXE5UHEycXBlTU5XQ00yNllpLTFIM0I5ODU5VzhRQnJoQWtUVjA2NVAzWGF6RVdMVmkxd1Y3OW1XcFBZcWEyMU5acWNvLUVKcXNMSkRibkUt?oc=5",
+      "published_at": "2026-08-12T07:00:00",
+      "snippet": "Scaling minimobility: Industry leaders weigh in on what’s needed&nbsp;&nbsp;McKinsey & Company",
+      "source": "McKinsey & Company",
+      "category": "Consulting Opinions",
+      "ai_summary": "Scaling minimobility: Industry leaders weigh in on what’s needed&nbsp;&nbsp;McKinsey & Company",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "Is Lyft Actually Much Cheaper Than Uber?",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvTlZfb2NTc0t3VjVyMGEzSGVHSnFhUUFEOWNCOTU3UVhlWlB6SUNjMkt0NXVIZmVOeENNbG5kSjFjSlRuMnNLQmhab0xkSXZsVWszNEhReHFEd2hEVXhRNXB5cTZ3TE5SQkZSWU53?oc=5",
+      "published_at": "2026-08-11T07:00:00",
+      "snippet": "Is Lyft Actually Much Cheaper Than Uber?&nbsp;&nbsp;bgr.com",
+      "source": "bgr.com",
+      "category": "Global P2P",
+      "ai_summary": "Is Lyft Actually Much Cheaper Than Uber?&nbsp;&nbsp;bgr.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
       ]
     }
   ]
