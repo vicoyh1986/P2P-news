@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T04:13:45.069196+00:00",
+  "last_updated": "2026-10-10T03:58:53.813702+00:00",
   "ai_active": false,
   "executive_brief": {
     "headline": "Systems Dynamics of Global Shared Fleet Operations & Curb Economies",
@@ -25,6 +25,58 @@
     ]
   },
   "articles": [
+    {
+      "title": "These are the Drive team's interesting used-car picks for food delivery or rideshare that aren't just Toyotas",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTFdsd0dSTWtNUjhXUVZXTm1kVG9QTERxaUh3dm54N0hpazZITGNuci1CV1o5QUpJdm1WYWtkcEJYdHNWMmN0OGVDNmlGRDhUS1V4QlZ0RW9wSFQxRXA1UDN2bF9Ga2pqeUVBLTNacjRKQnh6NXAtU1p4SVNLLURTakhHcldmUGNndmFOMzNXZ190Y215Z0pDZ2JPQ1c2akhNdkFZbGwyQWNwWFk?oc=5",
+      "published_at": "2026-10-09T23:55:56",
+      "snippet": "These are the Drive team's interesting used-car picks for food delivery or rideshare that aren't just Toyotas&nbsp;&nbsp;Drive",
+      "source": "Drive",
+      "category": "Global P2P",
+      "ai_summary": "These are the Drive team's interesting used-car picks for food delivery or rideshare that aren't just Toyotas&nbsp;&nbsp;Drive",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "This Tequila Brand Wants to Reimburse Your Uber Receipts. It's a Genius Marketing Move—and You Should Let Them",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmN6MGZCc2s2OEdIUFk1c1RfeWtLX3hRYWx6Ujk4b1BSejhZdndpeUt4aXFJNGlWN2N3U2dHT3ItbFJXRWgtWmctczhwNERaYlp5bXhpZjMteUZvbHM5Q3FsTHVzUnZKd0hSQWVON09Eckdib0tEWldIcWdHTEZGX3dn?oc=5",
+      "published_at": "2026-10-09T19:52:05",
+      "snippet": "This Tequila Brand Wants to Reimburse Your Uber Receipts. It's a Genius Marketing Move—and You Should Let Them&nbsp;&nbsp;Inc.com",
+      "source": "Inc.com",
+      "category": "Global P2P",
+      "ai_summary": "This Tequila Brand Wants to Reimburse Your Uber Receipts. It's a Genius Marketing Move—and You Should Let Them&nbsp;&nbsp;Inc.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Third bellwether trial in Uber sexual assault MDL ends in settlement",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGtZUGNaMnFFY0V1M0NCdFQyVXlfS2ZXQW5XbFoyVnF4YU5ia1pRQWhGcFdfOU5SWVpqNmRoWWJpN1FESENHb1JPb0QyMDFubWdmSC1GX3NWT2llcGZZMmhmV2xIcjVwZm5HSFdUTTk4TVBWcGhkSGdpd0FaR2xNSW1ISGRiWk5pVFpDdU5NTXQ2MDNuVXhRc0w1SmxESHNuVDVka3FEYU9fRHI2SVgtMmFIeWY3UkxHNVVYTmptbWxxQnlwWDhnRmdR?oc=5",
+      "published_at": "2026-10-09T16:06:05",
+      "snippet": "Third bellwether trial in Uber sexual assault MDL ends in settlement&nbsp;&nbsp;Top Class Actions",
+      "source": "Top Class Actions",
+      "category": "Global P2P",
+      "ai_summary": "Third bellwether trial in Uber sexual assault MDL ends in settlement&nbsp;&nbsp;Top Class Actions",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "7 drivers caught at Woodlands, Tuas checkpoints for illegal cross-border ride-hailing services",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1phcDdOWUs2a2dWQzEzSVpUejctR3ZVcXFGa3kwbk10cGl1OXZ0U1RIdUZMeHlhZFpmVGNURnJNYm80TU5BODJPV3RpX0RhLTJab3JqWDdJa3RVcHRwbURBYXJ6R3RBckkxRkxZUTBkTGFTSmNHNmJJWTFzQlRPZmhvLXY2V29oTEw5SWZ2WjRsMWhNb1NXcjcwZHZMeXhkX2c?oc=5",
+      "published_at": "2026-10-09T13:31:47",
+      "snippet": "7 drivers caught at Woodlands, Tuas checkpoints for illegal cross-border ride-hailing services&nbsp;&nbsp;AsiaOne",
+      "source": "AsiaOne",
+      "category": "Global P2P",
+      "ai_summary": "7 drivers caught at Woodlands, Tuas checkpoints for illegal cross-border ride-hailing services&nbsp;&nbsp;AsiaOne",
+      "sentiment": "Neutral",
+      "tags": [
+        "Labor Elasticity"
+      ]
+    },
     {
       "title": "SoftBank, Grab & PETROS to explore AI infrastructure & ecosystem development in Sarawak, Malaysia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmV5ZGU3RHl5Q0lpV0pmQTk3NXZoTFgzWkpkb3JGajJDT3J0Z0lIZVBKS3dZY0EzVU9KWHloeDlZbEpzamJTdHZ6M0lDZWhkQzNPRU8zSjRBd0o2THc1MDkzanpPQ1cyQU9FeHdtUUoyRkFnUGN4aWEzaDdhUWFsMUpId1JaVDdmMDRJa1hHSGt3UGxVUmxGRExSdVRSdENQN3VxUkxmalZLM0p2V3RIMlhvQ0RiYmtaaHEtWDhlVXN3VmRabGc?oc=5",
@@ -53,7 +105,7 @@
     },
     {
       "title": "In search of the elusive unicorn for SGX’s Global Listing Board",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONEZQQ29SUUtucTN4N3QtUE4wSVIxOWN1b2ZfLWFpd3h5NktDUVFoNFZMQlF1YnhTQkNyZmR1ckJlN1Nqd09PNkMxTnBRTkpYY3FBbkl6M2htb0VSQk5UUnFMaDQ5OGJEYzR5MTVvd2I3ZVpwalpWTjRWRWR5dEdNdFFDSHptY1A3U1ZrS3RfZzdyalUwUlR1NFFTTEx6eTB3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdk9obEpNcGZhYzZDTVJSRkdoSHhTM2gyd09CcGhaTkdwUUJxMTNtWGM1VVZBcXRkNTA1czhLQmRzNFNmTzAtOGNUdzlsNVpaeW9GVlM1cVByR2RSUkRtbERYdlVWaUdrUkFlSUNFSGhsbnl0eXhRbEpISllJV2VaeUJ2NkhhQnlBczZIRkhEYk1kdndfZnZJODU0NmR5anc?oc=5",
       "published_at": "2026-10-08T09:36:00",
       "snippet": "In search of the elusive unicorn for SGX’s Global Listing Board&nbsp;&nbsp;The Business Times",
       "source": "The Business Times",
@@ -75,6 +127,19 @@
       "sentiment": "Neutral",
       "tags": [
         "Labor Elasticity"
+      ]
+    },
+    {
+      "title": "How Prudential, Coca-Cola Singapore and Grab are using AI in Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDN5X2ZfNEo2a0xDeURNdHBnRmdORjEyWS1KQVZNNURybFBCZGRXNl8zcWNXSDNaVExEUHc1cDE2RDVicEhxV0NObTBBcFRLWmROWFVBQ09IU3RsZC1odHBLYmdkY01nUmVXNWg0TTJ2RXdDWDdZLWhoRnFqTENuRU9VVnEtbk5OX0g1cEVIV2FsaG00VWZlS0s5QjBCNUNYNENPa3VVa0FuUHRWTzRPUkNEcw?oc=5",
+      "published_at": "2026-10-07T07:00:00",
+      "snippet": "How Prudential, Coca-Cola Singapore and Grab are using AI in Singapore&nbsp;&nbsp;Singapore EDB",
+      "source": "Singapore EDB",
+      "category": "Singapore P2P",
+      "ai_summary": "How Prudential, Coca-Cola Singapore and Grab are using AI in Singapore&nbsp;&nbsp;Singapore EDB",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
       ]
     },
     {
@@ -130,22 +195,9 @@
       ]
     },
     {
-      "title": "'Money-grab' or celebration? NFL kicks off London series",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6cUZmU01rZ3JCdUNNdTl3WHVGRlVnWl9QWC1nc241RFJWWERJSG15SzA1WUtSUmFpaXlQTzNIRENPdy10ZDFkaTJaUUN1LUFJaFdaRlVDVUZ2TG1jQlJCa0tHWHQ0ODBvaFJOSkI5WEdianQx?oc=5",
-      "published_at": "2026-10-04T20:36:03",
-      "snippet": "'Money-grab' or celebration? NFL kicks off London series&nbsp;&nbsp;BBC",
-      "source": "BBC",
-      "category": "Global P2P",
-      "ai_summary": "'Money-grab' or celebration? NFL kicks off London series&nbsp;&nbsp;BBC",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "From Google to Alibaba: AI investments in Singapore over the last 12 months",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjloalZiMnhuVWt6NnNtLWhhWXVqX0lCVmk5REhYMUdFNFV3T1N5dkJyVnZiQVNDSGhzNmRfODRhQXpwcmlzVHRtd1IyOVVWSDUzUXZTUmpkbjdGVVZ4WVJNY3FVX0t0bEg3UnBnbWJsRHNjRi1HWFJsM2R4V1lVTUZ2TDhXWElXeXhEejlhX0dDN3hyZEZvZzIxRHBfOE44Zm1XRnFaZ3d3MXpKS1ctcXlZa3c3TTV0Z3c?oc=5",
-      "published_at": "2026-10-04T07:00:00",
+      "published_at": "2026-10-05T07:00:00",
       "snippet": "From Google to Alibaba: AI investments in Singapore over the last 12 months&nbsp;&nbsp;Singapore Economic Development Board (EDB)",
       "source": "Singapore Economic Development Board (EDB)",
       "category": "Singapore P2P",
@@ -156,16 +208,16 @@
       ]
     },
     {
-      "title": "ComfortDelGro, Grab, Gojek, Tada extend driver fees until Nov 30",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmNoT01Rd3labXNaZUJBY0hnLUdOeDNJU0JyaXRvblVJQlBUSGFBNC16c3RPNGhyNzBkb2RFQS01V1F2LU51NkJYNGRHa3F2NExNTlBYbm9reFE2Ui1SOU83dmNWZW9KMHkxSzNUQXZENjlvWHItOFVTRmg4VUVSOU9DNjdlNXpGZW84MXFzajJIaF9MS1psX0hRZXdmbXBFdDhVcWE2RzU?oc=5",
-      "published_at": "2026-10-03T15:25:00",
-      "snippet": "ComfortDelGro, Grab, Gojek, Tada extend driver fees until Nov 30&nbsp;&nbsp;The Straits Times",
-      "source": "The Straits Times",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro, Grab, Gojek, Tada extend driver fees until Nov 30&nbsp;&nbsp;The Straits Times",
+      "title": "'Money-grab' or celebration? NFL kicks off London series",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6cUZmU01rZ3JCdUNNdTl3WHVGRlVnWl9QWC1nc241RFJWWERJSG15SzA1WUtSUmFpaXlQTzNIRENPdy10ZDFkaTJaUUN1LUFJaFdaRlVDVUZ2TG1jQlJCa0tHWHQ0ODBvaFJOSkI5WEdianQx?oc=5",
+      "published_at": "2026-10-04T20:36:03",
+      "snippet": "'Money-grab' or celebration? NFL kicks off London series&nbsp;&nbsp;BBC",
+      "source": "BBC",
+      "category": "Global P2P",
+      "ai_summary": "'Money-grab' or celebration? NFL kicks off London series&nbsp;&nbsp;BBC",
       "sentiment": "Neutral",
       "tags": [
-        "Labor Elasticity"
+        "Shared Mobility"
       ]
     },
     {
@@ -275,7 +327,7 @@
     {
       "title": "Turo vs. Traditional Car Rentals: The Pros and Cons of Booking",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wQVpvTmlJWDB1NlFwcmFTNnZTaDdDcnF6bW1KNVV0UGNxeFYyaVZlLWlJaEtBTkJaeVFFUjNCVzZRUlBXZVUwMWtxS0ZuT2xpUWl6OFNmNzZaaEtKcHNNTWViTXJfSnRSQkE?oc=5",
-      "published_at": "2026-09-29T16:59:05",
+      "published_at": "2026-09-29T07:00:00",
       "snippet": "Turo vs. Traditional Car Rentals: The Pros and Cons of Booking&nbsp;&nbsp;NerdWallet",
       "source": "NerdWallet",
       "category": "Global P2P",
@@ -283,19 +335,6 @@
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "How Prudential, Coca-Cola Singapore and Grab are using AI in Singapore",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDN5X2ZfNEo2a0xDeURNdHBnRmdORjEyWS1KQVZNNURybFBCZGRXNl8zcWNXSDNaVExEUHc1cDE2RDVicEhxV0NObTBBcFRLWmROWFVBQ09IU3RsZC1odHBLYmdkY01nUmVXNWg0TTJ2RXdDWDdZLWhoRnFqTENuRU9VVnEtbk5OX0g1cEVIV2FsaG00VWZlS0s5QjBCNUNYNENPa3VVa0FuUHRWTzRPUkNEcw?oc=5",
-      "published_at": "2026-09-29T07:00:00",
-      "snippet": "How Prudential, Coca-Cola Singapore and Grab are using AI in Singapore&nbsp;&nbsp;Singapore Economic Development Board (EDB)",
-      "source": "Singapore Economic Development Board (EDB)",
-      "category": "Singapore P2P",
-      "ai_summary": "How Prudential, Coca-Cola Singapore and Grab are using AI in Singapore&nbsp;&nbsp;Singapore Economic Development Board (EDB)",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification"
       ]
     },
     {
@@ -355,19 +394,6 @@
       "sentiment": "Neutral",
       "tags": [
         "Electrification"
-      ]
-    },
-    {
-      "title": "'A lesson learnt': Grab delivery rider gets trapped on 30th-floor stairwell after finding exit door locked",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFlhUWRicGZLV3Itd0V6b2M5UUdqbW1Ld1FtRWI1b3g0YVl2aW44elZKeDF4RnItdGlBWmxhamljRVoyY3NWZktIdnJRVmkyTllJM1BCTm96U2xZZTdMUVdRWk0xcGsxRUh6M2JmSmpiT2RfLU9ZQmJQNVNNQmRnWVJDSi1NRkplR0E2SEFXTFI?oc=5",
-      "published_at": "2026-09-25T07:00:00",
-      "snippet": "'A lesson learnt': Grab delivery rider gets trapped on 30th-floor stairwell after finding exit door locked&nbsp;&nbsp;AsiaOne",
-      "source": "AsiaOne",
-      "category": "Singapore P2P",
-      "ai_summary": "'A lesson learnt': Grab delivery rider gets trapped on 30th-floor stairwell after finding exit door locked&nbsp;&nbsp;AsiaOne",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
       ]
     },
     {
@@ -705,19 +731,6 @@
       ]
     },
     {
-      "title": "Taking Uber or Lyft to an LSU game? Here’s where to go",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZldTTUxJNFdxLUt1UGN0LUNiNkRfaXQwcnB0aW9URlN5SWl5UTBHRmNLWDFDanpZazRYa0VjLWs1SHlxN204Tk9uZmNBMzJtNjM2NjhzQ3dhb284WE5pMVMwZHFYbGxDUVlRbnc4c29hek5Ubkg4SFdvOVlDdE0?oc=5",
-      "published_at": "2026-09-04T07:00:00",
-      "snippet": "Taking Uber or Lyft to an LSU game? Here’s where to go&nbsp;&nbsp;Yahoo",
-      "source": "Yahoo",
-      "category": "Global P2P",
-      "ai_summary": "Taking Uber or Lyft to an LSU game? Here’s where to go&nbsp;&nbsp;Yahoo",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanI3bi1HRzRqbDJnWXo0NmFfV0R3SXJvVVppUnVuRzduS3BGZVNjNVhmWl90VktsSVhhOThabklQWE1sR3BSNHpfd0ExdGVDNFVkSEU2OTFRaEh1QzR4aVA0LVhFM3V4UnhUaWMwanFXRjZIM2NVd2F1M0M0OWU1dmtpejJxS01CVXRQVEJzWDYyTy1mLVpKaNIBrAFBVV95cUxOdU5jaldJNHFENnNiZktuRk9WaXZmcUFtZ2pYRjJOaVYzR21VUkI2UkJrekNxaVVpOUU1TTkwcUl6d0RqVnhKeThxdVVVeFlpRmVDWks3ZW9BNTladUd5OUpUMEM0S0NIYmF5VXVFMXVrZVZ1R1VTSmpvd3I2LVFYVVNSQ0w2VDBuc1NDMUVYVkRXSi1tNFBJQkkzbVBSejRlRDRmeVVXNzdsa2xD?oc=5",
       "published_at": "2026-09-02T07:00:00",
@@ -783,19 +796,6 @@
       ]
     },
     {
-      "title": "Zig, Gojek expand tie-up to bring metered taxis to GoTaxi bookings",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTh2LTYxWWJOVjBZSElsNDhyRVpuTDlDM09IbnQybWJjM2ltd3NpOHJkcWtvUXUwbldNcWlCQ3hfZkxIRmE3NjJXMEd1dDZ3bVNaeHZQcDdCN1hibEZrU1l0d1FKTHZlT21TWkxNbzl1TzNwdUFWTk53ZEM3WHVoNEx1S0wtSS1HQXVUZ2N2RXhPSFhxWjBNUXlLaTI1bTB4LXc?oc=5",
-      "published_at": "2026-08-31T07:00:00",
-      "snippet": "Zig, Gojek expand tie-up to bring metered taxis to GoTaxi bookings&nbsp;&nbsp;Singapore Business Review",
-      "source": "Singapore Business Review",
-      "category": "Singapore P2P",
-      "ai_summary": "Zig, Gojek expand tie-up to bring metered taxis to GoTaxi bookings&nbsp;&nbsp;Singapore Business Review",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification"
-      ]
-    },
-    {
       "title": "GoJek partners ComfortDelGro's Zig to offer passengers shorter waiting time, Singapore News",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0RScTlqMmpoOFhIbGdSZmdGTHgwYmpvUWpxRndxWmE5RlhvZlJLZmpIOHo3RUlDb0JxOU9YTzJMcFlJSjVjeVBPOTVYQy14R0pXMktTdjZwZFhPQ2thUXhFXzVCQ29sRG1BOF9OczFQbkZNczcyZ0hGZFNvR2pXLVhaV19YeXd2WFNsWEFJenk?oc=5",
       "published_at": "2026-08-30T07:00:00",
@@ -803,6 +803,19 @@
       "source": "AsiaOne",
       "category": "Singapore P2P",
       "ai_summary": "GoJek partners ComfortDelGro's Zig to offer passengers shorter waiting time, Singapore News&nbsp;&nbsp;AsiaOne",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Baker McKenzie Advises S-Bahn Berlin, Stadler Rail and Siemens Mobility on Joint Venture for the Future of Berlin’s S-Bahn",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNGpLaTJ5VG9iMVIwaDRQeVozUklneU9JZzFCV1pfSi1nclN5VnV6VllackJRVGNZTF9tMlJfbTRaakNTOFBkclk4MWtuYUtEekRMN0FkMDlLWWJrWUR0cjJzYVhibnE1MmJnbExvSUJlUGhzLTBWUDBrRVZ6QmZHdmJpN1oxUjdNcWJYRFp0VUFoV0lSVWktWlo0QUpDd2Fpd0N3ZHBTcFBlcDZfZUZQNC14OC1zYTlhcElhVzd6N0dJSHROYW5DbGFTYUd2M0htWVRvM3ZOZjUyLUQ1N2c?oc=5",
+      "published_at": "2026-08-28T07:00:00",
+      "snippet": "Baker McKenzie Advises S-Bahn Berlin, Stadler Rail and Siemens Mobility on Joint Venture for the Future of Berlin’s S-Bahn&nbsp;&nbsp;Legal Desire",
+      "source": "Legal Desire",
+      "category": "Consulting Opinions",
+      "ai_summary": "Baker McKenzie Advises S-Bahn Berlin, Stadler Rail and Siemens Mobility on Joint Venture for the Future of Berlin’s S-Bahn&nbsp;&nbsp;Legal Desire",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
@@ -855,19 +868,6 @@
       "source": "San Francisco Chronicle",
       "category": "Global P2P",
       "ai_summary": "If your Uber or Lyft driver goes hands-free, should they ask your permission?&nbsp;&nbsp;San Francisco Chronicle",
-      "sentiment": "Neutral",
-      "tags": [
-        "Labor Elasticity"
-      ]
-    },
-    {
-      "title": "Woman boycotts Grab, says company 'didn't care' after driver allegedly ran over husband's foot",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXJ3MlNST0VlTU53cFpwdkxZZmk2UFBfLUxmd2htYUlfVzZIU18zbkdaOFh0Sm5jcFItak9iNGZZZWJBWWNpUl9HZ19lNzYzUWRubmF6Ynl3WVRjNS1SQVc1aUFIUFRjVC1XSHJRRXFYOTExa3NnbHMtVjRvNXplY1JHcnl6LXJ6dnVQbVFFVUNtODZpTG5iamNObjFWb2tfdkd3?oc=5",
-      "published_at": "2026-08-21T07:00:00",
-      "snippet": "Woman boycotts Grab, says company 'didn't care' after driver allegedly ran over husband's foot&nbsp;&nbsp;AsiaOne",
-      "source": "AsiaOne",
-      "category": "Singapore P2P",
-      "ai_summary": "Woman boycotts Grab, says company 'didn't care' after driver allegedly ran over husband's foot&nbsp;&nbsp;AsiaOne",
       "sentiment": "Neutral",
       "tags": [
         "Labor Elasticity"
@@ -1069,16 +1069,16 @@
       ]
     },
     {
-      "title": "Scaling minimobility: Industry leaders weigh in on what’s needed",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkJKd09ZUU8xUFRla3FSTUkzbFRTVkItNUVJRTkxZUFYYXdGNUZoMTF4OTFZWXJxMlhYSU95aTVUNndTYktrYTR3VjU4Y0dQS1BZNGotanNfQkgxWDJBVmlsS1FqYlA3UUtnbTJibWVaYW5YenpyYTdJRU5JMlh5bXE5UHEycXBlTU5XQ00yNllpLTFIM0I5ODU5VzhRQnJoQWtUVjA2NVAzWGF6RVdMVmkxd1Y3OW1XcFBZcWEyMU5acWNvLUVKcXNMSkRibkUt?oc=5",
+      "title": "Grab launches new customised safety programme to help keep riders safe, Singapore News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXFNMU5RdGxSeDFrMHcyamZ0c3RtVjQtTlJvMi03bnU2c3dIYUNmZ1RVT2xwWDhTcVZhMjN1Q3JoZ2pFbV8xZkVPa3Axc2tJWkpJSGoxUHNUdTJRZzB0Q3RqOGdsYW0ya0ZrUHhQc0tqWUYzN0x5XzRva1dyZkdhZg?oc=5",
       "published_at": "2026-08-12T07:00:00",
-      "snippet": "Scaling minimobility: Industry leaders weigh in on what’s needed&nbsp;&nbsp;McKinsey & Company",
-      "source": "McKinsey & Company",
-      "category": "Consulting Opinions",
-      "ai_summary": "Scaling minimobility: Industry leaders weigh in on what’s needed&nbsp;&nbsp;McKinsey & Company",
-      "sentiment": "Neutral",
+      "snippet": "Grab launches new customised safety programme to help keep riders safe, Singapore News&nbsp;&nbsp;AsiaOne",
+      "source": "AsiaOne",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab launches new customised safety programme to help keep riders safe, Singapore News&nbsp;&nbsp;AsiaOne",
+      "sentiment": "Positive",
       "tags": [
-        "Strategy"
+        "Shared Mobility"
       ]
     }
   ]
