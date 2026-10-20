@@ -684,6 +684,7 @@ header {
 }
 
 .select-wrapper select {
+  color-scheme: dark;
   width: 100%;
   height: 48px;
   background: rgba(255, 255, 255, 0.02);
@@ -698,6 +699,11 @@ header {
   appearance: none;
   -webkit-appearance: none;
   transition: var(--transition-fast);
+}
+
+.select-wrapper select option {
+  background-color: var(--bg-dark);
+  color: var(--text-main);
 }
 
 .select-wrapper select:focus {
@@ -1460,4 +1466,3 @@ footer {
     max-height: 250px;
   }
 }
-
