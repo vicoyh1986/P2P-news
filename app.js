@@ -47,11 +47,7 @@ const elements = {
   categoryPills: document.getElementById("category-pills-bar"),
   
   // Grid
-  newsGrid: document.getElementById("news-grid-feed"),
-  
-  // Systems Dynamics Matrix
-  scatterCanvas: document.getElementById("scatter-canvas"),
-  matrixActiveInfo: document.getElementById("matrix-active-info-box")
+  newsGrid: document.getElementById("news-grid-feed")
 };
 
 // Inline Mock Database (Fallback for CORS / offline / filesystem opening)
@@ -251,13 +247,10 @@ function renderDashboard() {
   // 2. Render Executive Briefing
   renderExecutiveBriefing();
   
-  // 3. Render Systems Dynamics Scatter Plot Matrix
-  renderSystemsMatrix();
-  
-  // 4. Render Analytics & Metrics
+  // 3. Render Analytics & Metrics
   renderMetrics();
   
-  // 5. Render News Feed Cards
+  // 4. Render News Feed Cards
   renderNewsFeed();
 }
 
@@ -311,88 +304,6 @@ function renderExecutiveBriefing() {
       <div class="takeaway-text">${takeaway}</div>
     `;
     elements.takeawaysList.appendChild(item);
-  });
-}
-
-// --- Render Systems Dynamics 2D Scatter Matrix ---
-function renderSystemsMatrix() {
-  const articles = db.articles || [];
-  
-  // Filter for items that contain academic coordinates
-  const matrixItems = articles.filter(a => a.academic_analysis && a.academic_analysis.systems_efficiency !== undefined);
-  
-  if (matrixItems.length === 0) {
-    elements.scatterCanvas.innerHTML = `<div class="no-data-plot">No Strategy Decks found to map.</div>`;
-    return;
-  }
-  
-  elements.scatterCanvas.innerHTML = "";
-  
-  matrixItems.forEach((article, index) => {
-    const analysis = article.academic_analysis;
-    const eff = analysis.systems_efficiency;
-    const fric = analysis.policy_friction;
-    
-    // Select color based on category/source
-    let dotColor = "var(--color-secondary)"; // Electric Cyan
-    if (article.title.toLowerCase().includes("uber")) dotColor = "var(--color-accent)"; // Neon Violet
-    if (article.title.toLowerCase().includes("didi")) dotColor = "var(--color-gold)"; // Neon Gold
-    
-    const dot = document.createElement("div");
-    dot.className = `matrix-dot ${index === 0 ? 'active' : ''}`;
-    dot.id = `matrix-dot-${index}`;
-    
-    // Set absolute positions (X-axis = Friction, Y-axis = Efficiency)
-    // Left maps to policy friction; bottom maps to systems efficiency
-    dot.style.left = `${fric}%`;
-    dot.style.bottom = `${eff}%`;
-    dot.style.backgroundColor = dotColor;
-    dot.style.color = dotColor; // Store for box shadows
-    
-    // Active display function
-    const activateDot = () => {
-      document.querySelectorAll(".matrix-dot").forEach(d => d.classList.remove("active"));
-      dot.classList.add("active");
-      
-      // Update Detail box on right
-      elements.matrixActiveInfo.innerHTML = `
-        <div class="info-box-active">
-          <span class="info-box-source">${article.source} • Coords: [${fric}, ${eff}]</span>
-          <h4>${article.title}</h4>
-          
-          <div class="info-box-scores">
-            <div class="score-badge">
-              <span class="score-num eff">${eff}%</span>
-              <span class="score-lbl">Systems Efficiency</span>
-            </div>
-            <div class="score-badge">
-              <span class="score-num fric">${fric}%</span>
-              <span class="score-lbl">Policy Friction</span>
-            </div>
-          </div>
-          
-          <div style="margin-bottom: 15px;">
-            <strong style="display: block; font-size: 0.75rem; text-transform: uppercase; color: var(--text-muted); margin-bottom: 4px;">Assumptions Critique:</strong>
-            <p style="font-size: 0.85rem; color: var(--text-main); line-height: 1.45;">${analysis.methodological_assumptions}</p>
-          </div>
-          
-          <div class="info-box-critique">
-            <h5>MIT Transport Critique</h5>
-            <p>${analysis.professors_critique}</p>
-          </div>
-        </div>
-      `;
-    };
-    
-    dot.addEventListener("click", activateDot);
-    dot.addEventListener("mouseenter", activateDot);
-    
-    elements.scatterCanvas.appendChild(dot);
-    
-    // Trigger initial activation for first element
-    if (index === 0) {
-      activateDot();
-    }
   });
 }
 

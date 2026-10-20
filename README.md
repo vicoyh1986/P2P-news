@@ -8,6 +8,7 @@ This application is **100% serverless**, self-healing, and runs on a daily refre
 
 ## 🚀 Key Features
 
+*   **Ride-hailing Company Overview**: Plain-language management snapshots of Uber, Grab, Gojek and DiDi, each with three sourced next moves. Announced targets are distinguished from ongoing initiatives, with parent-company context for Gojek.
 *   **Daily Automating Backend**: Runs on a CRON schedule to aggregate Google News RSS queries for Singapore P2P, Global P2P, and top-tier consulting mobility studies.
 *   **Gemini 2.5 Flash Synthesis**: When a `GEMINI_API_KEY` is provided, the backend compiles the top articles and calls Gemini to synthesize a structured Executive Briefing, assign article sentiments, and extract hot topic tags.
 *   **Offline / CORS Resilience**: Includes a built-in sandbox mock database, meaning you can double-click `index.html` to review the dashboard locally in your browser even if CORS policies block local JSON fetches.
@@ -15,6 +16,12 @@ This application is **100% serverless**, self-healing, and runs on a daily refre
 *   **Interactive Metrics**: Computes and displays real-time breakdowns of news category shares, sentiment indices, and hot-topic word-clouds on every refresh.
 
 ---
+
+## Maintaining the company overview
+
+The company overview is curated directly in `index.html` and is available even when the news feed cannot load. It is **not** rewritten by the daily news refresh. When updating it, verify leadership and each initiative against the linked sources, preserve exactly three next moves per company, and update the research review date. Label ongoing programmes, conditional targets and parent-company initiatives explicitly; do not present a completed launch as a future event.
+
+The empty policy-friction matrix has been removed, including its renderer and styles. Daily news, search, sentiment and category filters, sorting, and feed analytics remain available below the overview.
 
 ## 🛠️ Getting Started on GitHub (How to Publish)
 
