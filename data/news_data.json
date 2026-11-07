@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T04:47:50.246395+00:00",
+  "last_updated": "2026-11-07T04:17:32.055235+00:00",
   "ai_active": false,
   "executive_brief": {
     "headline": "Systems Dynamics of Global Shared Fleet Operations & Curb Economies",
@@ -25,6 +25,139 @@
     ]
   },
   "articles": [
+    {
+      "title": "Grab ordered to halt some AV tests in Punggol after near-miss with girl",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVkpEVjFCMXp5TWtZc2ZLalRac2RlMUVtSExoRkJxS2cwenYtMXA0czI0R050QzNOR1JWczU2c1VqMEhWNnIwVUYxclVPc2ZqV0JfZS1oRzJ6d0FYUnhxbVFIZ01FZjQycmxkMnZnTDBQcHNzbHNUNDkxVXBHeVVRYjItdTNoR2tsVGVIWXhrX1NTMWIwQTlOUkExV09pZ0VNMUxQVW03SFhlTHF4Z2xZblFoR0MzSWl1OXByLTJlV3ZNVk5OLVZ2dWNidVpzZVE?oc=5",
+      "published_at": "2026-11-07T02:56:00",
+      "snippet": "Grab ordered to halt some AV tests in Punggol after near-miss with girl&nbsp;&nbsp;The Star",
+      "source": "The Star",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab ordered to halt some AV tests in Punggol after near-miss with girl&nbsp;&nbsp;The Star",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab autonomous vehicle appears to nearly hit schoolgirl at Punggol junction",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY1pPT1IxNmpkQVl6SEU3UXRKZFZDWXFrU3BzdlkwZm9keGk3aVo1ek9kQk1YdGJUTWNXQkxWRG14ZGhUczktaXpDQ3NjUkNtNmNleTJYX213b0pxT21wMGx3bFBRR0Y5M3otV0pvdDZVdW9oc3pNeGpRYkVLcXpESWVQRk92WEsxVFRvQ3Z1Mk15U0F5OUl1VzE3em5qcG1sUDJ6UDlhcFJ4S2pseEZsMlhNeTZra1hOaVRiZGdB?oc=5",
+      "published_at": "2026-11-07T02:16:55",
+      "snippet": "Grab autonomous vehicle appears to nearly hit schoolgirl at Punggol junction&nbsp;&nbsp;The Online Citizen",
+      "source": "The Online Citizen",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab autonomous vehicle appears to nearly hit schoolgirl at Punggol junction&nbsp;&nbsp;The Online Citizen",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet"
+      ]
+    },
+    {
+      "title": "Singapore regulators review autonomous driving standards following Grab vehicle incident",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mOVppZ2psSkFIbm0wVjVXdXgyTV91S0t2bmZ0LTdzU0twSFZjMzdWVEV1N2FwZkZXY2x1aW5zSTFlVU52bEFFaG1KT3JYb0lFMnAwa3F0MThfOWNfOXVIeVBSWlpRMDhzWFRoLWlXN0F2ak0?oc=5",
+      "published_at": "2026-11-07T00:06:00",
+      "snippet": "Singapore regulators review autonomous driving standards following Grab vehicle incident&nbsp;&nbsp;PravdaReport",
+      "source": "PravdaReport",
+      "category": "Singapore P2P",
+      "ai_summary": "Singapore regulators review autonomous driving standards following Grab vehicle incident&nbsp;&nbsp;PravdaReport",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet",
+        "Electrification",
+        "Strategy"
+      ]
+    },
+    {
+      "title": "Top Stock Market Highlights of the Week: Singapore Banks, NASDAQ Sell-off, Grab and SGX RegCo",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjBzdktPaW1EOHhqMXE1dGh1aC1jVFc3X1dJLTBpYThBa3JFdU5FamIxY3RmRUJDbGJQZmY3R2FxN2RTX3cwY3RLYnEydk16aVdBS3A0dzQ4MVlfZFBGX0xoYzBic1pLNEswZUYxTlVvb3U2dDd6STZlVkRVTnZwYUpETExIVWRxTVBNOWo5TEJUQkhodTNaNEx6eFMtMk96aV9EM3EzY1R2LUIxRkpWa2VpSFNFZm5vbTc4bGltVUY?oc=5",
+      "published_at": "2026-11-06T23:30:00",
+      "snippet": "Top Stock Market Highlights of the Week: Singapore Banks, NASDAQ Sell-off, Grab and SGX RegCo&nbsp;&nbsp;The Smart Investor",
+      "source": "The Smart Investor",
+      "category": "Singapore P2P",
+      "ai_summary": "Top Stock Market Highlights of the Week: Singapore Banks, NASDAQ Sell-off, Grab and SGX RegCo&nbsp;&nbsp;The Smart Investor",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Vadzo Imaging Positions Bolt-2020MRS with NVIDIA: 20MP Onsemi AR2020 Monochrome MIPI Camera for Drone Imaging",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPM0lINmZ1THUxNjBDaU0zNko5QnhNSkR3N1hOSDhuelYybnJtQ09aV1YzTFpEX0RlOG1hQzMyVkVVYTg0S3hOYW9yYW00OW9vZzExWVFQSGtGUjNVdkpCeTZBR2ZSZXBPckUzV3diSTdZaVJyWlBWYTFEMGRORXR1c3ZEUFNCUUlZdFFCcXBmY0N4VzdjWENscm1heFBfSXV1Y1EwQ3Zodzlqclk4NU5SQnpoWUhiU2szQ1J3VlNpeGVKX0lBdUpvbGE3M3ZfWjlvNkRsQTlHZlFJd3pjVEEwMW9wakVIa2hHUVRiSXNwM2x1OGpxYXc?oc=5",
+      "published_at": "2026-11-06T19:50:18",
+      "snippet": "Vadzo Imaging Positions Bolt-2020MRS with NVIDIA: 20MP Onsemi AR2020 Monochrome MIPI Camera for Drone Imaging&nbsp;&nbsp;Cincinnati Enquirer",
+      "source": "Cincinnati Enquirer",
+      "category": "Global P2P",
+      "ai_summary": "Vadzo Imaging Positions Bolt-2020MRS with NVIDIA: 20MP Onsemi AR2020 Monochrome MIPI Camera for Drone Imaging&nbsp;&nbsp;Cincinnati Enquirer",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Grab to cut Vietnam driver fees, pay compensation after competition watchdog’s review",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMXROMm5ELW15X0d6RnhKVlhzRDhISVNsRnM0aUhCZldudDJ2Y19IRERoN2FybzJlYWUzZHZvUWY3R1VqRTZVY2Q0RGF6RHBNNjZwRFZjUVh4eVZ1a3FLT2NBcXl2ZTczTkRSbldJYUJLS0d2dnFNSEZ4WTdXbl9PWUxyTW1idXU5cWRHb3ZFTkNvbnRRcDdFSGt3VUZqWXpYdkpDWUM3NGFLT1ZfRGdpeFRqWWJ2anpDU1FfaG9vVlVIamRXN29OWFJyNA?oc=5",
+      "published_at": "2026-11-06T15:20:00",
+      "snippet": "Grab to cut Vietnam driver fees, pay compensation after competition watchdog’s review&nbsp;&nbsp;The Business Times",
+      "source": "The Business Times",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab to cut Vietnam driver fees, pay compensation after competition watchdog’s review&nbsp;&nbsp;The Business Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification",
+        "Labor Elasticity"
+      ]
+    },
+    {
+      "title": "AV on trial in Punggol nearly hits girl; Grab directed to narrow testing as LTA probes near-accident",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHNSTEcyTDdHd1BrU1NuU05PbVVLa0cxWEJRcVN6SnJYQ2FnSkxCOXdHSjZlZ1dCYi1VbmhmRFk0akpfT3pvcllVZU5qUV9wdUNjeFIwZWw3WUI3U3hzSHllUFp3dElQR3k1dDdOckxxSFJUUG1Xd2doQ3dIdEtpVGFYVUpxWXg1RTdNSkMzSGQyblMwMGFJSXZ3azJRNHpKeDdEZU9TWnp6RlBOLVhuZUUzWDRWZ3Z5NmtB?oc=5",
+      "published_at": "2026-11-06T10:35:00",
+      "snippet": "AV on trial in Punggol nearly hits girl; Grab directed to narrow testing as LTA probes near-accident&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "AV on trial in Punggol nearly hits girl; Grab directed to narrow testing as LTA probes near-accident&nbsp;&nbsp;The Straits Times",
+      "sentiment": "Negative",
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "title": "Grab autonomous vehicle nearly hits schoolgirl at traffic crossing in Punggol",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1NUaFdnS29zVlBXZ3dQazkyZzdHMDlnT0tqZlh0TE0xbzV6UHJQd19YT0lnOU5MazFnbE5fdG03U1czQ0d4OUIxZXRTTVQzV0pkRjUtWl9TWV94aEZsRy1yVFlUS3VDazBqOF9ZcWNZYnVabEgyS19RNGEwYVhoQTc2Q2Q0UTNHMlNQV2pEVC13MDFa?oc=5",
+      "published_at": "2026-11-06T07:02:00",
+      "snippet": "Grab autonomous vehicle nearly hits schoolgirl at traffic crossing in Punggol&nbsp;&nbsp;CNA",
+      "source": "CNA",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab autonomous vehicle nearly hits schoolgirl at traffic crossing in Punggol&nbsp;&nbsp;CNA",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet"
+      ]
+    },
+    {
+      "title": "Grab to cut maximum take on Vietnam rides to 32% from 40%",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOU5wb2JwUnQ3aFBNb0llSE5SbXVPYUtETFhWUmw1T2IxN3BHaVhNYzVmSlpyZXhjS2F5RDBEUGZDVEt3QXZhNU1KOXpkUnJYVG94Ujg1V1ZXY3ktd2RBVVNIWmp6NHBRRUI5M3dZVS1aQ3p3WG4xZXRSYmxVcDItcGtmeHA0Z2FfQ0xPeUhvR0V5eDVhY3ZSbG5xNWJZQQ?oc=5",
+      "published_at": "2026-11-06T06:59:00",
+      "snippet": "Grab to cut maximum take on Vietnam rides to 32% from 40%&nbsp;&nbsp;Nikkei Asia",
+      "source": "Nikkei Asia",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab to cut maximum take on Vietnam rides to 32% from 40%&nbsp;&nbsp;Nikkei Asia",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "CDG Zig, Kumpool join Singapore-Malaysia cross-border taxi scheme from Nov 16",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb1V0eDFPLTBISTZWOXdNWGRuQTdLNmVfbkFzTjMzVjczeTR3cUJXS0xrWXRvMi1TYklmNlpiMEtWWElrUmFXZVZpa19seFFTdlR2aXNpOU9lRGJacDhkNUdGUmhaYkpnR3JhZDBZaHdYMy10djVJaDVjZGEzQnVjNTVCb0ZvQkVzbm9hVC1PSUk0ZmVKdUVLNE1xWFk5bVBqWVBTbEFqWXNfOTVLTmNSa1hGZDRGdVdOVDBTa1BKOTJQQnJmQ1djZnJIc3VFYUVNbENKVlRCNjIxZw?oc=5",
+      "published_at": "2026-11-06T04:58:00",
+      "snippet": "CDG Zig, Kumpool join Singapore-Malaysia cross-border taxi scheme from Nov 16&nbsp;&nbsp;The Business Times",
+      "source": "The Business Times",
+      "category": "Singapore P2P",
+      "ai_summary": "CDG Zig, Kumpool join Singapore-Malaysia cross-border taxi scheme from Nov 16&nbsp;&nbsp;The Business Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
     {
       "title": "Grab reviewing incident after autonomous shuttle fails to give way to woman, child at Punggol crossing",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlpQcWRpb2FVWHZXUkNxRU5mYlhhS0NobFdpU3RVSGlad3NSSlZqTmhNendTU0d2R0hsRjA5WWNkTnhZYTl4bDVFVjNUaktaYWxDVUhMdGZ1M2p5Yy1zN0xDYVVHcGdUc2EtWENYWTJReXlsV2xsYWtqRDNFcmY5cHdnUk91QVpjUkZINWNn?oc=5",
@@ -53,19 +186,6 @@
       ]
     },
     {
-      "title": "Uber, Lyft rides from Tampa airport could soon cost 30% more",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPc21lVmVjdXhDc0VMZEJJQnFDYnRQeHBEUXNpV0M3aFRkbm9DcTBKRGZSWHR5UDNFelFBSTFjbVNWcV9sN3lVUGNpVE9USEFITnRpc0FPblVVT3gtTXAyWUpFVG45c0RTS1AySQ?oc=5",
-      "published_at": "2026-11-05T20:45:39",
-      "snippet": "Uber, Lyft rides from Tampa airport could soon cost 30% more&nbsp;&nbsp;TBBW",
-      "source": "TBBW",
-      "category": "Global P2P",
-      "ai_summary": "Uber, Lyft rides from Tampa airport could soon cost 30% more&nbsp;&nbsp;TBBW",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "You Can Now Order Uber Eats on Amazon Prime (with a $0 Delivery Fee) — Here’s How",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTloxc2ZtMkZYVDJhNG9lMzRmQUpsR1hRaE1BbHNLclVBemxSQVB4UUw4WDJmT0ZrZUJZX3FFNlk2bnJaN2JJQ0doWTI3QWxiOTh6OXQzZWZzaDIyWDFydWtXcUppTm5TUktOWDREbUw4SVUwUWQtNTZkekpSYXpxMTJOWmpMbkhHX0RKUzhTVjBJRVZ5dWN0aklYM3doRHFjaDB1Nk9iOThTTUtoSjRmdktJUGVKV2dneThNX2J3?oc=5",
       "published_at": "2026-11-05T18:49:19",
@@ -74,19 +194,6 @@
       "category": "Global P2P",
       "ai_summary": "You Can Now Order Uber Eats on Amazon Prime (with a $0 Delivery Fee) — Here’s How&nbsp;&nbsp;People.com",
       "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Waterbury Car Accident Attorney Dan Petroskey Explains Uber and Lyft Accident Claims in Connecticut",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOURfTXB1bzBKWXFLb1RPWXIzLU9uUWJRam9TSG9tV1gzZmtWLTBwYVBjc2VKX3BXaG02R3R5U05jb2V0TEI5UkU4RkdfRmhOaExOYk1LM2FsS0VHWll6cmdrSFBuNkd1SWNmZ2JYS1N2a0V0dmozZ2V2R3BZQW53eDBHd2xDTXM0ZC15b1J4VEFfOGpscjJXbnhmWDhHQ3VMWjdJRXdudTdMTTJleTBHa0hnQjg0SmstX0ctbnIyZEZjM1hTdTF5WHFsQkotbWdEWVFhbDZ6bUpXRm43dnlEZXk2MEQ0Zw?oc=5",
-      "published_at": "2026-11-05T15:00:30",
-      "snippet": "Waterbury Car Accident Attorney Dan Petroskey Explains Uber and Lyft Accident Claims in Connecticut&nbsp;&nbsp;USA Today",
-      "source": "USA Today",
-      "category": "Global P2P",
-      "ai_summary": "Waterbury Car Accident Attorney Dan Petroskey Explains Uber and Lyft Accident Claims in Connecticut&nbsp;&nbsp;USA Today",
-      "sentiment": "Negative",
       "tags": [
         "Shared Mobility"
       ]
@@ -155,20 +262,6 @@
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "ComfortDelGro launches autonomous vehicle academy to help taxi drivers reskill",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEVyOUFsTFpsR3oydGVJLTZJNjMyRTlCeDNVSUlxeGFHZHJUY1dYcWZGMWdNdUE0SE9YcVprOTdwRnRFM0hYUFdWdFh1eUpydE1salFYaWtBU0YzbXpqbl8teHljbHByd05QWEZhWEZSVnJUZVg4aUo0YUVOVGlDRW02T25NSUM0S0dmR1hreTdENWIxWHlkUnR6clVweW53T3NyaF9INTd3RUtKd2VtQjZfenBwMnVIc0RwTXYxV2lva2xsV1M2NVhzS1M?oc=5",
-      "published_at": "2026-11-05T04:48:32",
-      "snippet": "ComfortDelGro launches autonomous vehicle academy to help taxi drivers reskill&nbsp;&nbsp;联合早报",
-      "source": "联合早报",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro launches autonomous vehicle academy to help taxi drivers reskill&nbsp;&nbsp;联合早报",
-      "sentiment": "Positive",
-      "tags": [
-        "AV Fleet",
-        "Labor Elasticity"
       ]
     },
     {
@@ -253,17 +346,16 @@
       ]
     },
     {
-      "title": "ComfortDelGro Launches Academy to Train Taxi Drivers and Other Workers for Driverless Vehicle Jobs",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcDdCTlVtUXdoREo1TURIVE0xM3BrcUVBODRPY09DM2gzdnBZMGxNV1VHcFNSX18wZjF2Rm5JaWpjd1lQV1hmQkhzUkdiQm5vTko3Z0Y2bGNZdmxIaDFva2JqWlZkWjQxUl9VVnhhVzdYUUEwclo0bkUtZ2xKa2pxSERqeEp6MzcxVDlDNjFHS2thaU9sOFA3d2k3TzlDanZnUHhjdktiZTZRVVNZZlYzYUVwNnpXTjQ3TzZMZ25n?oc=5",
-      "published_at": "2026-11-04T16:35:00",
-      "snippet": "ComfortDelGro Launches Academy to Train Taxi Drivers and Other Workers for Driverless Vehicle Jobs&nbsp;&nbsp;Goody Feed",
-      "source": "Goody Feed",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro Launches Academy to Train Taxi Drivers and Other Workers for Driverless Vehicle Jobs&nbsp;&nbsp;Goody Feed",
-      "sentiment": "Positive",
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEFLMHV4Y0ZFNElIWHNCQTFvU2dhQl9yNTdfdXE1ZkQyb24xaFQtSzRPSGx4QjVFanRvdVZPU2ktRFBMNVplRkkxdzVOeVFqaFhCZjdQN0tWcXZIVGJ1MUgxMHdFUi1ubUc5bFV4Sm9KSWZMTmh4RG9PNjNUV0pnakJTRjdEYzdVdEhzYUd0UGhsbmg2UHRF?oc=5",
+      "published_at": "2026-11-04T15:58:45",
+      "snippet": "Uber only fulfilled 4 rides from AI agents last quarter&nbsp;&nbsp;The Verge",
+      "source": "The Verge",
+      "category": "Global P2P",
+      "ai_summary": "Uber only fulfilled 4 rides from AI agents last quarter&nbsp;&nbsp;The Verge",
+      "sentiment": "Neutral",
       "tags": [
-        "AV Fleet",
-        "Labor Elasticity"
+        "Shared Mobility"
       ]
     },
     {
@@ -373,19 +465,6 @@
       }
     },
     {
-      "title": "Premarket movers: Apple, Palantir, Dynatrace slide premarket; Grab, Upwork jump",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0dCNHlTYm53OGs4S1lPdGZDVC1GS1U2a05KOGgyMlJoMVdtd05qVzVrVFJUQW9EUEd3czA2cVRsaDNxT01CZXQ5WUhLR0xUcFhmVnlQTXFwdkNMdWFwOFRPZHpLbC1zYUoyV2RxTHRRTVVMaE9rNUQ1NDRDTHZkcFctYXNiSC03cEMxUi1ySTJDRmlM?oc=5",
-      "published_at": "2026-11-03T13:03:32",
-      "snippet": "Premarket movers: Apple, Palantir, Dynatrace slide premarket; Grab, Upwork jump&nbsp;&nbsp;Yahoo Finance Singapore",
-      "source": "Yahoo Finance Singapore",
-      "category": "Singapore P2P",
-      "ai_summary": "Premarket movers: Apple, Palantir, Dynatrace slide premarket; Grab, Upwork jump&nbsp;&nbsp;Yahoo Finance Singapore",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Grab revenue rises 27% to $1.1B in Q3, adjusted EBITDA hits record $237M",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkNxX0l0QTc4eU1YamJyYjJfLUduNzUxYldJOXJaZFFxbjdTRjJ5Q3JZa3E4cjlFaGtxbG1HVkNucGd4TGM0UkFVcTRjWUhZbGVhUHFJOEtHNF9JNGtxVVFjNWR2N3VkenpIeDZjSTl2OFVhRTIxdUFEMUtLMG5ib1QzM25zRVBPY01HRDNPNHpvS09KaExUN240TVA0MVM5V1lWa0RGQQ?oc=5",
       "published_at": "2026-11-03T08:52:59",
@@ -490,19 +569,6 @@
       ]
     },
     {
-      "title": "COLUMN: Did I just jump into an Uber or an abductor's car?",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZV9pY3VzTFVFSHo2bi1VR3hyN2dVbzRVSW02MXlNZ1BRdkRwQ0VaMGZDTm52T2xic3ZJR2xnU2ozZmhMZTZTVkJxa3ZPMWJEYmUxd0x1V1VWVzNsZzlrMHh4SnYxRlUyaG1OQXFFQjhlelZpSERCQ04wWUZZUnUwQmxILXVJb0poTUhDdEh3anB0U0t3ejJxOTZRLVZaUVQwTzVjN2laOA?oc=5",
-      "published_at": "2026-11-02T22:00:00",
-      "snippet": "COLUMN: Did I just jump into an Uber or an abductor's car?&nbsp;&nbsp;InnisfilToday.ca",
-      "source": "InnisfilToday.ca",
-      "category": "Global P2P",
-      "ai_summary": "COLUMN: Did I just jump into an Uber or an abductor's car?&nbsp;&nbsp;InnisfilToday.ca",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Meta's Muse launches in Singapore",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWnQza2hoWV9hQjh4TGFJdkNqby1oVU5iLUp4Mk9qNk1NU05Ub1prU0dHOHZFb0t4WldlWkRFQ21EbXBCNzlLWFk4ZkxnTTNnWFNScU1uRlNRNXpVYk4wMXRheDdYT1ViYk1LZTFOOWQ0TF9GYkxPdlR3REptdDUwbQ?oc=5",
       "published_at": "2026-11-02T11:08:45",
@@ -573,32 +639,6 @@
         "systems_efficiency": 85,
         "policy_friction": 65
       }
-    },
-    {
-      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkxkVzBBRTBPR3duY2xUaC1aeVpTYjAzOWQtcWlweEVDY1B5cjNDRjRXMFdmR29GaFFhM3lCcVh3WU5nM3oxWkdyYkk2SGV0bDJodElZT1puRm8zak85WlRJUFBTbV84cElDXy1oM3c0YXM0bUtoWEtHSFFTLS1TdUNXbFRFRHdLUUoyOC10WDI3LUdpYWZDektoQl9zY05xYUVrdE5VbF9EZ3l4M3Zr?oc=5",
-      "published_at": "2026-10-24T07:00:00",
-      "snippet": "Instacart reportedly discussed selling itself with DoorDash and Uber&nbsp;&nbsp;Yahoo Finance",
-      "source": "Yahoo Finance",
-      "category": "Global P2P",
-      "ai_summary": "Instacart reportedly discussed selling itself with DoorDash and Uber&nbsp;&nbsp;Yahoo Finance",
-      "sentiment": "Neutral",
-      "tags": [
-        "Strategy"
-      ]
-    },
-    {
-      "title": "Instacart jumps 10% on report of potential sale to Uber or DoorDash",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVN6Tmh3a3p3cFJPQTYwS1RGbDZPaGpzMVh3OUEweHFYZ3ZobDNUenBKWERVZjA3THNXaW5zSG04VGR1SXFzbVVoZ2RNMGVBdlNjUE05UFo4dm93bDF0b1Z0dHlrc1NfY3BjVTZBRnlNeWYtM2tTRlcxSjl6Q213UUVwc0VOM1I0RTd4SDM4ejZxUVdBTGVNYk1vV3JTMm9taHc?oc=5",
-      "published_at": "2026-10-23T07:00:00",
-      "snippet": "Instacart jumps 10% on report of potential sale to Uber or DoorDash&nbsp;&nbsp;Yahoo Finance",
-      "source": "Yahoo Finance",
-      "category": "Global P2P",
-      "ai_summary": "Instacart jumps 10% on report of potential sale to Uber or DoorDash&nbsp;&nbsp;Yahoo Finance",
-      "sentiment": "Neutral",
-      "tags": [
-        "Strategy"
-      ]
     },
     {
       "title": "Instacart in talks with DoorDash and Uber for sale, The Information reports",
@@ -678,26 +718,6 @@
       "tags": [
         "Electrification"
       ]
-    },
-    {
-      "title": "Uber Announces Date of Third Quarter 2026 Results Conference Call",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlp1UDl3YkQwMUZyazc4RDYyZGlYNXFsanpLOVFEaVNtdGZWQ0tPZkllTkZ6alNrN3gtaXJVQXNLdkdGMTRTUjl0a3ZDRGdRMmpvb05zWEV6ZUpoMThJSklVOEYwQWFpTHE4UEdON2JtVmVzN0ZCV2FhM0RGTWswdmpVRGlrSURvUlBjYWRuQ0tpZ0VtRE9XNk92RFpmNzQ?oc=5",
-      "published_at": "2026-10-05T07:00:00",
-      "snippet": "Uber Announces Date of Third Quarter 2026 Results Conference Call&nbsp;&nbsp;Yahoo Finance",
-      "source": "Yahoo Finance",
-      "category": "Strategy Decks",
-      "ai_summary": "Uber Announces Date of Third Quarter 2026 Results Conference Call&nbsp;&nbsp;Yahoo Finance",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ],
-      "academic_analysis": {
-        "systems_impact": "Maximizes vehicle utilization rates through autonomous partnerships but heavily spikes local grid peak charging loads.",
-        "methodological_assumptions": "Assumes municipal city councils will allow unrestricted robotaxi geofences without high licensing surcharges.",
-        "professors_critique": "Highly efficient dispatch paradigm that completely minimizes deadheading, yet is extremely vulnerable to municipal blockades.",
-        "systems_efficiency": 85,
-        "policy_friction": 65
-      }
     },
     {
       "title": "'Money-grab' or celebration? NFL kicks off London series",
@@ -788,6 +808,19 @@
       "sentiment": "Neutral",
       "tags": [
         "AV Fleet"
+      ]
+    },
+    {
+      "title": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanI3bi1HRzRqbDJnWXo0NmFfV0R3SXJvVVppUnVuRzduS3BGZVNjNVhmWl90VktsSVhhOThabklQWE1sR3BSNHpfd0ExdGVDNFVkSEU2OTFRaEh1QzR4aVA0LVhFM3V4UnhUaWMwanFXRjZIM2NVd2F1M0M0OWU1dmtpejJxS01CVXRQVEJzWDYyTy1mLVpKaNIBrAFBVV95cUxOdU5jaldJNHFENnNiZktuRk9WaXZmcUFtZ2pYRjJOaVYzR21VUkI2UkJrekNxaVVpOUU1TTkwcUl6d0RqVnhKeThxdVVVeFlpRmVDWks3ZW9BNTladUd5OUpUMEM0S0NIYmF5VXVFMXVrZVZ1R1VTSmpvd3I2LVFYVVNSQ0w2VDBuc1NDMUVYVkRXSi1tNFBJQkkzbVBSejRlRDRmeVVXNzdsa2xD?oc=5",
+      "published_at": "2026-09-02T07:00:00",
+      "snippet": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know&nbsp;&nbsp;WAFB",
+      "source": "WAFB",
+      "category": "Global P2P",
+      "ai_summary": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know&nbsp;&nbsp;WAFB",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
       ]
     },
     {
@@ -902,6 +935,19 @@
       ]
     },
     {
+      "title": "In pursuit of progress: Americans’ aspirations for economic mobility",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUE5RZC1DYlJ6TXRKYzVDeks5RmIwbVZVZHJlY203enVqV2JxcVptMjdtQ19PX0Y5aEtrVzRsZGc5alFGRWJPZFVCRURJeXEyU0Rta0lzNEQwQjl1WHlNTUJqMHE1QjZxcThva1pWeXRhVDh3XzRlNkpTdmxOT2lvSzZuclVEUXRrendEZURzMWZTdmMyaHRjYTBhMGRIXzAwaVp5OUNFNDlxLW9FTTFvVHNJSGhXOV83ZmtFN216bTJpVFpLTERRLXBPSnZKX2JqM1E?oc=5",
+      "published_at": "2026-08-05T07:00:00",
+      "snippet": "In pursuit of progress: Americans’ aspirations for economic mobility&nbsp;&nbsp;McKinsey & Company",
+      "source": "McKinsey & Company",
+      "category": "Consulting Opinions",
+      "ai_summary": "In pursuit of progress: Americans’ aspirations for economic mobility&nbsp;&nbsp;McKinsey & Company",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
       "title": "Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON2VHNm8wa0tkekV5X1RYeUQ3NmlkRGVBSjcyZ2loTENNRUlLc1RLS2J0UG5Rb2JxMlJrTWg3ZVVHNHdBUWZ3M3ZtZjlJTTNmMkRfbGctSTZZQXpYdUNYRVBia3ROcDEzWVpLVUw0MjBqUnB3eUJvbnEzMWdKY011STFtWQ?oc=5",
       "published_at": "2026-08-04T07:00:00",
@@ -909,19 +955,6 @@
       "source": "The New York Times",
       "category": "Global P2P",
       "ai_summary": "Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’&nbsp;&nbsp;The New York Times",
-      "sentiment": "Neutral",
-      "tags": [
-        "Strategy"
-      ]
-    },
-    {
-      "title": "In pursuit of progress: Americans’ aspirations for economic mobility",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUE5RZC1DYlJ6TXRKYzVDeks5RmIwbVZVZHJlY203enVqV2JxcVptMjdtQ19PX0Y5aEtrVzRsZGc5alFGRWJPZFVCRURJeXEyU0Rta0lzNEQwQjl1WHlNTUJqMHE1QjZxcThva1pWeXRhVDh3XzRlNkpTdmxOT2lvSzZuclVEUXRrendEZURzMWZTdmMyaHRjYTBhMGRIXzAwaVp5OUNFNDlxLW9FTTFvVHNJSGhXOV83ZmtFN216bTJpVFpLTERRLXBPSnZKX2JqM1E?oc=5",
-      "published_at": "2026-08-04T00:15:48",
-      "snippet": "In pursuit of progress: Americans’ aspirations for economic mobility&nbsp;&nbsp;McKinsey & Company",
-      "source": "McKinsey & Company",
-      "category": "Consulting Opinions",
-      "ai_summary": "In pursuit of progress: Americans’ aspirations for economic mobility&nbsp;&nbsp;McKinsey & Company",
       "sentiment": "Neutral",
       "tags": [
         "Strategy"
@@ -1116,45 +1149,6 @@
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Cross-border taxi bookings start on Grab app; fares vary based on time of day, distance",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcEZZN1FaTFkwUFIzQ1RsVVo4NXFtMmtzWWV3dlRMQVhnblZ6ZktsS3dLajBsdkE2WGQ4TFExRVVnUUpqMzc3bnlUZndyMDFNV0N2VnFvRUw4OWp5RUF4YVlMakRwNUlnVWFMQmlwMXBrUkpjc0NCdVRYTHVrWWZUXzhQdHFsWVFTdmJoZXBHZXlPQUl6Z3ppM1hoUWQ0bHJpbHVVQkQ4NThSQTN0aUY1ckVHWDkzSXA2d00wRUpfSVEzWG9wLWdWTGNRWTQzS28?oc=5",
-      "published_at": "2026-05-04T07:00:00",
-      "snippet": "Cross-border taxi bookings start on Grab app; fares vary based on time of day, distance&nbsp;&nbsp;The Straits Times",
-      "source": "The Straits Times",
-      "category": "Singapore P2P",
-      "ai_summary": "Cross-border taxi bookings start on Grab app; fares vary based on time of day, distance&nbsp;&nbsp;The Straits Times",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Grab receives the first Cross-Border Ride-Hail Service Operator Licence and will soon pilot a new cross-border taxi booking service",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQUYzZnVBUHp2LTN1WnZteXMtUVlRMHd4emlqVHdDZF9uYWRNUFE2N0NBU2R1VVZpaG5JQnJ6RklqLVJRSmZ0aVEtYUw1SHdzbXRGQTQxX1BSSm5RM3VJUXRVS2daVXhDc2NaVThObFZxWWN1UnNLaTRTYXR0U08yb2FnVkVUZWlkN2dYaTQ5TVRLM01aNFRkNFZzdUlTakl0UDRnVkZzUkhlYUlnVmtDRUEwNHBjS19pOXhUZkRXWjRDWmZTYm9STWozNzZCandMNnptZjB0NG52QjFueDkzbnhJVkhNVTBiRlJ4T0NIRzQ3eVdOT2R2eXl5MDE0dw?oc=5",
-      "published_at": "2026-05-01T07:00:00",
-      "snippet": "Grab receives the first Cross-Border Ride-Hail Service Operator Licence and will soon pilot a new cross-border taxi booking service&nbsp;&nbsp;Grab",
-      "source": "Grab",
-      "category": "Singapore P2P",
-      "ai_summary": "Grab receives the first Cross-Border Ride-Hail Service Operator Licence and will soon pilot a new cross-border taxi booking service&nbsp;&nbsp;Grab",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Grab gets first Singapore-Johor ride-hail licence as ‘anywhere’ drop-off rules kick in May 4",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUlUwdW9QQnozV3ZvSHdwMGt6TjdJR1JkR3ZOak93N3huYXlGcXZ2eWFUdm9YeEt5M0FVMHFLYnVON2toMmpCUDNxOFh6cnFYcFpndzNhOHp4RzBaa2cxYm1ndm9UZDdteFZZb0xLUTJSc1NKU2FucHkwQ3JLWkwwSE5Ickx3WmFqSFdZQXpzQWROakdySXNOZHBfZm55SGVRc2pKN2pmN2pfa0JVQUxtMjJvWWVJaktIOUx0UUxKODVpemRsaDdxOVk5ZDZOV3Z3ZnBQRTdEa3E5a2RMNF9OaURmMC1fQQ?oc=5",
-      "published_at": "2026-04-30T07:00:00",
-      "snippet": "Grab gets first Singapore-Johor ride-hail licence as ‘anywhere’ drop-off rules kick in May 4&nbsp;&nbsp;The Business Times",
-      "source": "The Business Times",
-      "category": "Singapore P2P",
-      "ai_summary": "Grab gets first Singapore-Johor ride-hail licence as ‘anywhere’ drop-off rules kick in May 4&nbsp;&nbsp;The Business Times",
-      "sentiment": "Neutral",
-      "tags": [
-        "Regulation"
       ]
     }
   ]
