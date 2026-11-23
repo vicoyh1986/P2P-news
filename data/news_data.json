@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T04:44:19.315240+00:00",
+  "last_updated": "2026-11-23T05:22:27.961705+00:00",
   "ai_active": false,
   "executive_brief": {
     "headline": "Systems Dynamics of Global Shared Fleet Operations & Curb Economies",
@@ -26,6 +26,19 @@
   },
   "articles": [
     {
+      "title": "Uber is gone. What driving for Bolt or inDrive in Lagos involves in 2026",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVVZbVNGVWZwSEUyS2FGSXNTaW1NYVlsTTRKUUhPdXNXcGdWaWYzVUx4QnI2bVVvWU1WMndCTEV2T1dTOEhUZ2xrWnNaRjZyWnFjQVBzY2tjLThMRkc2ZnlxaEhvVDcwSVZPMnoxY0NmaTNYM2VCVmJXRy1WRU5nZHozQVY5V0hDUDVyLXduR25kc3hLWlZkUjVUNTdLUTItY0E?oc=5",
+      "published_at": "2026-11-22T19:20:01",
+      "snippet": "Uber is gone. What driving for Bolt or inDrive in Lagos involves in 2026&nbsp;&nbsp;TheRadar",
+      "source": "TheRadar",
+      "category": "Global P2P",
+      "ai_summary": "Uber is gone. What driving for Bolt or inDrive in Lagos involves in 2026&nbsp;&nbsp;TheRadar",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
       "title": "Forget Grab, This Drunk Boyfriend Gets A Wheelbarrow Ride Home With Pillow And Blanket",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wX1Q2STdscjM4SnBIbmpkTlRoeUJiaEs1WGJtalFoeHZ2aXh6X0I0a3lySU4yY21tTVc2cG9SdGFOU3JZSGdXbGJtaUJYQ2dpZVNOVGxyczhZM3dQa2dyTA?oc=5",
       "published_at": "2026-11-22T01:00:44",
@@ -36,32 +49,6 @@
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Connecticut Riders Can Save $15 on Uber and Lyft Trips This Holiday Season",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ1NHRFVnVVF2NnNCdk5kVFF2YnROY29BekFKbThPckhJMEQwUEVBNnE3aGJERXJzTXlpQWFuRDBEcTNZbkQ2Y1MxeE9HN2tURnhTZEZnNEc5VGp0ZWZQSkEzb1VidDg1TUphNzFaQ0M2WS1EdVA5Z09Bd1VGdFpEbl9uUGVOVi1LblY0Wk05NmotdDBYTkZDQVNRMnI?oc=5",
-      "published_at": "2026-11-21T22:20:28",
-      "snippet": "Connecticut Riders Can Save $15 on Uber and Lyft Trips This Holiday Season&nbsp;&nbsp;deeparrival.com",
-      "source": "deeparrival.com",
-      "category": "Global P2P",
-      "ai_summary": "Connecticut Riders Can Save $15 on Uber and Lyft Trips This Holiday Season&nbsp;&nbsp;deeparrival.com",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Connecticut offers $15 Uber, Lyft credits to prevent impaired driving during holidays",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMDJPaHRXYjhiaWsyRUJuY2s3c1ZXcGQzdzNpRkJxdzB4cWxjSFoyaGNhNC1DYTVlWkRWTWdLMXVZUFkxZDJRazhDeGJYM3pCQ2ZFLUw0eTFyYlA4OTVPQWkxZHBlR0pCLUk1RGRNNWJkR19IaUl0Z0RGVEw1anU3S19aemhVWFdLcklTRngzY01ubTdyRnluYmRVdnBEeDBHVzNPNDc4XzN0RXI5SlBQSTQ3cTd2ZjM3QUszZ01RMnFsNjdveE9uWksya25YYU3SAdcBQVVfeXFMUElQakJCSnpZOFdhd0FaOVV2ZGpGcGR1UHgyaUpUUkdEYURfOThURm9jUEFlWks2RHBIVmU3MUw4MUZIQjd3Y0o5M2wwTVFoNlg5ZnZIVVNPc0p6UVd4UGNOUmRQbGpnQnppQnd0SHB0WTlPZXdZQ3VMeGFaVy1ncmhOZlpEOGp0cmp4TUlPN1VVcjJVMFN6ejJWRnZiNGd3RU1qeTEzS1hTNW56eFFzVGtQOGd5NVBIV28yVURXbVc2ZjZOdXBYNWJ0T0hnM1pITU1WV1ZNSTQ?oc=5",
-      "published_at": "2026-11-20T22:13:53",
-      "snippet": "Connecticut offers $15 Uber, Lyft credits to prevent impaired driving during holidays&nbsp;&nbsp;NBC Connecticut",
-      "source": "NBC Connecticut",
-      "category": "Global P2P",
-      "ai_summary": "Connecticut offers $15 Uber, Lyft credits to prevent impaired driving during holidays&nbsp;&nbsp;NBC Connecticut",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification"
       ]
     },
     {
@@ -105,16 +92,16 @@
       ]
     },
     {
-      "title": "Advancing US economic mobility in the age of AI",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbEhpWVZzZkVVa1VpWENQME5GMVVmaUI5a2xMYWZsZy1NX3NuY3g4V3ZzTllQM3VpMVJGQk83MW81SVo2NHZRcUltd1VMQ2pPNzBSZWlpcUNWbGd0YmNEMWNZeGU3dTd5N3JodUxtaGI5a2tEUmJqRmVYeGdWVEpDUHdQSGFZSE52di0xRXRyTFdzMjAyN1VJbkNmVG1nU0VIY1VHUm5mdFlkdEc1b2tEZlBJR1o2TzVG?oc=5",
-      "published_at": "2026-11-20T00:00:00",
-      "snippet": "Advancing US economic mobility in the age of AI&nbsp;&nbsp;McKinsey & Company",
-      "source": "McKinsey & Company",
-      "category": "Consulting Opinions",
-      "ai_summary": "Advancing US economic mobility in the age of AI&nbsp;&nbsp;McKinsey & Company",
+      "title": "Grab a coffee from Chery in Ubi",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxeTR1SVhjLTBXSEtoeGtuaWw4WlBHN3FEZDFZTy04cXV6VFV1U1NxdXYyN01zcWYzeWtZTnpJVlR5amlnV09SZ3QwUmxFcFlZRWRPTnZRNFpYdHREZUxJZGFYWGQtRTVJcVhLY2VkcDQyYXYyVVFpUEdGeHFEV3M?oc=5",
+      "published_at": "2026-11-20T03:22:00",
+      "snippet": "Grab a coffee from Chery in Ubi&nbsp;&nbsp;The Straits Times",
+      "source": "The Straits Times",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab a coffee from Chery in Ubi&nbsp;&nbsp;The Straits Times",
       "sentiment": "Neutral",
       "tags": [
-        "Strategy"
+        "Shared Mobility"
       ]
     },
     {
@@ -131,6 +118,19 @@
       ]
     },
     {
+      "title": "UBER or LYFT: Which Stock Looks Stronger After Q3 Earnings Results?",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdm5LZWdDenpBM2czN2Y3QVdVSU5jUkJRNm5pbEJLV1AzWWxkUThBT0ZZLUthT2xfOGs3MUhDYXZxN1YycGtKWWtoVUtVSTBLdTRaVWJVZTJ6Wk5zR3Q3SktZUmtVREo4UkNIaHF4UjAwdTJiLTRVdkM4S1piRXZxV1luWE5qZGdMb2ZCazUyaGhHaTdxdF9CZUp0NA?oc=5",
+      "published_at": "2026-11-19T15:14:00",
+      "snippet": "UBER or LYFT: Which Stock Looks Stronger After Q3 Earnings Results?&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "category": "Global P2P",
+      "ai_summary": "UBER or LYFT: Which Stock Looks Stronger After Q3 Earnings Results?&nbsp;&nbsp;Yahoo Finance",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
       "title": "Vietjet and Grab co-brand travel products",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOThnMXlqeFhDZWplS29QV0lwY3cyMlA3QXdPZDRRRVdpRXJDRXVxQ2xYVVBkY2cxbDRTMW16aG90Z2ZDanZnX0RyN0h0ZnlxeXJ0d1c5S1lZT3had1hsM09YZUFwb0xiNmJQUFRpenVZVEU1emFCSWRKdzF3NnJBTExrSHN5U253?oc=5",
       "published_at": "2026-11-18T22:15:00",
@@ -144,31 +144,16 @@
       ]
     },
     {
-      "title": "Grab, Weixin Pay Plan to Let Travellers Claim Vouchers Before Arrival",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QRnJSMXBqejdhTW9yb3YzX1lUVFliMWIxRUY3OWZuNU5IQU05ZWIySzZDN19lM1ZoWlNDbFY4aXVzMU5xU2E1WVl0NHRFVG1OMkFGSkNDRW4xR19QMW5fbzh1M0NsYkxrZUdEaS1xcTJ4QUR5dzROVXRsQQ?oc=5",
-      "published_at": "2026-11-18T08:36:21",
-      "snippet": "Grab, Weixin Pay Plan to Let Travellers Claim Vouchers Before Arrival&nbsp;&nbsp;Fintech Singapore",
-      "source": "Fintech Singapore",
+      "title": "3 Singapore blue chip stocks near 52-week lows. Which warrant a closer look",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05THhNVndmNTJIUkVhVHFZcnNxSkgwLU8yNVpWX2VPdHZ6VEhqUHNtRHdvNnJMc3pWWWdSYk0xLWNvM1U0U00zelBMeEdxWkhOb3V5VlNrWEYtcjM1cTBkWTA5S3pNdktacjBXN29wZzVjNkE?oc=5",
+      "published_at": "2026-11-18T09:31:26",
+      "snippet": "3 Singapore blue chip stocks near 52-week lows. Which warrant a closer look&nbsp;&nbsp;Beansprout",
+      "source": "Beansprout",
       "category": "Singapore P2P",
-      "ai_summary": "Grab, Weixin Pay Plan to Let Travellers Claim Vouchers Before Arrival&nbsp;&nbsp;Fintech Singapore",
+      "ai_summary": "3 Singapore blue chip stocks near 52-week lows. Which warrant a closer look&nbsp;&nbsp;Beansprout",
       "sentiment": "Neutral",
       "tags": [
-        "Labor Elasticity"
-      ]
-    },
-    {
-      "title": "Weixin Pay, Grab report several-fold growth in Singapore",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFI1NF9URURjemRrT1kwN0dVeERyVGZxWkprVl9sVGJnVldlVVNXTWRvWEE1ZmljZldTQ2ZXQU1SblljMDVQbTZTQTFTeTdveHV6Vl9ZQ3JJamNranplcHVESjB2YTgwcmhmV0NIb1BZQ1JxSTR6YVZzSVdja08tMUxjUXVuZVMxTi1IZGVOQ0YyU21ZRHc?oc=5",
-      "published_at": "2026-11-18T07:55:52",
-      "snippet": "Weixin Pay, Grab report several-fold growth in Singapore&nbsp;&nbsp;TNGlobal",
-      "source": "TNGlobal",
-      "category": "Singapore P2P",
-      "ai_summary": "Weixin Pay, Grab report several-fold growth in Singapore&nbsp;&nbsp;TNGlobal",
-      "sentiment": "Positive",
-      "tags": [
-        "Electrification",
-        "Strategy",
-        "Labor Elasticity"
+        "Shared Mobility"
       ]
     },
     {
@@ -185,6 +170,19 @@
       ]
     },
     {
+      "title": "ComfortDelGro to offer cross-border taxi rides around the clock to JB from Nov 23, Singapore News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1lhdnQtMHF3aWNLOFoxd3RSNndiLWVDU093bjgtaXBRNFI2NU45cHc1MnY0a1pzVXFDMFRZcDd6RG5qQ2NJMVhITUZNWnQ3M0VNcmZmTHNyejFSSWNYemVLcXZJdEM4MjhTWUpuYjdCUzB6ajFLZV85UVhqWk9lRHBoenBjdw?oc=5",
+      "published_at": "2026-11-17T06:39:00",
+      "snippet": "ComfortDelGro to offer cross-border taxi rides around the clock to JB from Nov 23, Singapore News&nbsp;&nbsp;AsiaOne.com",
+      "source": "AsiaOne.com",
+      "category": "Singapore P2P",
+      "ai_summary": "ComfortDelGro to offer cross-border taxi rides around the clock to JB from Nov 23, Singapore News&nbsp;&nbsp;AsiaOne.com",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
       "title": "Travellers can book taxi rides to JB round the clock from Nov 23 on ComfortDelGro app",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQellrWU80Wm1TMmRDVjRiYzdISy0yVnBmNWEwNy0yUkxOWDlqRzBUSXJVYnh4WHZ3M2RSeWlfVGk5d3ZMQmNoUVdZcmdxTXFjWHJmYm9JblpXY0ctRHFGTmZhV2drWGJOdFlPYlBWc1lkQkhQZVBESHlHTzdqanRtSFp6QWpDSjVsemxrN3pmeGdGUjBnbm93OVQ3S3JLb095dnNJY2hYcXB4WXRqTjNJRE1YY19GWGM0YW1SQll4UGQ4YWtqdl84UUd0ZW12SWpBSklGbEdRZzZjQQ?oc=5",
       "published_at": "2026-11-17T03:20:00",
@@ -195,65 +193,6 @@
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Grab: Dominant Market Position Drives Rapid Q3 Growth (NASDAQ:GRAB)",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONTV6c2NtbkJGb2YzR3J2MXRkWTUxY09abUhUT293SDRoYmZickNPYzNVczNWNEZKbUtRLXJfNWdPRW5SYWx0WVpSS29veGNyVzZnMzdKWFB3c05OeXNVRFZZdUxhbnh3Y1I4RFFtU09wV0k3OFBvZzhvSGpOV3R2b190UWxvUGlBb1RyVnNYc3dhaEgtN2ViUA?oc=5",
-      "published_at": "2026-11-15T14:44:53",
-      "snippet": "Grab: Dominant Market Position Drives Rapid Q3 Growth (NASDAQ:GRAB)&nbsp;&nbsp;Seeking Alpha",
-      "source": "Seeking Alpha",
-      "category": "Strategy Decks",
-      "ai_summary": "Grab: Dominant Market Position Drives Rapid Q3 Growth (NASDAQ:GRAB)&nbsp;&nbsp;Seeking Alpha",
-      "sentiment": "Positive",
-      "tags": [
-        "Shared Mobility"
-      ],
-      "academic_analysis": {
-        "systems_impact": "Integrates financial tech with multi-modal dispatch, lowering passenger friction but increasing double-parking density.",
-        "methodological_assumptions": "Assumes auxiliary digital services can subsidize driver vehicle maintenance costs during market supply crunches.",
-        "professors_critique": "Strong localized network effect but remains highly dependent on private vehicle ownership structures.",
-        "systems_efficiency": 78,
-        "policy_friction": 45
-      }
-    },
-    {
-      "title": "‘Why so rude?’: Actor Shaun Chen shares video of Grab rider who shows his middle finger",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQThoWTB6NXZTQzZ1NFJheXhQRjFwN25uWm1wOVpuRzgwV1RqSU5GdlV1c0kwU3RRZERMZXN5c2VKTEJwdk1DYWFlNlF0bVNuX01LQmhORmhtQ0ZyaHVXZVVJcE9mM1BrcjR4VFFtcmJ0UmlyOXEzVWI0ODkyQU00aHVjM1VrQzVhWXY5YzQ2OU5XZmNtem5VNkhmY3dSc0QzbnA4OFVQVV9IQTdLalhFbzJpSkFrdXhHSENGcmpQRGRKNnNuZlhEbWNpUQ?oc=5",
-      "published_at": "2026-11-13T08:00:00",
-      "snippet": "‘Why so rude?’: Actor Shaun Chen shares video of Grab rider who shows his middle finger&nbsp;&nbsp;The Straits Times",
-      "source": "The Straits Times",
-      "category": "Singapore P2P",
-      "ai_summary": "‘Why so rude?’: Actor Shaun Chen shares video of Grab rider who shows his middle finger&nbsp;&nbsp;The Straits Times",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "ComfortDelGro 9M net profit falls 20% to S$141.1 million on weaker taxi and private-hire earnings",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHExem1YWmluV3RTNmhsZE9TQVp3VVk2UmtSUWk0ZlR0MXRjeXZ6NURzNVBkR2xfczZMekJmY0lZTGV5RnByd2VKN0VJS3VOSEFXa0tnV3FiNWZLRjREMjBQWDdVS0tkbmFZa29vcjF1ZHRXa1R0NFdHX1l3N2c0TTdabzVkWUNJeDBVOHZFaFVYU0V3Y3V3N3AtUjZrTDZxWVBuRV9JYXdNWmxJMWtLXzRpWEtISlNFMmJlblUwMlpTWTBUUTl4V3JPVzRJYlNLd0t5elE1UQ?oc=5",
-      "published_at": "2026-11-12T08:00:00",
-      "snippet": "ComfortDelGro 9M net profit falls 20% to S$141.1 million on weaker taxi and private-hire earnings&nbsp;&nbsp;The Business Times",
-      "source": "The Business Times",
-      "category": "Singapore P2P",
-      "ai_summary": "ComfortDelGro 9M net profit falls 20% to S$141.1 million on weaker taxi and private-hire earnings&nbsp;&nbsp;The Business Times",
-      "sentiment": "Positive",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
-      "title": "Rural healthcare and America’s $340 billion workforce earnings opportunity",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRllhX1lGNGpUUjNQQjNwWFNheUZZNUZZUUxqSjR5a3Nfb21oZjFvbVVkYldRRDVVZjMtMFZMLVV4MG5KTnJyTnNtUkRfcUxLSjJsdTZ6aG5WUlNRYzNxNU51M1A3M0Q3VTVFNzJmeTdkRDBlNEZJNTg2LU8zM09kdE41NXhMcHZIcU9FdEljV3R6ZGhsNGtBSWoySV9wQmtYRGNXeU53dzdyUFdMYUR6UElwZDRIdFc4NU13Qjh5SmxSTnl6N3oyZ0J4Zlhpdm1FZF9WTEIycjJrb1BtaEVjRk16VQ?oc=5",
-      "published_at": "2026-11-12T08:00:00",
-      "snippet": "Rural healthcare and America’s $340 billion workforce earnings opportunity&nbsp;&nbsp;McKinsey & Company",
-      "source": "McKinsey & Company",
-      "category": "Consulting Opinions",
-      "ai_summary": "Rural healthcare and America’s $340 billion workforce earnings opportunity&nbsp;&nbsp;McKinsey & Company",
-      "sentiment": "Neutral",
-      "tags": [
-        "Strategy"
       ]
     },
     {
@@ -332,19 +271,6 @@
       ]
     },
     {
-      "title": "Cold Lake pushes for provincewide ride-hailing regulations",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOblpQTUVxT2pEQ2ZWOG9SZlNKMXd1RXdwZ2VqZktyaDN5QXlZTXFpeXVOUmdLcWFocXk2LVQ1WGxodUhYYVRmaTlxbHJobnpNVWxBV0dqNnljWnpZREdEU2VrUlgtbzFKU0Yya0pZTzVSTkktOGNqM1ZjWHhoQXF3YTVhM25NYnBOMnc?oc=5",
-      "published_at": "2026-10-31T07:00:00",
-      "snippet": "Cold Lake pushes for provincewide ride-hailing regulations&nbsp;&nbsp;CBC",
-      "source": "CBC",
-      "category": "Global P2P",
-      "ai_summary": "Cold Lake pushes for provincewide ride-hailing regulations&nbsp;&nbsp;CBC",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ]
-    },
-    {
       "title": "Turo vs. Traditional Car Rentals: The Pros and Cons of Booking",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wQVpvTmlJWDB1NlFwcmFTNnZTaDdDcnF6bW1KNVV0UGNxeFYyaVZlLWlJaEtBTkJaeVFFUjNCVzZRUlBXZVUwMWtxS0ZuT2xpUWl6OFNmNzZaaEtKcHNNTWViTXJfSnRSQkE?oc=5",
       "published_at": "2026-10-29T07:00:00",
@@ -396,19 +322,6 @@
         "systems_efficiency": 85,
         "policy_friction": 65
       }
-    },
-    {
-      "title": "Could Uber or DoorDash soon own Instacart? Here’s what we know so far",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEtsZnpOZXEtN01QblhsUk9TdW5YcjBkbTMzTEN3Z0FlT3V1aURYU3lBSkZsRlhKd1pWVEFiUjlpTjdFWVdGS0J5dEhGM194cm1nRUxfbWRtdlE5bTQ3Y3U0RDJubGFzZGlLVDc2LUw5UTdfbmZtRko0SFo4aUUydjI1NTJ4ck95QmRXQU1odml0WGNNWWV6c0NzV01MSHZCcGJ1U0xOZWd2Q0I5ckZOYdIBxAFBVV95cUxOZ2t2T0dZbkN1RG5vSmhfcHlMcHVCR1REbVlBcnVraFBQMlJQSGEyYlpkb1I3VzQ3WVotSEE1YUNNd2planhYWmFFcnFsZjM1ajg0SEdWWjFMNjVqX0l2OUxXZloxQWY5b0Utd3lLNW80V1FyaFdDZlpscmpXb3lKUDhUM3JEdFNtcnlWeWFxRXJCZi03eFMyYldKS3R0cDIwczVpX3lxVXlvT0drU0JtOFlkVDZMZWF0T0VsTFJaQ25LZDdq?oc=5",
-      "published_at": "2026-10-26T07:00:00",
-      "snippet": "Could Uber or DoorDash soon own Instacart? Here’s what we know so far&nbsp;&nbsp;Cleveland.com",
-      "source": "Cleveland.com",
-      "category": "Global P2P",
-      "ai_summary": "Could Uber or DoorDash soon own Instacart? Here’s what we know so far&nbsp;&nbsp;Cleveland.com",
-      "sentiment": "Neutral",
-      "tags": [
-        "Electrification"
-      ]
     },
     {
       "title": "Uber Eats Delivery Habits Survey Sweepstakes Official Rules",
@@ -509,30 +422,37 @@
       ]
     },
     {
-      "title": "Uber says it can replace car ownership. My used Toyota Yaris proved its point.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGRPWjhCbXBvVWU2c3JOR2thTlk5d0luNnFHOTF0Zkx6WEhxa01Wb0wtS2YxS0Q3Umg5QWJmdHU5X0JTT0dTRkRzM0pydThQM1JHamdnb1Z4OXVmSWhQazNXZktFTFFPVHpGZF9JMFJ0WWFKRXNqYjYycDBNby1RcWlIdlF1aENqZWpmSkJTWWFfSHd2bGNJaHNB?oc=5",
-      "published_at": "2026-09-05T07:00:00",
-      "snippet": "Uber says it can replace car ownership. My used Toyota Yaris proved its point.&nbsp;&nbsp;Business Insider",
-      "source": "Business Insider",
+      "title": "Best credit cards for Uber and Lyft in 2026",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zTERldEQ4SXBWVlBUNE1ORTZ4cHJaWTBEQlAxVFd1RzUtb0t6Tl9STlIxMzdvTWNSekhvb2FNb3lHOTB4UV9xM085aUNoNC1OOWRKT1JyOGZBaFJLOWpvbWZ4SjRjaEZSUXRMSDluVlVITXPSAXhBVV95cUxOWkNHclExdlctVFU5dWxGaF81Z2t3QllYNzNHeHN0U1l3WVRzb0JYTEVmcWxtVnVUTkFEV1NzODlYSXdrWF9JTm5aWGxEby1HTzFTVktQbnFKTmtMSjFKbUhxcE9kSWc3MFcxLVJJY0NqQnY0WDJBSTM?oc=5",
+      "published_at": "2026-09-02T07:00:00",
+      "snippet": "Best credit cards for Uber and Lyft in 2026&nbsp;&nbsp;CNBC",
+      "source": "CNBC",
       "category": "Global P2P",
-      "ai_summary": "Uber says it can replace car ownership. My used Toyota Yaris proved its point.&nbsp;&nbsp;Business Insider",
+      "ai_summary": "Best credit cards for Uber and Lyft in 2026&nbsp;&nbsp;CNBC",
       "sentiment": "Neutral",
       "tags": [
         "Shared Mobility"
       ]
     },
     {
-      "title": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanI3bi1HRzRqbDJnWXo0NmFfV0R3SXJvVVppUnVuRzduS3BGZVNjNVhmWl90VktsSVhhOThabklQWE1sR3BSNHpfd0ExdGVDNFVkSEU2OTFRaEh1QzR4aVA0LVhFM3V4UnhUaWMwanFXRjZIM2NVd2F1M0M0OWU1dmtpejJxS01CVXRQVEJzWDYyTy1mLVpKaNIBrAFBVV95cUxOdU5jaldJNHFENnNiZktuRk9WaXZmcUFtZ2pYRjJOaVYzR21VUkI2UkJrekNxaVVpOUU1TTkwcUl6d0RqVnhKeThxdVVVeFlpRmVDWks3ZW9BNTladUd5OUpUMEM0S0NIYmF5VXVFMXVrZVZ1R1VTSmpvd3I2LVFYVVNSQ0w2VDBuc1NDMUVYVkRXSi1tNFBJQkkzbVBSejRlRDRmeVVXNzdsa2xD?oc=5",
+      "title": "Why Is Grab (GRAB) Down 7% Since Last Earnings Report?",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPODN3T3N2aF9felZKNkcyV2ZzdmVXZkx4R1pkOC05M3dhemgtRExBLUpvYVN0NVJGVkZjLWxzNkx6eTNFNzkxYjlwNE55ZkxmRXdOVWQybXFQZ2cxWEpwbGRiVFNsMExWS1hMVEV3NUh6ZzVsUmtoWW5SeXF1NDFoRGlBSl82SVJKbzkzZ0x3?oc=5",
       "published_at": "2026-09-02T07:00:00",
-      "snippet": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know&nbsp;&nbsp;WAFB",
-      "source": "WAFB",
-      "category": "Global P2P",
-      "ai_summary": "Taking an Uber or Lyft to an LSU game? Here’s what fans need to know&nbsp;&nbsp;WAFB",
+      "snippet": "Why Is Grab (GRAB) Down 7% Since Last Earnings Report?&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "category": "Strategy Decks",
+      "ai_summary": "Why Is Grab (GRAB) Down 7% Since Last Earnings Report?&nbsp;&nbsp;Yahoo Finance",
       "sentiment": "Neutral",
       "tags": [
-        "Shared Mobility"
-      ]
+        "Strategy"
+      ],
+      "academic_analysis": {
+        "systems_impact": "Integrates financial tech with multi-modal dispatch, lowering passenger friction but increasing double-parking density.",
+        "methodological_assumptions": "Assumes auxiliary digital services can subsidize driver vehicle maintenance costs during market supply crunches.",
+        "professors_critique": "Strong localized network effect but remains highly dependent on private vehicle ownership structures.",
+        "systems_efficiency": 78,
+        "policy_friction": 45
+      }
     },
     {
       "title": "Delivery drivers will get minimum wage in Australia’s ‘world-first’ deal. Is it fair – and will Uber Eats cost more?",
@@ -612,26 +532,6 @@
       "tags": [
         "Shared Mobility"
       ]
-    },
-    {
-      "title": "Uber Stock Price Target: Why Wall Street Sees Around 48% Upside From Here in 2026",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUFM1WmdVQnE2Z0xPcEw5VkJYTWlrM0RXZ3VFcmw0SnVTV0J6ZDFMR05BLU9ILUdOeGpCWko1TzA3Q2c1aUVTWmxFQUVQRnFhYThRRDV2SlJITEdEZTVEUW9IUDdSQTZvcXpWUWpvRy1rNHdmQW55OUNPVVdZRWtvMnZNV1g3OUlkRDJEQ1d0cmZlMGt1RjZ0WGVXWlA3YTVWZmMyOGpTNXg?oc=5",
-      "published_at": "2026-06-08T07:00:00",
-      "snippet": "Uber Stock Price Target: Why Wall Street Sees Around 48% Upside From Here in 2026&nbsp;&nbsp;TIKR.com",
-      "source": "TIKR.com",
-      "category": "Strategy Decks",
-      "ai_summary": "Uber Stock Price Target: Why Wall Street Sees Around 48% Upside From Here in 2026&nbsp;&nbsp;TIKR.com",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
-      ],
-      "academic_analysis": {
-        "systems_impact": "Maximizes vehicle utilization rates through autonomous partnerships but heavily spikes local grid peak charging loads.",
-        "methodological_assumptions": "Assumes municipal city councils will allow unrestricted robotaxi geofences without high licensing surcharges.",
-        "professors_critique": "Highly efficient dispatch paradigm that completely minimizes deadheading, yet is extremely vulnerable to municipal blockades.",
-        "systems_efficiency": 85,
-        "policy_friction": 65
-      }
     },
     {
       "title": "Uber pops 8% as company issues higher-than-expected bookings guidance",
@@ -825,19 +725,6 @@
       ]
     },
     {
-      "title": "Uber and Rivian Partner to Deploy up to 50,000 Fully Autonomous Robotaxis",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS0syblVwRUhrTHdEaDVLejM3Q1VBZ21ZNzdlOVoxeUFYRVgtc0ZOdHhaUnhNZl9lN0doUFR0b3lZTDZ2ZkI4SkpiTFdLSXFaRXp4TkRsQWpwUlRuaW14MFIxVjRuQkF4aS1iWEEyWEZnNVZoQmtoTEFSSGtRTFpZc0NHSUVJLWh4WmhjdUZMTm1MWFhVOTJzUzRsbG42c3BBR1owNy1LcFlfLTMy?oc=5",
-      "published_at": "2026-03-19T07:00:00",
-      "snippet": "Uber and Rivian Partner to Deploy up to 50,000 Fully Autonomous Robotaxis&nbsp;&nbsp;Rivian",
-      "source": "Rivian",
-      "category": "Global P2P",
-      "ai_summary": "Uber and Rivian Partner to Deploy up to 50,000 Fully Autonomous Robotaxis&nbsp;&nbsp;Rivian",
-      "sentiment": "Neutral",
-      "tags": [
-        "AV Fleet"
-      ]
-    },
-    {
       "title": "As EV makers seek robotaxi revenue, Lucid unveils Lunar concept to take on Tesla Cybercab",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWUwSlZRVHBQeTdTdGJOZ0Nab0JUbEZtVkptZWx5WHJ4SE5mWUx4dEFZMFBhNnF5TnVGaS04U2gtRDV4bV8tNVBGbC1qS1ZYYVUyR1lwZG1XZG81emJ5RXJ3RGs4eGRLZ3Y2MTZVU2JYVmdzN2xkU1VhRE8wakhfa3ljcWRNU3VyVmc?oc=5",
       "published_at": "2026-03-18T07:00:00",
@@ -910,19 +797,6 @@
         "systems_efficiency": 85,
         "policy_friction": 65
       }
-    },
-    {
-      "title": "Seattle rideshare drivers protest 'flooded' market, demand Uber and Lyft stop adding new drivers",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOOWNYZHQ1U0JXVjVseVRkdlhTdFZvSERSb2MydGhFR2tSU1JobTRmN3h6WkZDTFUxQ3pCOFAtTkdVUkFqMzBFU1lNUVFYdF81bHp0RTd4QTNvby1hWGtfS193WnhnSGVORFQ5b2VNdXdER1ppOVNvd1FLSFhrQTFnMHhxM2FuRW80Q1NDcEl3LVdXSVVINkIwdGlycER3aUFpcEN2c3BSSEN2RHQ2aVNkYXNrLUpYc3FqSVF3WWdSSFI3ZTFicW1zYnJuQ09rbWhqTHhiRmRQQ3JFczRIWXBST05GTlpraGpQd3l6dnhhd0hTTG1mckpv?oc=5",
-      "published_at": "2026-02-25T08:00:00",
-      "snippet": "Seattle rideshare drivers protest 'flooded' market, demand Uber and Lyft stop adding new drivers&nbsp;&nbsp;king5.com",
-      "source": "king5.com",
-      "category": "Global P2P",
-      "ai_summary": "Seattle rideshare drivers protest 'flooded' market, demand Uber and Lyft stop adding new drivers&nbsp;&nbsp;king5.com",
-      "sentiment": "Negative",
-      "tags": [
-        "Labor Elasticity"
-      ]
     },
     {
       "title": "Gemini Can Now Book You an Uber or Order a DoorDash Meal on Your Phone. Here’s How It Works",
@@ -1013,6 +887,19 @@
       ]
     },
     {
+      "title": "Grab formally recognises National Taxi Association",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3RWQTF6eE95clFiOG9pU1c3eVh6akwxOHdlNlFwaDNONWxMUEFHcEFMSXpTeEtoakJqZi0wRjRnOTFzNVpOR20zZ3FzMkd6ZWpuM2VXQ2M2bEs2MzFyaHJFRWRYdHNwSTFLNGRwOXdHYS1wODZCTUpaMW16MWlIWHdCVTFxRmRoN09LWU11c3RBdw?oc=5",
+      "published_at": "2025-11-17T08:00:00",
+      "snippet": "Grab formally recognises National Taxi Association&nbsp;&nbsp;Grab",
+      "source": "Grab",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab formally recognises National Taxi Association&nbsp;&nbsp;Grab",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
       "title": "WeRide and Grab Achieve First Autonomous Vehicle Testing in Singapore’s Punggol District",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ0FHVkdwenJHN0Rpa1FEN3ZmTEF6UHlITEQ2NjdMWk1Nc0FDS2VfUnBuTTBOblItVmk1MVY3dEZWdDB3dTNaLVpjQ0NjVEEyYkRyc1JQMGlrYlhETjZsUlBaNWZTSjNhSGpxcXVIZ3hTZ3BoN3ZyWXhxTzB5UVdtVDlvTk42VHo5QTZ6aVFkX3MzTXRLc1M3VDVjdFRJTWs1VDF3U3VoYVlodDN0LUpsYmhOUkVwdC1BWHpMODdteDQwSWM?oc=5",
       "published_at": "2025-11-13T08:00:00",
@@ -1050,19 +937,6 @@
       "sentiment": "Positive",
       "tags": [
         "Electrification"
-      ]
-    },
-    {
-      "title": "Forget Bolt or Phelps - Phil Ivey says this poker feat tops them all",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaU0tQWhPTXRIZ2JISkpwUnBpdDFtdnU4bG9uamZqYVZIdzczOGl0aWlxS2YxX3BkeGF6UGVCLXpfcXNnS21OVXRrcmx2THpOZThfbmIxbDM0QVl1SG9pWlc5VXhEZnIwTk9PcEE3ZUdMeWlKTG1SMXY3SU9saTVQc2lzcWlENDhIclBCSElmYjlNY3owa0Z2YTBPdUlZSzZ3TWxhdEo0MHVmTmw5bXRCRkFjdUg?oc=5",
-      "published_at": "2025-10-22T07:00:00",
-      "snippet": "Forget Bolt or Phelps - Phil Ivey says this poker feat tops them all&nbsp;&nbsp;Poker.org",
-      "source": "Poker.org",
-      "category": "Global P2P",
-      "ai_summary": "Forget Bolt or Phelps - Phil Ivey says this poker feat tops them all&nbsp;&nbsp;Poker.org",
-      "sentiment": "Neutral",
-      "tags": [
-        "Shared Mobility"
       ]
     },
     {
@@ -1167,6 +1041,123 @@
       "sentiment": "Neutral",
       "tags": [
         "AV Fleet"
+      ]
+    },
+    {
+      "title": "Grab and A2Z Pilot Autonomous Shuttle Bus in Singapore",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEdWaU1kaEdVOGdUTjFqNThTSktBdk1oMXFmeGNMNnNYRFNBT0xtRmcyVGhxWmNmejZKYnNTWkMxMHJfUVVHVmZDQ0xqbzJra2dEMkxYNWxCTmdQX3Rma1E5aVVxd2RpX0tENE9iT1diai0xdVlUelJkakljbVVWSkpoaDU3T2lNaFJ0Ym5WVjI2UzRJOGVV?oc=5",
+      "published_at": "2025-07-08T07:00:00",
+      "snippet": "Grab and A2Z Pilot Autonomous Shuttle Bus in Singapore&nbsp;&nbsp;Grab",
+      "source": "Grab",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab and A2Z Pilot Autonomous Shuttle Bus in Singapore&nbsp;&nbsp;Grab",
+      "sentiment": "Neutral",
+      "tags": [
+        "AV Fleet"
+      ]
+    },
+    {
+      "title": "GrabCab Hits the Roads in Singapore",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Sek02MGtjS3MwcnEtMWxsMEl2bEd3Ml9jaFRjRkkxREtMR09KVVZHRkxHMzdVVmpJOEo1UldxcG5OcVJ1d0ZvZHhIWWp3QnZKSGlicEpodlNmTExkczRoaTA0Y0JYMmdCcWRXZXllRTVUTXBDWlBVeXJlb2lCQQ?oc=5",
+      "published_at": "2025-07-02T07:00:00",
+      "snippet": "GrabCab Hits the Roads in Singapore&nbsp;&nbsp;Grab",
+      "source": "Grab",
+      "category": "Singapore P2P",
+      "ai_summary": "GrabCab Hits the Roads in Singapore&nbsp;&nbsp;Grab",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "What is the future of mobility?",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXVYUmhEMFl4N1BMVjdGdlctVTZQX0JubEc5c0ZzOFlnalZzZ1RpUDRIQ0dLa0J0enkzVmpjcW1NajhaS2V0ZUF0WERYUmk3MDNuNTFVeFctTG9pU2NpdFpVM1kzWFVDUFFfenNlUzdSUFhwd2dKc0ZmNGxVVV80a25JeXVlT19udHQtclBubjB3bGVDZXNzcA?oc=5",
+      "published_at": "2025-06-24T07:00:00",
+      "snippet": "What is the future of mobility?&nbsp;&nbsp;McKinsey & Company",
+      "source": "McKinsey & Company",
+      "category": "Consulting Opinions",
+      "ai_summary": "What is the future of mobility?&nbsp;&nbsp;McKinsey & Company",
+      "sentiment": "Neutral",
+      "tags": [
+        "Strategy"
+      ]
+    },
+    {
+      "title": "Grab Launches First Artificial Intelligence Centre of Excellence with Support from Digital Industry Singapore",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcUFrZ0dpYTlIcGw0VC1jR0QwNjBLb09pMTRjWFpLSHJsc0FOQ0JVRlVURUFOT2dZQk1iRVExY0pSTlhzbTk4RS05OG1LSDlLQVdZXzl5cmRTY0lqd3RZaG5NWURwVHBLVDZ2OEN4Umc3TmEtY21mMk1oTDR0VklOUGptcG5rWnhTTU1YdHo4eHN0SGJyOHo5Qm50MDVQWTRBdVNrTnQtUGI3OXpORlZrOFQ0QUI5V2dXYkhILXVtOXdMaWpYSGFEd2JzcUlzMTZybTVQQlpaZmdiYThtSVk3Sw?oc=5",
+      "published_at": "2025-05-23T07:00:00",
+      "snippet": "Grab Launches First Artificial Intelligence Centre of Excellence with Support from Digital Industry Singapore&nbsp;&nbsp;Grab",
+      "source": "Grab",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab Launches First Artificial Intelligence Centre of Excellence with Support from Digital Industry Singapore&nbsp;&nbsp;Grab",
+      "sentiment": "Positive",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Geospatial Power! GetGo",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtbXI1TnJXdEdNVEZQN3d0UC1CVWYyY0ZURTVKMFd5a2xPeVBGbHVILUdOS2IySVJnS1VPWXpGSzRTU0l1NEFKYzducl91dklXakl0STRPdTZhVHVpZ204TXI3ejF3UlU?oc=5",
+      "published_at": "2025-05-22T07:00:00",
+      "snippet": "Geospatial Power! GetGo&nbsp;&nbsp;Singapore Land Authority",
+      "source": "Singapore Land Authority",
+      "category": "Singapore P2P",
+      "ai_summary": "Geospatial Power! GetGo&nbsp;&nbsp;Singapore Land Authority",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "8 Uber & Lyft Rideshare Safety Tips in 2025",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OOHY2Q2JaeXZ5QjJiWGYxNUctdXlTYzk2X3VQTG5OLVVaeUNhUFhnS0hWTFZkUVZMVnQ0YXFUdXZvSkI5VVNyZFVrNHVfR3NYamt6My1TRklLTnRiZzlTVE5KZGl1Vl9YLWZkOWZ2TQ?oc=5",
+      "published_at": "2025-05-09T07:00:00",
+      "snippet": "8 Uber & Lyft Rideshare Safety Tips in 2025&nbsp;&nbsp;Sokolove Law",
+      "source": "Sokolove Law",
+      "category": "Global P2P",
+      "ai_summary": "8 Uber & Lyft Rideshare Safety Tips in 2025&nbsp;&nbsp;Sokolove Law",
+      "sentiment": "Neutral",
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "title": "Grab Announces Leadership Appointments in Singapore and Vietnam",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0dCaE1TckthVFhoZDBjcG9VZUtMNzE4ei1aMHZvSjBDdjhHeXhkamx1OGU5WmZzMUhXMHZOT2cxQzAtdmFoSi1qU0dfdkpxYmxZWTI5ODdGWXRXZUR0dnd1QnF0V2Zza2JMbkU4YUE2U2ZVWnlSWko4UjdySEJOYWNERXFqbm1LSWJORGQ5TU9ocEphQ3QxU1ZqWTFWM3NOekFR?oc=5",
+      "published_at": "2025-05-05T07:00:00",
+      "snippet": "Grab Announces Leadership Appointments in Singapore and Vietnam&nbsp;&nbsp;Grab",
+      "source": "Grab",
+      "category": "Singapore P2P",
+      "ai_summary": "Grab Announces Leadership Appointments in Singapore and Vietnam&nbsp;&nbsp;Grab",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "Driving Attention, Delivering Results | Uber Advertising",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16RkVPdHJBZ2FJM1R5RHd1YXZZUmI3WVdpT0VMY3ZIRE5iQWVRSkhIV050OHJfUGpfQ185by11YXBfWlltMXAwQ0dFLW12Z19XSHMzQXQtUEl5Y0h5c0ZfbDRadnV2T1BvRHNRQlNhVEFfYjkw?oc=5",
+      "published_at": "2025-04-01T23:56:02",
+      "snippet": "Driving Attention, Delivering Results | Uber Advertising&nbsp;&nbsp;Uber",
+      "source": "Uber",
+      "category": "Global P2P",
+      "ai_summary": "Driving Attention, Delivering Results | Uber Advertising&nbsp;&nbsp;Uber",
+      "sentiment": "Neutral",
+      "tags": [
+        "Shared Mobility"
+      ]
+    },
+    {
+      "title": "They Were Deactivated From Delivering. Their Finances Were Devastated. (Published 2025)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2tXN1lHQzZtVFhfOUxmUXpfX1F5QzlwUjBqc0dhaG56V0RudE5vMDBXbmFPWHRmWndmM24tc1Zob2xRNkJvWHZYbUNrVHJ2YTFWZzRnOG1UWS16MTJYdy1zRmM3Q1FQSThPNDdPemVOTFRKVlRCNmFEV2VnOTdfaEUyaGxRV1U?oc=5",
+      "published_at": "2025-03-31T07:00:00",
+      "snippet": "They Were Deactivated From Delivering. Their Finances Were Devastated. (Published 2025)&nbsp;&nbsp;The New York Times",
+      "source": "The New York Times",
+      "category": "Global P2P",
+      "ai_summary": "They Were Deactivated From Delivering. Their Finances Were Devastated. (Published 2025)&nbsp;&nbsp;The New York Times",
+      "sentiment": "Neutral",
+      "tags": [
+        "Electrification"
       ]
     }
   ]
